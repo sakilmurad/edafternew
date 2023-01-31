@@ -1,8 +1,12 @@
 ---
 sidebar_position: 1
+title: GeM Portal Seller Course - Beginner to Advanced
+slug: gem-portal-course
+sidebar_label: Introduction
 ---
 
-# Tutorial Intro
+# GeM Portal Course
+
 
 Let's discover **Docusaurus in less than 5 minutes**.
 

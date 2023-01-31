@@ -4,42 +4,49 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'We build your business',
+    img: "img/business1.svg",
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        There are too many things to do to succeed in the industry. Don't worry we take care of it. We offer some courses to make it better understand the need of the industry.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'GeM Portal Course',
+    img: "img/business2.svg",
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        GeM (Government e-Marketplace) is an very popular and fast growing online platform for public procurement in India. We help business to grow their business in the government sector.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Training Sessions',
+    img: "img/consultant.svg",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We have recorded too many training videos on the available topics. We can record more videos on your suggested topic.
       </>
     ),
   },
+  {
+    title: 'Free Tools',
+    img: "img/tools.svg",
+    description: (
+      <>
+       There are too many free tools available for your ease. These tools will make it very fast to create your document for a bid. Now you don't need to waste your time for repeating works.
+      </>
+    ),
+  }
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({img, title, description}) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--6')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={img} className={styles.featureSvg} role="img" />
+        {/* <Svg className={styles.featureSvg} role="img" /> */}
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>

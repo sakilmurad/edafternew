@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Where we build your dafter smart and efficient`}
+      description="Learn, build and grow your business with free courses, tools and the services offered by Edafter">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
