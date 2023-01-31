@@ -1,51 +1,55 @@
 ---
 sidebar_position: 1
-title: GeM Portal Seller Course - Beginner to Advanced
+title: GeM Portal Course - Beginner to Advanced
 slug: gem-portal-course
 sidebar_label: Introduction
 ---
 
-# GeM Portal Course
+# GeM Portal Course for Sellers
 
+**GeM (Government e-Marketplace)** is an online procurement portal launched by Government of India to make public procurements more efficient and transparent.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+GeM Portal is very easy to use software both for Sellers and Buyers.
 
-## Getting Started
+Edafter offers a **Free GeM Portal Course** for sellers where they can learn and mastery the GeM Portal.
 
-Get started by **creating a new site**.
+<a class="btn" href="category/account-creation">Get Started</a>
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## About GeM Portal Training
 
-### What you'll need
+We have everything ready for you on the site. You can [get started](category/account-creation) for free. There are both written and [video version](https://www.youtube.com/@edafter) available for the course so you can get started with your choice and become an expert of GeM Portal and grow your business in government sectors.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Everything is Online
+We are making everything online. Means you do not need to connect a person who teach you. We build everything on the web. Read in the suitable language and bookmark for future.
 
-## Generate a new site
+### Everything is for Free
+Free means Free. There is no hidden charges to be paid by you to starting the training.
 
-Generate a new Docusaurus site using the **classic template**.
+### Support
+You can get in touch with us for any support via mail or telegram.
 
-The classic template will automatically be added to your project after you run the command:
+## What will you learn?
+This course is divided into seven sections.
+1. Account Creation
+2. Profile
+3. Catalog
+4. Bid/RA
+5. Orders
+6. Incidents
+7. Bonus
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### [Account Creation](category/account-creation)
+Learn about the pre-requisite for a seller or service provider to get their self registered on GeM Portal and all the required steps to be taken for registration.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### [Profile](category/profile)
+Everything about **Caution Money**, **My Company**, **My Action**, **Personal Settings**, and **My Team** is discussed very deeply in this section. This section will help sellers to get their profile 100% complete and start adding their products or services on GeM Portal.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### [Catalog](category/catalog)
 
-## Start your site
+### [Bid/RA](category/bidra)
 
-Run the development server:
+### [Orders](category/orders)
 
-```bash
-cd my-website
-npm run start
-```
+### [Incidents](category/incidents)
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### [Bonus](category/bonus)
