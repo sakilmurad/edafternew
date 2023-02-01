@@ -51,8 +51,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/sakilmurad/edafternew/',
+          // editUrl:
+          //   'https://github.com/sakilmurad/edafternew/',
         },
         blog: {
           showReadingTime: true,
@@ -62,8 +62,8 @@ const config = {
           blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/sakilmurad/edafternew/',
+          // editUrl:
+          //   'https://github.com/sakilmurad/edafternew/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -81,6 +81,8 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
+        hideOnScroll: true,
+        
         logo: {
           alt: 'Edafter Logo',
           src: 'img/logo.png',
@@ -93,39 +95,43 @@ const config = {
             label: 'GeM Portal Course',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/sakilmurad/edafternew',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/sakilmurad/edafternew',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
         style: 'light',
         links: [
           {
-            title: 'Docs',
+            title: 'Edafter',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'About',
+                to: '/about',
+              },
+              {
+                label: 'Privacy Policy',
+                to: '/privacy-policy',
+              },
+              {
+                label: 'Terms and Conditions',
+                to: '/terms-and-conditions',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Resources',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'GeM Portal Course',
+                to: '/docs/gem-portal-course',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Tools',
+                to: '/tools',
               },
             ],
           },
@@ -135,6 +141,10 @@ const config = {
               {
                 label: 'Contact',
                 to: '/contact',
+              },
+              {
+                label: "Telegram",
+                href: "https://t.me/gemmarketplace",
               },
               {
                 label: 'Youtube',
