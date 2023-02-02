@@ -1,0 +1,8 @@
+{
+  "label": "My Actions",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "See and manage your directors info in My Action Tab in Seller Profile on GeM"
+  }
+}
