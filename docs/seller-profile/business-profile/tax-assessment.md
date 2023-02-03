@@ -29,6 +29,28 @@ Example:
 </TabItem>
 <TabItem value="Add new Tax Assessment" label="Add new Tax Assessment">
 
+Follow the steps below to add new tax assessment details to your GeM Profile.
+
+:::note
+
+Select appropriate assessment year from the drop-down.For each of the assessment year enter the information on the subsequent columns as following:
+- Acknowledgement No. for ITR – Enter the correct Acknowledge No. in this field as submitted in the ITR
+- Sale/Gross Receipts of Business – Net of returns and refunds and duty of taxes if any as submitted in your ITR.
+- Profit and gain from business or profession as submitted in your ITR.
+
+:::
+
+- **PAN** - Enter your personal PAN (Key Person's PAN) Number
+- **ITR Type** - Select proper ITR (as per your ITR Acknowledgment)
+- **Assessment Year** - Select Assessment Year
+- **Acknowledgement number for ITR** - Enter acknowledgement number (printed on ITR filling acknowledgment slip)
+- **Profit and Gain from Business or Profession** - Enter Profit and Gain you earned in the assessment year from your business
+- **Sale/Gross Receipts of business** - Enter gross sale of your business
+
+:::info
+
+Information entered here shall be validated with your ITR records. Please enter all the details with the help of your CA.
+
 :::
 
 </TabItem>

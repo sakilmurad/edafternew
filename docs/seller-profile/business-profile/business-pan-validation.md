@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Business PAN Validation on GeM Portal
-sidebar_label: Organization Profile
+sidebar_label: Business PAN Validation
 description: Validate your business PAN on GeM Portal to complete your seller profile
 ---
 
@@ -13,10 +13,10 @@ Business PAN number entered in this section will be used for tax return purposes
 
 You need to follow the below steps:
 
-1. Enter your business PAN Number (Personal PAN Number in case of proprietership)
+1. Enter your business PAN Number (Personal PAN Number in case of proprietorship)
 
 2. Enter Name (as in PAN)
 
-3. Click on the Proceed button
+3. Click on the `Proceed` button
 
-Business PAN details verified successfully
+:white_check_mark: Business PAN details verified successfully
