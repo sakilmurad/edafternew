@@ -1,11 +1,11 @@
 ---
 sidebar_position: 8
-title: e-Invoicing on GeM Portal
+title: e-Invoicing on GeM
 sidebar_label: e-Invoicing
-description: e-Invoicing declaration in GeM Seller Profile
+description: e-Invoicing declaration in GeM (Government e-Marketplace) Seller Profile
 ---
 
-# e-Invoicing on GeM Portal
+# e-Invoicing on GeM
 e Invoice declaration facilitates faster turnaround time of your transactions.
 
 :::info

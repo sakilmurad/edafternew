@@ -1,11 +1,11 @@
 ---
 sidebar_position: 3
-title: Business Details on GeM Portal
+title: Business Details on GeM
 sidebar_label: Business Details
-description: Enter business name and date of incorporation in GeM Seller Profile
+description: Enter business name and date of incorporation in GeM (Government e-Marketplace) Seller Profile
 ---
 
-# Business Details on GeM Portal
+# Business Details on GeM
 
 You can manage your business name and date of incorporation in your GeM Seller Profile.
 

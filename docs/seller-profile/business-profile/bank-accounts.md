@@ -1,14 +1,14 @@
 ---
 sidebar_position: 6
-title: Bank Accounts on GeM Portal
+title: Bank Accounts on GeM
 sidebar_label: Bank Accounts
-description: Add and manage your bank account in GeM Seller Profile
+description: Add and manage your bank account in GeM (Government e-Marketplace) Seller Profile
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Bank Accounts on GeM Portal
+# Bank Accounts on GeM
 You can add, edit and delete your bank accounts in this section.
 
 You can add multiple Bank accounts for your Business. <mark>One account must be selected as Primary account.</mark>

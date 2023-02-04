@@ -42,7 +42,7 @@ This course is divided into seven sections.
 ### [Account Creation](category/account-creation)
 Learn about the pre-requisite for a seller or service provider to get their self registered on GeM Portal and all the required steps to be taken for registration.
 
-### [Profile](category/profile)
+### [Profile](category/seller-profile)
 Everything about **Caution Money**, **My Company**, **My Action**, **Personal Settings**, and **My Team** is discussed very deeply in this section. This section will help sellers to get their profile 100% complete and start adding their products or services on GeM Portal.
 
 ### [Catalog](category/catalog)

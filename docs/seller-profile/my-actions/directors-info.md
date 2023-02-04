@@ -1,11 +1,11 @@
 ---
 sidebar_position: 1
-title: Directors Info on GeM Portal
+title: Directors Info on GeM
 sidebar_label: Directors Info
-description: Manage your company's Directors Info in GeM Seller Profile
+description: Manage your company's Directors Info in GeM (Government e-Marketplace) Seller Profile
 ---
 
-# Directors Info on GeM Portal
+# Directors Info on GeM
 Manage your company's director info.
 
 :::danger note

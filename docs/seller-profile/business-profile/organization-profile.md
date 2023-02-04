@@ -1,11 +1,11 @@
 ---
 sidebar_position: 1
-title: Organization Profile on GeM Portal
+title: Organization Profile on GeM
 sidebar_label: Organization Profile
-description: Summary of your Seller Business Profile with GeM
+description: Summary of your Seller Business Profile with GeM (Government e-Marketplace).
 ---
 
-# Organization Profile on GeM Portal
+# Organization Profile on GeM
 
 You can view your organization profile details in this section.
 

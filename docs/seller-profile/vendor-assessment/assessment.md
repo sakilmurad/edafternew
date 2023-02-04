@@ -1,11 +1,11 @@
 ---
 sidebar_position: 1
-title: Vendor Assessments on GeM Portal
+title: Vendor Assessments on GeM
 sidebar_label: Assessments
-description: View and apply for vendor assessment for OEM panels on GeM Portal
+description: View and apply for vendor assessment for OEM panels on GeM (Government e-Marketplace) Portal
 ---
 
-# Vendor Assessments on GeM Portal
+# Vendor Assessments on GeM
 A Seller can Initiate Vendor assessment for the eligible category. The assessment is done by a third Party Verifying Agency
 
 :::info Notes
@@ -17,3 +17,10 @@ A Seller can Initiate Vendor assessment for the eligible category. The assessmen
 - On 21st day of payment of fee Vendor Assessment Report to be made available on GeM portal.
 
 :::
+
+## How to initiate vendor assessment
+First you should have go through the [Vendor Assessment Policy document](https://assets-bg.gem.gov.in/resources/upload/shared_doc/vendor-validation-policy-v3_1601553886.pdf).
+
+If you are eligible for the vendor assessment, you can initiate new vendor assessment request by clicking `NEW ASSESSMENT REQUEST` button.
+
+Follow this guide to initiate new vendor assessment request: https://assets-bg.gem.gov.in/resources/pdf/user_manual_gem_va.pdf

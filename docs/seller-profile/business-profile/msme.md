@@ -1,11 +1,11 @@
 ---
 sidebar_position: 10
-title: MSME on GeM Portal
+title: MSME on GeM
 sidebar_label: MSME
-description: Enter and validate MSME Udyog (Udyam) Aadhaar details in GeM Seller Profile
+description: Enter and validate MSME Udyog (Udyam) Aadhaar details in GeM (Government e-Marketplace) Seller Profile
 ---
 
-# MSME on GeM Portal
+# MSME on GeM
 
 Enter and manage your MSME Udyam Aadhaar detils in this tab.
 

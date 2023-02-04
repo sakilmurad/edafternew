@@ -1,11 +1,11 @@
 ---
 sidebar_position: 4
-title: Additional Details of Profile on GeM Portal
+title: Additional Details of Profile on GeM
 sidebar_label: Additional Details
-description: Manage and select your business preferences in GeM Seller Profile
+description: Manage and select your business preferences in GeM (Government e-Marketplace) Seller Profile
 ---
 
-# Additional Details of Profile on GeM Portal
+# Additional Details of Profile on GeM
 
 Manage your business preference for **Startup**, **MSE** and **Bid Participation**.
 
@@ -27,7 +27,7 @@ If you are registered with Udyam as Micro or Small Enterprises (MSE). You can se
 
 :::info
 
-Enter your Udyam registration details and verify with the registered phone number in the MSE Tab. [learn more](/docs/seller-profile/business-profile/mse).
+Enter your Udyam registration details and verify with the registered phone number in the MSE Tab. [learn more](/docs/seller-profile/business-profile/msme).
 
 :::
 

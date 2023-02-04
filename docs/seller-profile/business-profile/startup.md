@@ -1,11 +1,11 @@
 ---
 sidebar_position: 12
-title: Startup on GeM Portal
+title: Startup on GeM
 sidebar_label: Startup
-description: Startup India declaration on GeM Portal
+description: Startup India declaration on GeM (Government e-Marketplace) Portal
 ---
 
-# Startup on GeM Portal
+# Startup on GeM
 If you are registered with Startup India, you can define here.
 
 ## What is Startup India

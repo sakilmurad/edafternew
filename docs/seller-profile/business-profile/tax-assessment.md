@@ -1,14 +1,14 @@
 ---
 sidebar_position: 7
-title: Tax Assessment on GeM Portal
+title: Tax Assessment on GeM
 sidebar_label: Tax Assessment
-description: Manage your Income Tax Return (ITR) details in GeM Seller Profile
+description: Manage your Income Tax Return (ITR) details in GeM (Government e-Marketplace) Seller Profile
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Tax Assessment on GeM Portal
+# Tax Assessment on GeM
 Enter your ITR details to varify your Tax Assessment in your GeM Seller Profile.
 
 :::info Note

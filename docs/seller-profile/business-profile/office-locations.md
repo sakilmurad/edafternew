@@ -1,14 +1,14 @@
 ---
 sidebar_position: 5
-title: Office Locations on GeM Portal
+title: Office Locations on GeM
 sidebar_label: Office Locations
-description: Add and manage your office locations in GeM Seller Profile
+description: Add and manage your office locations in GeM (Government e-Marketplace) Seller Profile
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Office Locations on GeM Portal
+# Office Locations on GeM
 You can add, edit and delete your company's billing, godown, service center, and manufacturing address in this section.
 
 You can add multiple office locations as per their function/type for your Business.

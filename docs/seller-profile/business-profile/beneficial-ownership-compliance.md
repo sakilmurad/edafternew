@@ -1,11 +1,11 @@
 ---
 sidebar_position: 11
-title: Beneficial Ownership Compliance on GeM Portal
+title: Beneficial Ownership Compliance on GeM
 sidebar_label: Beneficial Ownership Compliance
-description: confirm your compliance regarding restrictions under Rule 144(xi) of the General Financial Rules (GFR), 2017 on GeM Portal
+description: confirm your compliance regarding restrictions under Rule 144(xi) of the General Financial Rules (GFR), 2017 on GeM (Government e-Marketplace) Portal
 ---
 
-# Beneficial Ownership Compliance on GeM Portal
+# Beneficial Ownership Compliance on GeM
 There are **Compliance of Restrictions under Rule 144 (xi) of GFR 2017** and **clause no 26** in [GeM GTC](https://assets-bg.gem.gov.in/resources/pdf/GTC_on_GeM_3.0_v1.14.pdf) about restrictions on procurement from a bidder of a country which shares a land border with India
 
 - **Not sharing Land Border with India**:

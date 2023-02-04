@@ -1,11 +1,11 @@
 ---
 sidebar_position: 13
-title: Logistics on GeM Portal
+title: Logistics on GeM
 sidebar_label: Logistics
-description: Link your GeM Business Profile account with Logistic providers on GeM Portal
+description: Link your GeM (Government e-Marketplace) Business Profile account with Logistic providers on GeM Portal
 ---
 
-# Logistics on GeM Portal
+# Logistics on GeM
 A Seller can link their GeM Business Profile account if they are registered with listed Logistics Service Provider
 
 :::info

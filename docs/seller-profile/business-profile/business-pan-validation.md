@@ -1,11 +1,11 @@
 ---
 sidebar_position: 2
-title: Business PAN Validation on GeM Portal
+title: Business PAN Validation on GeM
 sidebar_label: Business PAN Validation
-description: Validate your business PAN on GeM Portal to complete your seller profile
+description: Validate your business PAN on GeM (Government e-Marketplace) Portal to complete your seller profile
 ---
 
-# Business PAN Validation on GeM Portal
+# Business PAN Validation on GeM
 
 Validate your business PAN to complete your profile on the GeM Portal.
 
