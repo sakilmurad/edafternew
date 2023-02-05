@@ -95,6 +95,7 @@ const config = {
             label: 'GeM Portal Course',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/tools', label: 'Tools', position: 'left'},
           // {
           //   href: 'https://github.com/sakilmurad/edafternew',
           //   label: 'GitHub',

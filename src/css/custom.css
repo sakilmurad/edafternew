@@ -7,12 +7,12 @@
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #FF5E18;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary-dark: #ff6625;
+  --ifm-color-primary-darker: #fd753b;
+  --ifm-color-primary-darkest: #fa7b45;
+  --ifm-color-primary-light: #fd8450;
+  --ifm-color-primary-lighter: #f88858;
+  --ifm-color-primary-lightest: #ff976b;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
@@ -20,12 +20,12 @@
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #FF5E18;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary-dark: #ff6625;
+  --ifm-color-primary-darker: #fd753b;
+  --ifm-color-primary-darkest: #fa7b45;
+  --ifm-color-primary-light: #fd8450;
+  --ifm-color-primary-lighter: #f88858;
+  --ifm-color-primary-lightest: #f07039;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
@@ -45,4 +45,72 @@
 
 .center{
   text-align: center;
+}
+
+main img{
+  border: none;
+  border-radius: 7px;
+  transition: 0.2s;
+  box-shadow: 10px 7px 19px -4px rgba(0,0,0,0.79);
+-webkit-box-shadow: 10px 7px 19px -4px rgba(0,0,0,0.79);
+-moz-box-shadow: 10px 7px 19px -4px rgba(0,0,0,0.79);
+}
+
+main img:hover{
+ scale: 1.01;
+}
+
+
+form {
+  max-width: 500px;
+  width: 100%;
+  margin: 1rem auto;
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+  text-align: left;
+  
+}
+
+.form_div {
+  display: grid;
+  padding: 0.2rem 0;
+  gap: 0.5rem 0;
+}
+
+.form_field {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  position: relative;
+  margin-bottom: 0.5rem;
+}
+
+input,
+textarea {
+  padding: 1em 0.5rem;
+  border-radius: 0.25rem;
+  /* border: 0; */
+}
+
+form button{
+  margin-top: 0.25rem;
+  justify-self: center;
+  border: none;
+  color: #fff;
+  background-color: var(--ifm-color-primary);
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  font-weight: 700;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  cursor: pointer;
+}
+
+/* Using the has selector to automatically mark required form fields  */
+label:has(+ :required)::after {
+  content: ' *';
+  color: #f68ea6;
 }
