@@ -13,6 +13,9 @@ GeM has classified its categories in four quadrants
 3. Q3
 4. Q4
 
+You can search 
+![Categories on GeM](/img/doc/categories.jpg)
+
 ## Quadrant 1
 ## Quadrant 2
 ## Quadrant 3
