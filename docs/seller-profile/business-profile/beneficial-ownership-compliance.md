@@ -19,6 +19,8 @@ If your are from the country which shared the land border with India, you have t
 Fill out this declaration and select second option[^2].
 Upload the declaration and Verify with OTP.
 
+![Beneficial Ownership Declaration](/img/doc/beneficial-ownership-declaration.jpg)
+
 :::danger Caution
 
 Any false declaration and non-compliance of the GeM GTC would be a ground for immediate termination of the contract and further legal action in accordance with the laws.

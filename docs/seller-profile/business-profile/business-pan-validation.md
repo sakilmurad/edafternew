@@ -9,6 +9,8 @@ description: Validate your business PAN on GeM (Government e-Marketplace) Portal
 
 Validate your business PAN to complete your profile on the GeM Portal.
 
+![Business PAN Validation](/img/doc/business-pan-validation.jpg)
+
 Business PAN number entered in this section will be used for tax return purposes
 
 You need to follow the below steps:

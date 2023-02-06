@@ -8,6 +8,8 @@ description: Apply for vendor assessment exemption for OEM Panel on GeM (Governm
 # Vendor Assessments Exemption on GeM
 A seller can apply for vendor assessment exemption if his/her business is eligible as per Policy.
 
+![Vendor Assessments Exemption](/img/doc/vendor-assessment-exemption.jpg)
+
 :::info
 
 - Zero fee is applicable on Vendor Exemption Assessment

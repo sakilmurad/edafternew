@@ -18,11 +18,20 @@ Below are the **steps for registration on the GeM Portal as a Seller or Service 
 
 1. Navigate to the official website of the [GEM (Government e-Marketplace)](https://gem.gov.in).
 2. In the top right corner (as of now), find the `Sign up` dropdown. Click on the `seller` button or just [this link](https://mkp.gem.gov.in/registration/signup#!/seller) to directly go the Seller Registration page
+
+![Seller Registration](/img/doc/seller-signup.jpg)
+
 3. Before moving forward you must read the [GeM Term and Conditions (42 Pages)](https://mkp.gem.gov.in/GTC_on_GeM_3.0_v1.15.pdf)
 4. Click on the `REVIEW TERMS AND CONDITIONS` Button and accept their Terms and Conditions.
+
+![Terms and Conditions](/img/doc/terms-and-conditions.jpg)
+
 5. Now the registration form will appear as follows:
 6. Select your Business / Organization Type i.e: Proprietorship, Firm, Company etc.
 7. Enter your business name
+
+![Organization Name](/img/doc/organization-details.jpg)
+
 8. Click on the `NEXT` Button
 
 The second tab will open with the name `Personal Verification`.
@@ -33,6 +42,8 @@ Basically there are two ways to get registered as a GeM Seller or GeM service pr
 <TabItem value="Registration using AADHAAR" label="Registration using AADHAAR">
 
 In this process you must have your phone number linked to your Aadhaar
+
+![Aadhaar Verification](/img/doc/aadhaar-verification.jpg)
 
 9. Now in the field of "Authenticate yourself using", select `Aadhaar`
 10. Enter your Aadhaar number / virtual ID and the mobile number linked to your Aadhaar. After entering both, tick on consent and then `VERIFY AADHAAR`
@@ -48,6 +59,8 @@ Congratulations on creating your GeM Seller account using AADHAAR.
 <TabItem value="Registration using PAN" label="Registration using PAN">
 
 In this process you must have your phone number linked to your PAN.
+
+![PAN Verification](/img/doc/personal-verification.jpg)
 
 9. Select `Personal PAN` in `Authenticate yourself using`
 10. Enter your PAN details

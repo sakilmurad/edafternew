@@ -8,6 +8,8 @@ description: Close GeM (Government e-Marketplace) seller Account and get your ca
 # Close GeM Seller Account
 A seller can close his/her GeM Seller account using this module.
 
+![Close Account](/img/doc/close-account.jpg)
+
 :::danger notice
 
 - If you close your account, your account will be closed permanently. You will not be able to login with this account. In addition, all the secondary seller accounts will also be closed

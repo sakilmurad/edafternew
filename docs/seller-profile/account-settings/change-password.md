@@ -8,6 +8,8 @@ description: Change and update password of your GeM (Government e-Marketplace) s
 # Change Password of GeM Seller Account
 Sellers can update or change their GeM Seller Account's password using this module.
 
+![Change Password](/img/doc/change-password.jpg)
+
 Click on `GET OTP` and verify with the OTP you received
 
 Enter the new password and save it.

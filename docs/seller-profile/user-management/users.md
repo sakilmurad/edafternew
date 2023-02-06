@@ -13,9 +13,15 @@ The Seller Primary User can create upto 50 Secondary Users and manage their role
 
 <Tabs>
 <TabItem value="Manage Users" label="Manage Users">
+
+![Manage Users](/img/doc/manage-user.jpg)
+
 ---to be added---
 </TabItem>
 <TabItem value="Add Secondary User" label="Add Secondary User">
+
+![Add Secondary User](/img/doc/add-secondary-user.jpg)
+
 ---to be added---
 </TabItem>
 </Tabs>

@@ -9,6 +9,8 @@ description: Manage and select your business preferences in GeM (Government e-Ma
 
 Manage your business preference for **Startup**, **MSE** and **Bid Participation**.
 
+![Additional Details](/img/doc/additional-details.jpg)
+
 ### Are you registered with DPIIT as a Startup ?
 If you are registered with Startup India, you can select Yes in this option.
 

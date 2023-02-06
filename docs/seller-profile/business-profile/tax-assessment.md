@@ -22,6 +22,8 @@ In case your date of incorporation is more than 24 months and you are not provid
 
 Example:
 
+![Tax Assessment](/img/doc/tax-assessment.jpg)
+
 | Verification Status | ITR Type / PAN | Assessment year | Sale/Gross Receipts of business | ACTION |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | :white_check_mark: Verified | ITR-6 / AALXXXXXXX | 2019-2020 | ₹ 9,05,000 |  EDIT [^1]
@@ -30,6 +32,8 @@ Example:
 <TabItem value="Add new Tax Assessment" label="Add new Tax Assessment">
 
 Follow the steps below to add new tax assessment details to your GeM Profile.
+
+![Add New Tax Assessment](/img/doc/add-new-tax-assessment.jpg)
 
 :::note
 

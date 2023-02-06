@@ -8,6 +8,8 @@ description: Link your GeM (Government e-Marketplace) Business Profile account w
 # Logistics on GeM
 A Seller can link their GeM Business Profile account if they are registered with listed Logistics Service Provider
 
+![Logistic](/img/doc/logistics.jpg)
+
 :::info
 
 This option will help you to book and manage your consignment directly from the GeM Portal.

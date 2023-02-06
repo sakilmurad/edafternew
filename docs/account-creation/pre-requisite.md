@@ -10,6 +10,8 @@ import TabItem from '@theme/TabItem';
 # Pre-requisite for GeM Seller Registration
 This module covers the prerequisites for registering as a seller on the Government e-Marketplace (GeM) platform.
 
+<a href="https://mkp.gem.gov.in/seller-registration-pre-requisites-v1.2.pdf" class="btn">View All Pre-requisites</a>
+
 ## Required Documents
 Below are the required documents for registration of a seller on GeM Portal.
 <Tabs>

@@ -8,6 +8,8 @@ description: Manage your company's Directors Info in GeM (Government e-Marketpla
 # Directors Info on GeM
 Manage your company's director info.
 
+![Director Information](/img/doc/director-info.jpg)
+
 :::danger note
 
 This option won't show for proprietors

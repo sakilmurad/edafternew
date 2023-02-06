@@ -32,6 +32,9 @@ IV | Rs 20 crore | 01.04.2022 | [1/2022 – Central Tax](https://wp.d.cleartax.c
 If you are in the above table then you need to declare e-invoicing on the GeM portal.
 
 ### Steps
+
+![e-Invoice](/img/doc/e-invoice-declaration.jpg)
+
 - **Turnover(max in 3 year)** - Enter your last 3 year's  maximum turnover (should be greater than 20 crores)
 - **Specific category excluded from compliance to e-invoicing as notified** - Select `No` as you have to declare e-Invoicing. 
 - Click on `GET OTP` and verify with the OTP you receive.

@@ -43,6 +43,9 @@ There are several benefits for MSMEs on GeM Portal such as:
 3. Preference in financial Bid
 
 ## Steps
+
+![MSME](/img/doc/msme.jpg)
+
 - Enter Udyam Number
 - Enter Registered Phone No
 - Verify with the OTP

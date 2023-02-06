@@ -9,6 +9,8 @@ description: Enter business name and date of incorporation in GeM (Government e-
 
 You can manage your business name and date of incorporation in your GeM Seller Profile.
 
+![Business Details](/img/doc/business-details.jpg)
+
 **For the Proprietary**:
 
 Enter your trade name (business name) as per your PAN or GST

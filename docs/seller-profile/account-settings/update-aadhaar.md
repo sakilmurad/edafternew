@@ -8,6 +8,8 @@ description: Update your aadhaar details on GeM (Government e-Marketplace) selle
 # Update Aadhaar on GeM
 Sellers can update their Aadhaar details in their GeM seller profile using this module.
 
+![Update Aadhaar](/img/doc/update-aadhaar.jpg)
+
 :::danger Info
 
 On Aadhaar update, Key Person Validation has to be reverified

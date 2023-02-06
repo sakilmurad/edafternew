@@ -7,6 +7,9 @@ description: Key Person Validation in GeM (Government e-Marketplace) Seller Prof
 
 # Key Person Validation on GeM
 Follow the steps below to validate key person details in your GeM seller profile.
+
+![Key Personal Validation](/img/doc/key-person-validation.jpg)
+
 - **Company PAN** - Enter your company PAN No
 - **Authorized Person Name** - Enter the name as per ITR details (Name should be as per PAN)
 - **ITR Type** - Select ITR Type

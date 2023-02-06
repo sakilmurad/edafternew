@@ -26,6 +26,8 @@ Don't have a PFMS verification yet? Don’t worry, you can proceed with a non-PF
 
 Example:
 
+![Bank Account](/img/doc/bank-accounts.jpg)
+
 | IFSC | Bank Name | Bank Account Number | Account Holder Name | PFMS Code | Is Primary? | ACTION |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | SBIN0000691 | State Bank of India | XXXXXXXXXXX | Edafter| VADLNO00000 | Yes/NO | DELETE [^1]   EDIT [^2] |
@@ -34,6 +36,8 @@ Example:
 <TabItem value="Add new Bank Account" label="Add new Bank Account">
 
 Follow the steps below to add a new bank account to your GeM seller profile.
+
+![Add New Bank Account](/img/doc/add-new-bank-account.jpg)
 
 1. On entering your bank's IFSC Code, the system will automatically fetch your bank name and address
 2. Enter the account holder's name

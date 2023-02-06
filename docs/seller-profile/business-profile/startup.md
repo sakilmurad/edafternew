@@ -8,6 +8,8 @@ description: Startup India declaration on GeM (Government e-Marketplace) Portal
 # Startup on GeM
 If you are registered with Startup India, you can define here.
 
+![Startup](/img/doc/startup.jpg)
+
 ## What is Startup India
 Startup India is an initiative of the Government of India. The campaign was first announced by Indian Prime Minister, Narendra Modi during his speech on 15 August 2015. The action plan of this initiative is focussing on three areas: Simplification and Handholding. Funding Support and Incentives.
 

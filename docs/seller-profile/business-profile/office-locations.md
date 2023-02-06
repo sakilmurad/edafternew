@@ -24,6 +24,8 @@ You need to update your GSTIN for getting the orders above 40 lakhs.
 
 Example:
 
+![Office Location](/img/doc/office-locations.jpg)
+
 | Office | Address | GSTIN | ACTION |
 | ----------- | ----------- | ----------- | ----------- |
 | XYZ Pvt Ltd / Address Type [^1] | Full Address, Phone No., Email | AAAAA0000A  | DELETE [^2]   EDIT [^3] |
@@ -32,6 +34,8 @@ Example:
 <TabItem value="Add New Office" label="Add New Office">
 
 Follow the steps below to add a new office address to your GeM seller profile.
+
+![Add new Office Location](/img/doc/add-new-office.jpg)
 
 1. Enter Office Name (Your company name)
 2. Select the type of office (such as Billing, Manufacturing, Service Center or Godown)

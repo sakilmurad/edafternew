@@ -9,6 +9,8 @@ description: Summary of your Seller Business Profile with GeM (Government e-Mark
 
 You can view your organization profile details in this section.
 
+![Organization Profile](/img/doc/organization-profile.jpg)
+
 Let's understand them in detail.
 
 - **Business / Organisation Type** - Your business type

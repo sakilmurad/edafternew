@@ -8,6 +8,8 @@ description: View and apply for vendor assessment for OEM panels on GeM (Governm
 # Vendor Assessments on GeM
 A Seller can Initiate Vendor assessment for the eligible category. The assessment is done by a third Party Verifying Agency
 
+![Vendor Assessments](/img/doc/vendor-assessment.jpg)
+
 :::info Notes
 
 - Vendor Assessment is mandatory for OEMs (unless exempted under VA Policy) vendor assessment is done by QCI to assess the business entity’s profile with respect to the supplying capacity and past performance / experiences etc.
