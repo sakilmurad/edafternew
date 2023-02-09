@@ -1,13 +1,14 @@
 import React from 'react'
 import Layout from '@theme/Layout';
+import Alltools from '../../components/Alltools';
 
 function Tools() {
   return (
     <Layout
-    title="Tools"
-    description="Contact Edafter through mail or social media">
+    title="Free Document Creator Tools"
+    description="All free tools to create your GeM documents in just single click">
     <main>
-      <h1 className='center'>Tools</h1>
+      <Alltools/>
     </main>
   </Layout>
   )

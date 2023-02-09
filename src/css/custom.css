@@ -47,6 +47,10 @@
   text-align: center;
 }
 
+.margin{
+  margin-top: 5px;
+}
+
 main img{
   border: none;
   border-radius: 7px;
@@ -94,20 +98,6 @@ textarea {
   /* border: 0; */
 }
 
-form button{
-  margin-top: 0.25rem;
-  justify-self: center;
-  border: none;
-  color: #fff;
-  background-color: var(--ifm-color-primary);
-  padding: 0.5rem 1rem;
-  border-radius: 0.25rem;
-  font-weight: 700;
-  font-size: 1.1rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05rem;
-  cursor: pointer;
-}
 
 /* Using the has selector to automatically mark required form fields  */
 label:has(+ :required)::after {
@@ -134,3 +124,41 @@ label:has(+ :required)::after {
       transform: rotate(360deg);
   }
   } 
+
+  details{
+    box-shadow: 4px 5px 15px 5px rgba(0,0,0,0.2);
+    border-radius: 0.25rem;
+    margin-top: 10px;
+    padding: 0.3rem 0.8rem;
+  }
+
+  summary {
+    font-size: 1.25rem;
+    font-weight: 600;    
+    margin-bottom: 0.5rem;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    position: relative;
+  }
+  details > summary::after {
+    position: absolute;
+    content: "+";
+    right: 20px;
+  }
+  details[open] > summary::after {
+    position: absolute;
+    content: "-";
+    right: 20px;
+  }
+  details > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  details[open] summary ~ * {
+    animation: sweep .6s ease-in-out;
+  }
+  @keyframes sweep {
+    0%    {opacity: 0; margin-top: -10px}
+    100%  {opacity: 1; margin-top: 0px}
+  }
