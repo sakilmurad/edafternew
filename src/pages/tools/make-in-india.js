@@ -81,15 +81,15 @@ function Mii() {
               <div className="form_div">
                 <div className="form_field">
                   <label htmlFor="name">Company Name</label>
-                  <input type="text" id="name" name="name" />
+                  <input type="text" id="name" name="name" required/>
                 </div>
                 <div className="form_field">
                   <label htmlFor="bid">GeM Bid/RA Number</label>
-                  <input type="text" id="bid" name="bid" />
+                  <input type="text" id="bid" name="bid" required/>
                 </div>
                 <div className="form_field">
                   <label htmlFor="address">Address</label>
-                  <input type="text" id="address" name="address" />
+                  <input type="text" id="address" name="address" required/>
                 </div>
                 <div className="form_field">
                   <label htmlFor="percentage">Local Content Percentage</label>
