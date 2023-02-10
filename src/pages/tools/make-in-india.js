@@ -1,8 +1,7 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
 import Loader from "../../components/loader";
-import BrowserOnly from '@docusaurus/BrowserOnly';
 // import jsPDF from 'jspdf';
 import {
   Document,
@@ -13,43 +12,6 @@ import {
   PDFViewer,
 } from "@react-pdf/renderer";
 
-// Create styles
-const styles = StyleSheet.create({
-  section: {
-    margin: 10,
-    padding: 10,
-  },
-  viewer: {
-    width: window.innerWidth / 2, //the pdf viewer will take up all of the width and height
-    height: window.innerHeight / 1.2,
-  },
-  heading: {
-    fontSize: 18,
-    textAlign: "center",
-    textDecoration: "underline",
-    margin: 1.2,
-  },
-  smallText: {
-    fontSize: 10,
-    textAlign: "center",
-  },
-  paragraph: {
-    fontSize: 13,
-    padding: 5,
-    lineHeight: 1.2,
-    fontWeight: "bold",
-  },
-  footer: {
-    position: "absolute",
-    fontSize: 7,
-    bottom: 10,
-    left: 0,
-    right: 0,
-    textAlign: "center",
-    color: "grey",
-  },
-});
-
 function Mii() {
   const [isLoading, setLoading] = useState(false);
   const [companyName, setcompanyName] = useState("XYZ Pvt. Ltd.");
@@ -57,6 +19,42 @@ function Mii() {
   const [bidNo, setbidNo] = useState("GEM/2023/B/XXXXXX");
   const [address, setaddress] = useState("My Road Name, New Delhi.");
   const [pdfGenerated, setpdfGenerated] = useState(false);
+
+  const styles = StyleSheet.create({
+    section: {
+      margin: 10,
+      padding: 10,
+    },
+    // viewer: {
+    //   width: window.innerWidth / 2, //the pdf viewer will take up all of the width and height
+    //   height: window.innerHeight / 1.2,
+    // },
+    heading: {
+      fontSize: 18,
+      textAlign: "center",
+      textDecoration: "underline",
+      margin: 1.2,
+    },
+    smallText: {
+      fontSize: 10,
+      textAlign: "center",
+    },
+    paragraph: {
+      fontSize: 13,
+      padding: 5,
+      lineHeight: 1.2,
+      fontWeight: "bold",
+    },
+    footer: {
+      position: "absolute",
+      fontSize: 7,
+      bottom: 10,
+      left: 0,
+      right: 0,
+      textAlign: "center",
+      color: "grey",
+    },
+  });
 
   const handleRegenerate = () => {
     setpdfGenerated(false);
@@ -68,7 +66,8 @@ function Mii() {
         <h3 className="margin">
           Make In India Certificate for GeM Bid No: {bidNo}
         </h3>
-        <BrowserOnly>{()=>      <PDFViewer style={styles.viewer}>
+        <PDFViewer style={{width: window.innerWidth / 2,
+        height: window.innerHeight / 1.2}}>
           {/* Start of the document*/}
           <Document
             title="Make In India Certificate"
@@ -113,8 +112,7 @@ function Mii() {
               </Text>
             </Page>
           </Document>
-        </PDFViewer>}
-        </BrowserOnly>
+        </PDFViewer>
         <div className="margin">
           <button
             className="button button--primary button--lg"
@@ -163,15 +161,15 @@ function Mii() {
               <div className="form_div">
                 <div className="form_field">
                   <label for="name">Company Name</label>
-                  <input type="text" id="name" name="name" />
+                  <input type="text" id="name" name="name" required/>
                 </div>
                 <div className="form_field">
                   <label for="bid">GeM Bid/RA Number</label>
-                  <input type="text" id="bid" name="bid" />
+                  <input type="text" id="bid" name="bid" required/>
                 </div>
                 <div className="form_field">
                   <label for="address">Address</label>
-                  <input type="text" id="address" name="address" />
+                  <input type="text" id="address" name="address" required/>
                 </div>
                 <div className="form_field">
                   <label for="percentage">Local Content Percentage</label>
