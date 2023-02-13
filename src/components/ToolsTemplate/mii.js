@@ -4,6 +4,7 @@ import {
     Page,
     Text,
     View,
+    Link,
     StyleSheet
   } from "@react-pdf/renderer";
 
@@ -84,7 +85,7 @@ function MiiTemplate(props) {
                 <Text style={styles.paragraph}>For {props.companyName}</Text>
               </View>
               <Text style={styles.footer}>
-                This certificate is created by Edafter.
+                This certificate is created by <Link src="https://www.edafter.com/tools/make-in-india">Edafter</Link>.
               </Text>
             </Page>
           </Document>
