@@ -40,8 +40,7 @@ function OEMAuth() {
         <div className="center">
           <h1>OEM Authorization Certificate Generator</h1>
           <p>
-            <strong>Generate Reseller Authorization letter (also known as OEM Authorization Letter)</strong> to
-            to authorize your reseller or distributor to quote in the GeM Bid.
+            <strong>Generate Reseller Authorization letter (also known as OEM Authorization Letter)</strong> to authorize your reseller or distributor to quote in the GeM Bid.
           </p>
           <hr />
           {pdfGenerated ? (
