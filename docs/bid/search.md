@@ -1,7 +1,11 @@
 ---
 sidebar_position: 2
+sidebar_label: Search Bid/RA
+title: Search Bid/RA on GeM
+description: How to find GeM Bids. Learn about the various methods to find GeM Bids for your product or services.
 ---
 
+<<<<<<< HEAD
 # Search Bid/RA
 
 In this module, you will see how you can search for bids on GeM. There are too many ways to search for a bid on GeM. Let's discuss each method.
@@ -20,3 +24,6 @@ Search for bids from the old dashboard (Login)
 
 You can go to the older version of the bid dashboard and search for bids accordingly.
 
+=======
+# Search Bid/RA on GeM
+>>>>>>> 53ead8ec1a9174730a8d306329a98a340c281d7e

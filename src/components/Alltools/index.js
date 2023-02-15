@@ -9,12 +9,12 @@ const tools = [
         link: "/tools/make-in-india",
         Svg: require('@site/static/img/tools/home.svg').default,
     },
-    // {
-    //     title: "Reseller Authority Letter",
-    //     description: "Reseller authority letter to issue authorization letter to your resellers to quote on your behalf",
-    //     link: "/tools/make-in-india",
-    //     Svg: require('@site/static/img/tools/people.svg').default,
-    // }
+    {
+        title: "OEM Authorization Certificate",
+        description: "Reseller authority letter to issue authorization letter to your resellers for quoting on your behalf",
+        link: "/tools/oem-authorization-certificate",
+        Svg: require('@site/static/img/tools/people.svg').default,
+    }
 ]
 
 function RenderTools({Svg, title, description, link}) {
