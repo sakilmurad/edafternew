@@ -6,7 +6,7 @@ description: Understand the requirement of GeM Bid/RA. Understand and upload onl
 ---
 
 # Understand Bid/RA Requirement on GeM
-A buyer can ask sellers for documents at any time. We will discuss some frequently asked questions regarding a GeM Bid. 
+A buyer can ask sellers for documents at any time. We will discuss some frequently required documents regarding a GeM Bid. 
 1. Experience Criteria
 2. Past Performance
 3. Bidder Financial Standing
