@@ -21,4 +21,6 @@ For Orders where the Buyer has asked for ePBG to be submitted, the ePBG Request 
 3. Search for your order number for which you want to download the ePBG request document.
 4. Click on the `Download` option available in the ePBG details section
 
+![ePBG Download](/img/doc/download-epbg.jpg)
+
 <a href="https://assets-bg.gem.gov.in/resources/upload/shared_doc/epbgformat_1604313133.pdf" class="btn">Download ePBG Format</a>
