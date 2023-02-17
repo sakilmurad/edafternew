@@ -5,4 +5,4 @@ title: Payments on GeM
 description: How to track the payment status against the GeM Orders. Learn about CRAC on GeM (Government e-Marketplace).
 ---
 
-# Payments n=on GeM
+# Payments on GeM

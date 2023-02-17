@@ -51,7 +51,7 @@ Now you need to verify and update delivery details for the same order.
 ![Delivery Proof](/img/doc/delivery-proof.jpg)
 
 1. In the `Shipment wise`
-2. Click on 'Update Delivery Details`
+2. Click on `Update Delivery Details`
 3. Upload the delivery proof document
 4. Select the delivery date and click on `Submit` to save the details
 
