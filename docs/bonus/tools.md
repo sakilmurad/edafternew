@@ -6,3 +6,5 @@ description: Get access to the all free tools for GeM (Government e-Marketplace)
 ---
 
 # Free tools for GeM
+Edafter offers some free tools to boost your productivity.
+<a href="/tools" class="btn">All Tools</a>
