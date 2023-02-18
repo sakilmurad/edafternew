@@ -24,6 +24,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
+
+
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -102,6 +105,14 @@ const config = {
           //   position: 'right',
           // },
         ],
+      },
+      announcementBar: {
+        id: 'tools',
+        content:
+          'We have created free tools for you, try <a href="/tools">these tools</a>',
+        backgroundColor: '#fafbfc',
+        textColor: '#091E42',
+        isCloseable: false,
       },
       footer: {
         style: 'light',
