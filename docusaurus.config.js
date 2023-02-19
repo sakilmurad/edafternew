@@ -109,7 +109,7 @@ const config = {
       announcementBar: {
         id: 'tools',
         content:
-          'We have created free tools for you, try <a href="/tools">these tools</a>',
+          'Need support or have any doubt, <a class="announcement-link" href="/session-book">Book a Session Now</a>',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: false,

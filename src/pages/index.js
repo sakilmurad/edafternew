@@ -17,9 +17,9 @@ function HomepageHeader() {
         <div className="padding-horiz--md col col--6">
           <video
             src="img/intro.mp4"
-            autoplay="true"
-            muted="true"
-            loop="true"
+            autoPlay={true}
+            muted={true}
+            loop={true}
           ></video>
         </div>
 
