@@ -7,7 +7,7 @@ function Feedback() {
         setOpen(!open)
     }
   return (
-    <div className='center'>
+    <div className='center margin-vert--md'>
         <h4>Was this helpful?</h4>
         <div>
             <button className='button button--success button--sm margin-horiz--sm' onClick={handleClick}>👍 Yes</button>
