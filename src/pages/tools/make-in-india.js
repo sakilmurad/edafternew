@@ -4,8 +4,10 @@ import Link from "@docusaurus/Link";
 import Loader from "../../components/loader";
 import MiiTemplate from "../../components/ToolsTemplate/mii";
 import { PDFViewer, PDFDownloadLink } from "@react-pdf/renderer";
-import DownloadIcon from "/img/tools/download.svg"
-import RepeatIcon from "/img/tools/arrow-repeat.svg"
+import DownloadIcon from "/img/tools/download.svg";
+import RepeatIcon from "/img/tools/arrow-repeat.svg";
+import Share from "../../components/Share";
+import Feedback from "../../components/Feedback";
 
 function Mii() {
   const [isLoading, setLoading] = useState(false);
@@ -26,7 +28,9 @@ function Mii() {
     setcompanyName(data.get("name"));
     setbidNo(data.get("bid"));
     setaddress(data.get("address"));
-    data.get("percentage") == ""?"100":setpercentage(data.get("percentage"));
+    data.get("percentage") == ""
+      ? "100"
+      : setpercentage(data.get("percentage"));
     setpdfGenerated(true);
     setLoading(false);
   };
@@ -43,34 +47,59 @@ function Mii() {
             <strong>Generate Make In India (MII) Certificate</strong> to
             participate as class 1 and class 2 local supplier in GeM Bids.
           </p>
+          <Share url="https://www.edafter.com/tools/make-in-india" title="Make In India (MII) Certificate Generator" description="Generate Make In India (MII) Certificate to participate in class 1 and class 2 Local Supplier on GeM"/>
           <hr />
           {pdfGenerated ? (
             <>
               <h3 className="margin">
-          Make In India Certificate for GeM Bid No: {bidNo}
-        </h3>
-        <p>Your Make In India Certificate is generated. You can download it or click on re-generate button to Re-generate new one.</p>
-        <PDFDownloadLink document={<MiiTemplate  companyName={companyName} percentage={percentage} address={address} bidNo={bidNo}/>} fileName="make in india certificate.pdf">
-      {({ blob, url, loading, error }) =>
-        loading ? <Loader/> :  <button
-        className="button button--primary button--lg">
-          <DownloadIcon/> {" "}
-        Download
-      </button>
-      }
-    </PDFDownloadLink>
-        <div className="margin">
-          <button
-            className="button button--secondary button--lg"
-            onClick={handleRegenerate}
-          >
-            <RepeatIcon/> {" "}
-            Re-generate
-          </button>
-        </div>
-        <PDFViewer width={400} height={500} showToolbar={true} className="margin">
-        <MiiTemplate  companyName={companyName} percentage={percentage} address={address} bidNo={bidNo}/>
-        </PDFViewer>
+                Make In India Certificate for GeM Bid No: {bidNo}
+              </h3>
+              <p>
+                Your Make In India Certificate is generated. You can download it
+                or click on re-generate button to Re-generate new one.
+              </p>
+              <PDFDownloadLink
+                document={
+                  <MiiTemplate
+                    companyName={companyName}
+                    percentage={percentage}
+                    address={address}
+                    bidNo={bidNo}
+                  />
+                }
+                fileName="make in india certificate.pdf"
+              >
+                {({ blob, url, loading, error }) =>
+                  loading ? (
+                    <Loader />
+                  ) : (
+                    <button className="button button--primary button--lg">
+                      <DownloadIcon /> Download
+                    </button>
+                  )
+                }
+              </PDFDownloadLink>
+              <div className="margin">
+                <button
+                  className="button button--secondary button--lg"
+                  onClick={handleRegenerate}
+                >
+                  <RepeatIcon /> Re-generate
+                </button>
+              </div>
+              <PDFViewer
+                width={400}
+                height={500}
+                showToolbar={true}
+                className="margin"
+              >
+                <MiiTemplate
+                  companyName={companyName}
+                  percentage={percentage}
+                  address={address}
+                  bidNo={bidNo}
+                />
+              </PDFViewer>
             </>
           ) : (
             <form onSubmit={HandleSubmit}>
@@ -81,15 +110,15 @@ function Mii() {
               <div className="form_div">
                 <div className="form_field">
                   <label htmlFor="name">Company Name</label>
-                  <input type="text" id="name" name="name" required/>
+                  <input type="text" id="name" name="name" required />
                 </div>
                 <div className="form_field">
                   <label htmlFor="bid">GeM Bid/RA Number</label>
-                  <input type="text" id="bid" name="bid" required/>
+                  <input type="text" id="bid" name="bid" required />
                 </div>
                 <div className="form_field">
                   <label htmlFor="address">Address</label>
-                  <input type="text" id="address" name="address" required/>
+                  <input type="text" id="address" name="address" required />
                 </div>
                 <div className="form_field">
                   <label htmlFor="percentage">Local Content Percentage</label>
@@ -112,7 +141,9 @@ function Mii() {
             </form>
           )}
         </div>
-        <h3 className="center">FAQ</h3>
+        <hr/>
+        <Feedback/>
+        <h3 className="center margin-vert--sm">FAQ</h3>
         <details>
           <summary>What is Make In India (MII) Certificate?</summary>
           <p className="faq__content">
@@ -132,7 +163,8 @@ function Mii() {
             16.09.2020 to encourage "Make in India" and to promote manufacturing
             and production of goods, services and works in India with a view to
             enhancing income and employment. This Order is issued pursuant to
-            Rule 153 (iii) of the General Financial Rules 2017. <a href="https://www.meity.gov.in/esdm/ppo">Read more</a>
+            Rule 153 (iii) of the General Financial Rules 2017.{" "}
+            <a href="https://www.meity.gov.in/esdm/ppo">Read more</a>
           </p>
         </details>
         <details>
