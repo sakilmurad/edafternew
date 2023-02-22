@@ -24,7 +24,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  plugins: [require.resolve("@cmfcmf/docusaurus-search-local"), 'plugin-image-zoom'],
+  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
 
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -79,8 +79,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     
     (
-      
       {
+
+        docs: {
+          sidebar: {
+            autoCollapseCategories: true,
+          },
+        },
+        
       // Replace with your project's social card
       image: 'img/social-card.png',
       navbar: {
@@ -106,23 +112,10 @@ const config = {
           // },
         ],
       },
-      imageZoom: {
-        // CSS selector to apply the plugin to, defaults to '.markdown img'
-        selector: '.markdown img',
-        // Optional medium-zoom options
-        // see: https://www.npmjs.com/package/medium-zoom#options
-        options: {
-          margin: 24,
-          background: '#BADA55',
-          scrollOffset: 0,
-          container: '#zoom-container',
-          template: '#zoom-template',
-        },
-      },
       announcementBar: {
         id: 'tools',
         content:
-          'Need support or have any doubt, <a class="announcement-link" href="/session-book">Book a Session Now</a>',
+          'Need support or have any doubt, <a href="/session-book">Book a Session Now</a>',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: false,

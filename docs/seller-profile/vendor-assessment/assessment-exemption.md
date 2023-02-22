@@ -27,4 +27,11 @@ Followings are eligible for vendor assessment exemption as per Vendor Assessment
 - Central and State Government Departments/ Authorities
 
 ## Steps
----to be added---
+1. Click on the `NEW EXEMPTION REQUEST`
+2. **Assess Me As**: Select whether you are a manufacturer or reseller and click on `REQUEST VENDOR ASSESSMENT EXEMPTION`
+3. **Assessment Exemption Criteria**: Select the appropriate exemption criteria
+4. **Category Details**: Select the category and enter the details
+5. **Document**: [Upload the required documents](assessment-exemption-documents)
+6. **Submit VA**: Submit the vendor assessment exemption request
+
+QCI will take 2 calendar days to process your request. You will be notified via email once your vendor assessment exemption request's status has changed. You can track the status of your request in the dashboard of vendor assessment exemption.

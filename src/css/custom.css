@@ -168,11 +168,3 @@ label:has(+ :required)::after {
     justify-content: center;
     align-items: center;
   }
-  .announcement-link{
-    background-color: var(--ifm-color-primary);
-    padding: 1px 10px;
-    border-radius: 10px;
-    color: #fff !important;
-    text-decoration: none !important;
-  }
-

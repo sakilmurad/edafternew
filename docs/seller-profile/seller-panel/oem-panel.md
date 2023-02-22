@@ -13,14 +13,14 @@ This module is allow sellers to create new brand or OEM request and manage resel
 
 <Tabs>
 <TabItem value="New Brand or OEM Requests" label="New Brand or OEM Requests">
-New brand and OEM requests can be submitted here. You need to select the appropriate category and then follow the
 
-[brand creation process](/docs/catalog/brand-approval).
+New brand and OEM requests can be submitted here. You need to select the appropriate category and then follow the [brand creation process](/docs/catalog/brand-approval).
 
 ![OEM Request](/img/doc/seller-profile/oem-request.jpg)
 
 </TabItem>
 <TabItem value="OEM Actions" label="OEM Actions">
+
 You can manage the catalog and resellers through **OEM Actions**.
 
 ![OEM Actions](/img/doc/seller-profile/oem-actions.jpg)
