@@ -6,6 +6,8 @@ import OemAuthTemplate from "../../components/ToolsTemplate/oem-authorization";
 import { PDFViewer, PDFDownloadLink } from "@react-pdf/renderer";
 import DownloadIcon from "/img/tools/download.svg"
 import RepeatIcon from "/img/tools/arrow-repeat.svg"
+import Share from "../../components/Share"
+import Feedback from "../../components/Feedback";
 
 function OEMAuth() {
   const [isLoading, setLoading] = useState(false);
@@ -42,6 +44,7 @@ function OEMAuth() {
           <p>
             <strong>Generate Reseller Authorization letter (also known as OEM Authorization Letter)</strong> to authorize your reseller or distributor to quote in the GeM Bid.
           </p>
+          <Share url="https://www.edafter.com/tools/oem-authorization-certificate" title="OEM Authorization Certificate Generator" description="Generate Reseller Authority Letter (OEM Authorization letter) to authorized your Resellers on GeM (Government e-Marketplace)"/>
           <hr />
           {pdfGenerated ? (
             <>
@@ -111,7 +114,9 @@ function OEMAuth() {
             </form>
           )}
         </div>
-        <h3 className="center">FAQ</h3>
+        <hr/>
+        <Feedback/>
+        <h3 className="center margin-vert--sm">FAQ</h3>
         <details>
           <summary>What is Reseller Authority Letter?</summary>
           <p className="faq__content">
