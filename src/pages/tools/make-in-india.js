@@ -47,7 +47,11 @@ function Mii() {
             <strong>Generate Make In India (MII) Certificate</strong> to
             participate as class 1 and class 2 local supplier in GeM Bids.
           </p>
-          <Share url="https://www.edafter.com/tools/make-in-india" title="Make In India (MII) Certificate Generator" description="Generate Make In India (MII) Certificate to participate in class 1 and class 2 Local Supplier on GeM"/>
+          <Share
+            url="https://www.edafter.com/tools/make-in-india"
+            title="Make In India (MII) Certificate Generator"
+            description="Generate Make In India (MII) Certificate to participate in class 1 and class 2 Local Supplier on GeM"
+          />
           <hr />
           {pdfGenerated ? (
             <>
@@ -141,56 +145,48 @@ function Mii() {
             </form>
           )}
         </div>
-        <hr/>
-        <Feedback/>
+        <hr />
+        <Feedback />
         <h3 className="center margin-vert--sm">FAQ</h3>
-        <details>
-          <summary>What is Make In India (MII) Certificate?</summary>
-          <p className="faq__content">
-            Make In India (MII) is a self declaration letter in which a
-            manufacturer declare about the Local content used in the
-            manufacturing process of the said product.
-          </p>
-        </details>
-        <details>
-          <summary>What is Public Procurement Order 2017?</summary>
-          <p className="faq__content">
-            Government has issued Public Procurement (Preference to Make in
-            India) [PPP-MII] Order 2017 vide the Department for Promotion of
-            Industry and Internal Trade (DPIIT) Order No.P-45021/2/2017-B.E.-II
-            dated 15.06.2017 and subsequent revisions vide Order No.
-            45021/2/2017-PP(BE-II) dated 28.05.2018, 29.05.2019, 04.06.2020 and
-            16.09.2020 to encourage "Make in India" and to promote manufacturing
-            and production of goods, services and works in India with a view to
-            enhancing income and employment. This Order is issued pursuant to
-            Rule 153 (iii) of the General Financial Rules 2017.{" "}
-            <a href="https://www.meity.gov.in/esdm/ppo">Read more</a>
-          </p>
-        </details>
-        <details>
-          <summary>What is Class-I Local supplier?</summary>
-          <p className="faq__content">
-            A supplier or service provider, whose goods, services or works
-            offered for procurement, has local content equal to or more than
-            50%.
-          </p>
-        </details>
-        <details>
-          <summary>What is Class-II Local supplier?</summary>
-          <p className="faq__content">
-            A supplier or service provider, whose goods, services or works
-            offered for procurement, has local content more than 20% but less
-            than 50%.
-          </p>
-        </details>
-        <details>
-          <summary>What is Non-Local supplier?</summary>
-          <p className="faq__content">
-            A supplier or service provider, whose goods, services or works
-            offered for procurement, has local content less than or equal to
-            20%.
-          </p>
-        </details>
+        <hr />
+        <h2>What is Make In India (MII) Certificate?</h2>
+        <p>
+          Make In India (MII) is a self declaration letter in which a
+          manufacturer declare about the Local content used in the manufacturing
+          process of the said product.
+        </p>
+        <hr />
+        <h2>What is Public Procurement Order 2017?</h2>
+        <p>
+          Government has issued Public Procurement (Preference to Make in India)
+          [PPP-MII] Order 2017 vide the Department for Promotion of Industry and
+          Internal Trade (DPIIT) Order No.P-45021/2/2017-B.E.-II dated
+          15.06.2017 and subsequent revisions vide Order No.
+          45021/2/2017-PP(BE-II) dated 28.05.2018, 29.05.2019, 04.06.2020 and
+          16.09.2020 to encourage "Make in India" and to promote manufacturing
+          and production of goods, services and works in India with a view to
+          enhancing income and employment. This Order is issued pursuant to Rule
+          153 (iii) of the General Financial Rules 2017.{" "}
+          <a href="https://www.meity.gov.in/esdm/ppo">Read more</a>
+        </p>
+        <hr />
+        <h2>What is Class-I Local supplier?</h2>
+        <p>
+          A supplier or service provider, whose goods, services or works offered
+          for procurement, has local content equal to or more than 50%.
+        </p>
+        <hr />
+        <h2>What is Class-II Local supplier?</h2>
+        <p>
+          A supplier or service provider, whose goods, services or works offered
+          for procurement, has local content more than 20% but less than 50%.
+        </p>
+        <hr />
+        <h2>What is Non-Local supplier?</h2>
+        <p>
+          A supplier or service provider, whose goods, services or works offered
+          for procurement, has local content less than or equal to 20%.
+        </p>
       </main>
     </Layout>
   );
