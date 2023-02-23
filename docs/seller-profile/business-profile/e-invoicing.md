@@ -27,7 +27,8 @@ Phase | Applicable to taxpayers having an aggregate turnover of more than | Appl
 I | Rs 500 crore | 	01.10.2020 | [61/2020 – Central Tax](https://www.cbic.gov.in/resources//htdocs-cbec/gst/notfctn-61-central-tax-english-2020.pdf) and [70/2020 – Central Tax](https://www.cbic.gov.in/resources//htdocs-cbec/gst/notfctn-61-central-tax-english-2020.pdf) |
 II | Rs 100 crore | 01.01.2021 | [88/2020 – Central Tax](https://www.cbic.gov.in/resources//htdocs-cbec/gst/notfctn-61-central-tax-english-2020.pdf) |
 III | Rs 50 crore | 01.04.2021 | [5/2021 – Central Tax](https://www.cbic.gov.in/resources//htdocs-cbec/gst/notfctn-05-central-tax-english-2021.pdf) |
-IV | Rs 20 crore | 01.04.2022 | [1/2022 – Central Tax](https://wp.d.cleartax.co/wp-content/uploads/Noti-1-2022.pdf) |
+IV | Rs 20 crore | 01.04.2022 | [1/2022 – Central Tax](https://einvoice1.gst.gov.in/Notifications/notfctn-01-central-tax-english-2022.pdf) |
+V | Rs 10 crore | 01.10.2022 | [17/2022 – Central Tax](https://einvoice1.gst.gov.in/Notifications/notfctn-17-central-tax-english-2022.pdf) |
 
 If you are in the above table then you need to declare e-invoicing on the GeM portal.
 
