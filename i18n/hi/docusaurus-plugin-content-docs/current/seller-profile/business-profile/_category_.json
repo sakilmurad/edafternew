@@ -1,0 +1,8 @@
+{
+  "label": "Business Profile",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "See and Manage your business profile on GeM."
+  }
+}

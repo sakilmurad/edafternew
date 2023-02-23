@@ -32,8 +32,14 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', "hi"],
+    localeConfigs:{
+      hi:{
+        path: 'hi'
+      }
+    }
   },
+
 
   presets: [
     [
@@ -105,6 +111,10 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/tools', label: 'Tools', position: 'left'},
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
           // {
           //   href: 'https://github.com/sakilmurad/edafternew',
           //   label: 'GitHub',

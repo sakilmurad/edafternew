@@ -1,0 +1,8 @@
+{
+  "label": "Account Settings",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Mange your account details on GeM."
+  }
+}

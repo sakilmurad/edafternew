@@ -1,0 +1,8 @@
+{
+  "label": "Seller Panel",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Manage Reseller and OEM Panel on GeM."
+  }
+}

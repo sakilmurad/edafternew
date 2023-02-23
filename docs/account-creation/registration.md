@@ -66,7 +66,7 @@ In this process you must have your phone number linked to your PAN.
 10. Enter your PAN details
 11. Once you enter PAN details, the `VERIFY PAN` button will be activated. Click that button to proceed
 12. Enter your mobile number and verify the same with an OTP sent to your number
-13. Once the mobile number is verified, then thick the box to confirm you are the Key Person of the Organization and click on the `NEXT` button.
+13. Once the mobile number is verified, then tick the box to confirm you are the Key Person of the Organization and click on the `NEXT` button.
 14. Enter your Email Id and click on `SEND OTP` and verify your Email Id
 15. Create your User ID and Password and click on `CREATE ACCOUNT`
 

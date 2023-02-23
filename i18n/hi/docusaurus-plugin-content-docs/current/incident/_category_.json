@@ -1,0 +1,8 @@
+{
+  "label": "इन्सिडेंट्स",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Create, reply, escalate, and close incidents on GeM."
+  }
+}
