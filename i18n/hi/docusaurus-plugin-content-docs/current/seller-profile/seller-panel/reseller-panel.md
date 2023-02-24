@@ -1,23 +1,23 @@
 ---
 sidebar_position: 2
-title: Reseller Panel on GeM
-sidebar_label: Reseller Panel
-description: Sell in Q2 categories using Reseller Panel on GeM (Government e-Marketplace) Portal
+title: जैम पर पुनर्विक्रेता पैनल
+sidebar_label: पुनर्विक्रेता पैनल
+description: GeM (सरकारी ई-मार्केटप्लेस) पोर्टल पर पुनर्विक्रेता पैनल का उपयोग करके Q2 श्रेणियों में बिक्री करें
 ---
 
-# Reseller Panel on GeM
-Sellers can create new reseller request for Q2 and Q1 categories.
+# जैम पर पुनर्विक्रेता पैनल
+विक्रेता Q2 और Q1 श्रेणियों के लिए नया पुनर्विक्रेता अनुरोध बना सकते हैं।
 
-## Steps
-**Resellers can not add OEM's products without an authorization number in the Q2 category**. He/She needs to add that authorization number from the reseller panel.
+## प्रक्रिया
+**पुनर्विक्रेता प्राधिकार संख्या के बिना Q2 श्रेणी में ओईएम के उत्पाद नहीं जोड़ सकते**। उसे पुनर्विक्रेता पैनल से उस प्राधिकरण संख्या को जोड़ना होगा।
 
 ![Reseller Panel](/img/doc/seller-profile/resellers-panel.jpg)
 
-**Follow the steps below to add an authorization code**.
-1. Navigate to the reseller panel from the profile
-2. Search for the category
-3. Select the brand
-4. Enter the authorization code shared by OEM
-5. Click on `Request`
+**एक प्राधिकरण कोड जोड़ने के लिए नीचे दिए गए चरणों का पालन करें**।
+1. प्रोफ़ाइल से पुनर्विक्रेता पैनल पर नेविगेट करें
+2. श्रेणी के लिए खोजें
+3. ब्रांड का चयन करें
+4. ओईएम द्वारा साझा किया गया प्राधिकरण कोड दर्ज करें
+5. `Request` पर क्लिक करें
 
-Now you can list products as you do
+अब आप उत्पादों को वैसे ही सूचीबद्ध कर सकते हैं जैसे आप करते हैं

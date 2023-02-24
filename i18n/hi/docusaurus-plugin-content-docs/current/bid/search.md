@@ -1,18 +1,18 @@
 ---
 sidebar_position: 2
-sidebar_label: Search Bid/RA
-title: Search Bid/RA on GeM
-description: How to find GeM Bids. Learn about the various methods to find GeM Bids for your product or services.
+title: जैम पर बोली/आरए खोजें
+sidebar_label: बोली/आरए खोजें
+description: जीईएम बोलियां कैसे खोजें। अपने उत्पाद या सेवाओं के लिए जीईएम बोली खोजने के विभिन्न तरीकों के बारे में जानें।
 ---
 
-# Search Bid/RA on GeM
-In this module, you will see how you can search for bids on GeM. There are too many ways to search for a bid on GeM. Let's discuss each method.
-## New Bid Dashboard
-Click on the `Bids` link from the GeM Homepage or directly navigate to the bid dashboard using [this link](https://bidplus.gem.gov.in/seller-bids). You can apply the filter from the left side.
+# जैम पर बोली/आरए खोजें
+इस मॉड्यूल में, आप देखेंगे कि कैसे आप जीईएम पर बोलियों की खोज कर सकते हैं। GeM पर बोली खोजने के बहुत सारे तरीके हैं। आइए प्रत्येक विधि पर चर्चा करें।
+## नई बोली डैशबोर्ड
+GeM होमपेज से `Bids ` लिंक पर क्लिक करें या [इस लिंक](https://bidplus.gem.gov.in/seller-bids) का उपयोग करके सीधे बोली डैशबोर्ड पर नेविगेट करें। आप बाईं ओर से फ़िल्टर लगा सकते हैं।
 
 ![New Bid Dashboard](/img/doc/bid-dashboard-new.jpg)
 
-All ongoing bids will show in the right section according to your chosen filter.
+आपके द्वारा चुने गए फ़िल्टर के अनुसार सभी चालू बोलियाँ सही अनुभाग में दिखाई देंगी।
 
 ![Search bid by category](/img/doc/search-bid-by-category.jpg)
 
@@ -22,19 +22,19 @@ You can search for bids by category only if you are logged in.
 
 :::
 
-## Old Bid Dashboard
-You can go to the [older version of the bid dashboard](https://bidplus.gem.gov.in/bidlists) and search for bids accordingly.
+## पुरानी बोली डैशबोर्ड
+आप [older version of the bid dashboard](https://bidplus.gem.gov.in/bidlists) पर जा सकते हैं और तदनुसार बोलियों की खोज कर सकते हैं।
 
 ![Old Bid Dashboard](/img/doc/older-bid-dashboard.jpg)
 
 You can search for specific bids from the available tab.
 
-## Advance bid search dashboard
-Navigate to the [Advanced search for Ongoing Bids](https://bidplus.gem.gov.in/advance-search). A total of 4 sections are available for your bid search.
+## अग्रिम बोली खोज डैशबोर्ड
+[Advanced search for Ongoing Bids](https://bidplus.gem.gov.in/advance-search) पर नेविगेट करें। आपकी बोली खोज के लिए कुल 4 खंड उपलब्ध हैं।
 
 ![Advance bid search](/img/doc/advance-bid-search.jpg)
 
-1. **Search by bid/RA Details**: You can search using a bid/RA number or by selecting a specific category.
-2. **Search by Ministry/Organization**: This section allows you to search for ongoing bids by ministry or state. For example, we can only search for ongoing bids published by the Ministry of Defence in Delhi.
-3. **Search by Consignee Location**: You can search all ongoing bids by consignee location only. For example, if we want to search all bids for Delhi, we can do so from this dashboard.
-4. **Search by BOQ Title**: GeM has introduced BOQ based bidding and made them searchable by BOQ Title. You can search for a BOQ bid also by its title from this dashboard.
+1. **बोली/आरए विवरण द्वारा खोजें**: आप बोली/आरए संख्या का उपयोग करके या किसी विशिष्ट श्रेणी का चयन करके खोज सकते हैं।
+2. **मंत्रालय/संगठन द्वारा खोजें**: यह खंड आपको मंत्रालय या राज्य द्वारा चल रही बोलियों की खोज करने की अनुमति देता है। उदाहरण के लिए, हम केवल दिल्ली में रक्षा मंत्रालय द्वारा प्रकाशित चल रही बोलियों की खोज कर सकते हैं।
+3. **परेषिती स्थान द्वारा खोजें**: आप केवल परेषिती स्थान द्वारा सभी चल रही बोलियों को खोज सकते हैं। उदाहरण के लिए, यदि हम दिल्ली के लिए सभी बोली खोजना चाहते हैं, तो हम इस डैशबोर्ड से ऐसा कर सकते हैं।
+4. **बीओक्यू टाइटल द्वारा खोजें**: जीईएम ने बीओक्यू आधारित बिडिंग की शुरुआत की है और उन्हें बीओक्यू टाइटल द्वारा खोजने योग्य बनाया है। आप इस डैशबोर्ड से बीओक्यू बोली को उसके शीर्षक से भी खोज सकते हैं।

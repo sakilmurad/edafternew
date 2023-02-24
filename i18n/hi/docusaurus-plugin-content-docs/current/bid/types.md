@@ -1,51 +1,51 @@
 ---
 sidebar_position: 1
-sidebar_label: Types of Bid/RA
-title: Types of Bid/RA on GeM
-description: There are total 3 types of GeM Bids i.e. normal bid, bid to RA, and RA. Learn them in details.
+title: जैम पर बिड/आरए के प्रकार
+sidebar_label: बिड/आरए के प्रकार
+description: जीईएम बोलियों के कुल 3 प्रकार हैं अर्थात सामान्य बोली, आरए के लिए बोली और आरए। उन्हें विस्तार से जानें।
 ---
 
-# Types of Bid/RA on GeM
+# जैम पर बिड/आरए के प्रकार
 
-There are basically 3 types of bid on GeM.
+GeM पर मूल रूप से 3 प्रकार की बोली होती है।
 
 | Bid | RA | Bid to RA |
 | --- | --- | --- |
-| Bid that will not become RA after technical evaluation | Initial RA | Bid that will convert into RA after technical evaluation |
-| Price entered at the time of participation | Price entered after technical qualification | Price entered at the time of participation but RA starts at L1 rate |
-| All technically qualified sellers are eligible for financial evaluation | Only technically qualified sellers are eligible for financial offerings | Only qualified sellers (as per RA qualification rule) are allowed to participate in RA |
+| बोली जो तकनीकी मूल्यांकन के बाद आरए नहीं बनेगी | प्रारंभिक आरए | बोली जो तकनीकी मूल्यांकन के बाद आरए में परिवर्तित हो जाएगी |
+| भागीदारी के समय मूल्य दर्ज किया गया | तकनीकी योग्यता के बाद मूल्य दर्ज किया गया | भागीदारी के समय मूल्य दर्ज किया गया लेकिन आरए एल1 दर से शुरू होता है |
+| तकनीकी रूप से योग्य सभी विक्रेता वित्तीय मूल्यांकन के पात्र हैं | केवल तकनीकी रूप से योग्य विक्रेता ही वित्तीय प्रस्तावों के लिए पात्र हैं | केवल योग्य विक्रेताओं (आरए योग्यता नियम के अनुसार) को आरए में भाग लेने की अनुमति है |
 | GEM/2023/B/XXXXXX | GEM/2023/RA/XXXXX | GEM/2023/R/XXXXX |
 
-Read [GeM GTC](https://assets-bg.gem.gov.in/resources/upload/shared_doc/gtc/general-te-1675401798.pdf) for more details.
+अधिक विवरण के लिए [GeM GTC](https://assets-bg.gem.gov.in/resources/upload/shared_doc/gtc/general-te-1675401798.pdf) पढ़ें
 
-Let's see products wise GeM Bids.
+आइए उत्पादों के अनुसार जीईएम बोलियां देखें।
 
 <table>
 <thead>
-<th>Product Type</th>
+<th>उत्पाद का प्रकार</th>
 <th colspan="3">Bid/RA Type</th>
 </thead>
 <tbody>
 <tr>
-<td>Normal Category</td>
-<td rowspan="3">Single Item</td>
-<td rowspan="3">Bunch Bid</td>
+<td>सामान्य श्रेणी</td>
+<td rowspan="3">एकल आइटम</td>
+<td rowspan="3">गुच्छा बोली</td>
 <td>Evaluation Type</td>
 </tr>
 <tr>
-<td>BOQ Based</td>
-<td>Item Wise</td>
+<td>बीओक्यू आधारित</td>
+<td>आइटम वार</td>
 </tr>
 <tr>
-<td>Custom Item</td>
-<td>Total Value Wise</td>
+<td>कस्टम आइटम</td>
+<td>कुल मूल्य वार</td>
 </tr>
 </tbody>
 </table>
 
-## How to identify the bid type?
-You can identify the bid type through the following method:
+## बोली प्रकार की पहचान कैसे करें?
+आप निम्न विधि से बिड प्रकार की पहचान कर सकते हैं:
 
-1. If a bid number is like GEM/2023/RA/XXXXX : These types of bids are RA (Reverse Auction) from the initial stage. You can participate in this bid as a normal bid but you can only offer your rate if you are technically qualified.
-2. If a bid number is like GEM/2023/B/XXXXX : You can download the bid document and look for the Bid to RA option (on page 1-2). If the option is Yes. That means the bid will convert to RA after the technical stage.
-3. If a bid number is like GEM/2023/R/XXXX : That means, this RA is created from a Bid
+1. यदि कोई बोली संख्या GEM/2023/RA/XXXXX जैसी है: इस प्रकार की बोलियां प्रारंभिक चरण से RA (रिवर्स ऑक्शन) हैं। आप इस बोली में एक सामान्य बोली के रूप में भाग ले सकते हैं लेकिन आप तकनीकी रूप से योग्य होने पर ही अपनी दर की पेशकश कर सकते हैं।
+2. यदि बोली संख्या GEM/2023/B/XXXXX जैसी है: आप बोली दस्तावेज़ डाउनलोड कर सकते हैं और बोली से RA विकल्प की तलाश कर सकते हैं (पृष्ठ 1-2 पर)। यदि विकल्प हाँ है। यानी बोली तकनीकी चरण के बाद आरए में बदल जाएगी।
+3. यदि बोली संख्या GEM/2023/R/XXXX जैसी है: इसका मतलब है कि यह RA बोली से बनाया गया है

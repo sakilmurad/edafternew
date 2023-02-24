@@ -1,63 +1,63 @@
 ---
 sidebar_position: 7
-title: Tax Assessment on GeM
-sidebar_label: Tax Assessment
-description: Manage your Income Tax Return (ITR) details in GeM (Government e-Marketplace) Seller Profile
+title: जैम पर कर निर्धारण
+sidebar_label: कर निर्धारण
+description: GeM (गवर्नमेंट ई-मार्केटप्लेस) सेलर प्रोफाइल में अपना इनकम टैक्स रिटर्न (ITR) विवरण प्रबंधित करें
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Tax Assessment on GeM
-Enter your ITR details to varify your Tax Assessment in your GeM Seller Profile.
+# जैम पर कर निर्धारण
+अपने जैम विक्रेता प्रोफ़ाइल में अपने कर निर्धारण को वैरिफाई करने के लिए अपना आईटीआर विवरण दर्ज करें।
 
-:::info Note
+:::info
 
-In case your date of incorporation is more than 24 months and you are not providing your ITR records then you will not be able to participate in bids. Your turnover will not reflect in the market as well.
+यदि आपकी निगमन की तिथि 24 महीने से अधिक है और आप अपना आईटीआर रिकॉर्ड प्रदान नहीं कर रहे हैं तो आप बोलियों में भाग नहीं ले पाएंगे। आपका टर्नओवर बाजार में भी नहीं दिखेगा।
 
 :::
 
 <Tabs>
-<TabItem value="Manage Tax Assessment" label="Manage Tax Assessment">
+<TabItem value="Manage Tax Assessment" label="कर निर्धारण प्रबंधित करें">
 
-Example:
+उदाहरण:
 
-![Tax Assessment](/img/doc/tax-assessment.jpg)
+![कर निर्धारण](/img/doc/tax-assessment.jpg)
 
 | Verification Status | ITR Type / PAN | Assessment year | Sale/Gross Receipts of business | ACTION |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | :white_check_mark: Verified | ITR-6 / AALXXXXXXX | 2019-2020 | ₹ 9,05,000 |  EDIT [^1]
 
 </TabItem>
-<TabItem value="Add new Tax Assessment" label="Add new Tax Assessment">
+<TabItem value="Add new Tax Assessment" label="नया कर निर्धारण जोड़ें">
 
-Follow the steps below to add new tax assessment details to your GeM Profile.
+अपने जैम प्रोफाइल में नए कर निर्धारण विवरण जोड़ने के लिए नीचे दिए गए चरणों का पालन करें।
 
-![Add New Tax Assessment](/img/doc/add-new-tax-assessment.jpg)
+![नया कर निर्धारण जोड़ें](/img/doc/add-new-tax-assessment.jpg)
 
 :::note
 
-Select appropriate assessment year from the drop-down.For each of the assessment year enter the information on the subsequent columns as following:
-- Acknowledgement No. for ITR – Enter the correct Acknowledge No. in this field as submitted in the ITR
-- Sale/Gross Receipts of Business – Net of returns and refunds and duty of taxes if any as submitted in your ITR.
-- Profit and gain from business or profession as submitted in your ITR.
+ड्रॉप-डाउन से उपयुक्त निर्धारण वर्ष का चयन करें। प्रत्येक निर्धारण वर्ष के लिए बाद के कॉलमों में निम्नलिखित के रूप में जानकारी दर्ज करें:
+- आईटीआर के लिए पावती संख्या - इस क्षेत्र में सही पावती संख्या दर्ज करें जैसा कि आईटीआर में प्रस्तुत किया गया है
+- व्यवसाय की बिक्री/सकल प्राप्तियां - आपके आईटीआर में प्रस्तुत किए गए रिटर्न और रिफंड और करों का शुल्क यदि कोई हो, का शुद्ध।
+- व्यवसाय या पेशे से लाभ और लाभ, जैसा कि आपके आईटीआर में जमा किया गया है।
 
 :::
 
-- **PAN** - Enter your personal PAN (Key Person's PAN) Number
-- **ITR Type** - Select proper ITR (as per your ITR Acknowledgment)
-- **Assessment Year** - Select Assessment Year
-- **Acknowledgement number for ITR** - Enter acknowledgement number (printed on ITR filling acknowledgment slip)
-- **Profit and Gain from Business or Profession** - Enter Profit and Gain you earned in the assessment year from your business
-- **Sale/Gross Receipts of business** - Enter gross sale of your business
+- **PAN** - अपना व्यक्तिगत पैन (मुख्य व्यक्ति का पैन) नंबर दर्ज करें
+- **ITR Type** - उचित ITR चुनें (आपकी ITR पावती के अनुसार)
+- **Assessment Year** - निर्धारण वर्ष का चयन करें
+- **Acknowledgement number for ITR** - पावती संख्या दर्ज करें (पावती पर्ची भरने वाले आईटीआर पर मुद्रित)
+- **Profit and Gain from Business or Profession** - मूल्यांकन वर्ष में आपने अपने व्यवसाय से अर्जित लाभ और प्राप्ति दर्ज करें
+- **Sale/Gross Receipts of business** - अपने व्यवसाय की सकल बिक्री दर्ज करें
 
 :::info
 
-Information entered here shall be validated with your ITR records. Please enter all the details with the help of your CA.
+यहां दर्ज की गई जानकारी को आपके आईटीआर रिकॉर्ड के साथ मान्य किया जाएगा। कृपया अपने सीए की मदद से सभी विवरण दर्ज करें।
 
 :::
 
 </TabItem>
 </Tabs>
 
-[^1]: Edit ITR details
+[^1]: आईटीआर विवरण संपादित करें

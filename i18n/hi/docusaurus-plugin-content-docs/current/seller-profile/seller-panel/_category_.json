@@ -1,8 +1,8 @@
 {
-  "label": "Seller Panel",
+  "label": "विक्रेता पैनल",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "Manage Reseller and OEM Panel on GeM."
+    "description": "GeM पर पुनर्विक्रेता और OEM पैनल प्रबंधित करें।"
   }
 }

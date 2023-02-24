@@ -1,19 +1,19 @@
 ---
 sidebar_position: 13
-title: Logistics on GeM
-sidebar_label: Logistics
-description: Link your GeM (Government e-Marketplace) Business Profile account with Logistic providers on GeM Portal
+title: जैम पर लोजिस्टिक्स 
+sidebar_label: लोजिस्टिक्स
+description: अपने GeM (गवर्नमेंट ई-मार्केटप्लेस) बिजनेस प्रोफाइल खाते को GeM पोर्टल पर लॉजिस्टिक प्रदाताओं के साथ लिंक करें
 ---
 
-# Logistics on GeM
-A Seller can link their GeM Business Profile account if they are registered with listed Logistics Service Provider
+# जैम पर लोजिस्टिक्स
+एक विक्रेता अपने GeM Business Profile खाते को लिंक कर सकता है यदि वे सूचीबद्ध रसद सेवा प्रदाता के साथ पंजीकृत हैं
 
 ![Logistic](/img/doc/logistics.jpg)
 
 :::info
 
-This option will help you to book and manage your consignment directly from the GeM Portal.
+यह विकल्प आपको सीधे जीईएम पोर्टल से अपनी खेप बुक करने और प्रबंधित करने में मदद करेगा।
 
 :::
 
-Select `Logistics Service Provider` and click on `SAVE`. The system will get you registred with that logistic provider and creat your account. You can manage your shipment through `Dashboard > India Post Dashboard`.
+`Logistics Service Provider` चुने ओर `SAVE` पर क्लिक करें। सिस्टम आपको उस रसद प्रदाता के साथ पंजीकृत करवाएगा और आपका खाता बना देगा। आप अपने शिपमेंट को `Dashboard > Indian Post Dashboard` के माध्यम से प्रबंधित कर सकते हैं.

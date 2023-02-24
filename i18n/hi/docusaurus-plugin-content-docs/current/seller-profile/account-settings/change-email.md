@@ -1,13 +1,13 @@
 ---
 sidebar_position: 4
-title: Change Email in GeM Seller Account
-sidebar_label: Change Email
-description: Change and update Email Id in GeM (Government e-Marketplace) seller Account
+title: जैम विक्रेता खाते में ईमेल बदलें
+sidebar_label: ईमेल बदलें
+description: GeM (Government e-Marketplace) विक्रेता खाते में ईमेल आईडी बदलें और अपडेट करें
 ---
 
-# Change Email in GeM Seller Account
-Sellers can change their existing Email ids in their GeM Seller account.
+# जैम विक्रेता खाते में ईमेल बदलें
+विक्रेता अपने जीईएम विक्रेता खाते में अपनी मौजूदा ईमेल आईडी बदल सकते हैं।
 
 ![Change Email](/img/doc/change-email.jpg)
 
-Enter the new Email id and very with the OTP you received on the existing Email (Contact GeM Support team if you have lost access to your existing Email Id).
+नई ईमेल आईडी दर्ज करें और बहुत ही मौजूदा ईमेल पर प्राप्त ओटीपी के साथ (यदि आपने अपनी मौजूदा ईमेल आईडी तक पहुंच खो दी है तो जीईएम सपोर्ट टीम से संपर्क करें)।

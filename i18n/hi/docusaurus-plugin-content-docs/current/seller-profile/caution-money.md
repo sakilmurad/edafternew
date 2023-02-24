@@ -30,24 +30,24 @@ S. No | टर्नोवर | कॉशन मनी |
 - जीईएम ई-बिड/आरए शर्तों के अनुसार अपेक्षित प्रदर्शन सुरक्षा/पीबीजी प्रस्तुत करने में विफल रहता है
 
 ## कॉशन मनी का भुगतान कैसे करें?
-You have to login to your GeM Seller Profile. Under the `Dashboard` section click on `Manage Caution Money` link.
+आपको अपने GeM सेलर प्रोफाइल में लॉग इन करना होगा। `Dashboard` सेक्शन के तहत `Manage Caution Money` लिंक पर क्लिक करें।
 
 ![Manage Caution Money Account](/img/doc/manage-caution-money-account.jpg)
 
-You need to create a virtual bank account (Only can only use it for caution money purpose) for your seller account.
+आपको अपने विक्रेता खाते के लिए एक आभासी बैंक खाता बनाने की आवश्यकता है (केवल इसे केवल सावधानी धन के उद्देश्य के लिए उपयोग कर सकते हैं)।
 
-Select a suitable bank click on `SUBMIT` button. The Sellers do not need to do any KYC to Open the Account for caution Money.
+एक उपयुक्त बैंक का चयन करें `SUBMIT` बटन पर क्लिक करें। कॉशन मनी के लिए खाता खोलने के लिए विक्रेताओं को कोई केवाईसी करने की आवश्यकता नहीं है।
 
 :::info
-The Account would be Opened by Bank Instantly without asking for any documentation/KYC from Seller. The Account being Opened is a Sub account of the GeM escrow account with the sole purpose of collecting the Caution Money on behalf of Seller. The account cannot be used for any other purpose by the seller.
+विक्रेता से कोई दस्तावेज/केवाईसी मांगे बिना बैंक द्वारा तुरंत खाता खोला जाएगा। खोला जा रहा खाता विक्रेता की ओर से कॉशन मनी एकत्र करने के एकमात्र उद्देश्य के साथ GeM एस्क्रो खाते का एक उप खाता है। विक्रेता द्वारा किसी अन्य उद्देश्य के लिए खाते का उपयोग नहीं किया जा सकता है।
 
-- The Seller can view the Transaction summary/Statement of the account on GeM portal. The required Provision is made available on GeM portal in Sellers Caution Money Dashboard
-- The Amount once Deposited by the seller, cannot be withdrawn back
-- An account Once Created with a Bank cannot be closed. Each seller can open only one account
+- विक्रेता जीईएम पोर्टल पर खाते का लेनदेन सारांश/विवरण देख सकता है। आवश्यक प्रावधान जीईएम पोर्टल पर सेलर्स कॉशन मनी डैशबोर्ड में उपलब्ध कराया गया है
+- विक्रेता द्वारा एक बार जमा की गई राशि वापस नहीं ली जा सकती
+- बैंक में एक बार खाता बना लेने के बाद उसे बंद नहीं किया जा सकता है। प्रत्येक विक्रेता केवल एक ही खाता खोल सकता है
 :::
 
-A new virtual account will be opened for your GeM account. Now you can pay the applicable caution money amount through NEFT/RTGS to your virtually created account.
+आपके जीईएम खाते के लिए एक नया वर्चुअल खाता खोला जाएगा। अब आप अपने वर्चुअल रूप से बनाए गए खाते में एनईएफटी/आरटीजीएस के माध्यम से लागू कॉशन मनी राशि का भुगतान कर सकते हैं।
 
 :::note
-It will take 24-48 Hours to show your caution money account balance.
+आपके कॉशन मनी अकाउंट बैलेंस को दिखाने में 24-48 घंटे लगेंगे।
 :::

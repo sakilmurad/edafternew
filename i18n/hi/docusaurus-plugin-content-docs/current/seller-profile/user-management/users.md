@@ -1,36 +1,36 @@
 ---
 sidebar_position: 1
-title: Users on GeM
-sidebar_label: Users
-description: Create and define secondary user role in GeM (Government e-Marketplace) Seller Account.
+title: जैम पर उपयोगकर्ता
+sidebar_label: उपयोगकर्ता
+description: GeM (सरकारी ई-मार्केटप्लेस) विक्रेता खाते में द्वितीयक उपयोगकर्ता भूमिका बनाएं और परिभाषित करें।
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Users on GeM
-The Seller Primary User can create upto 50 Secondary Users and manage their roles and status here
+# जैम पर उपयोगकर्ता
+विक्रेता प्राथमिक उपयोगकर्ता 50 तक माध्यमिक उपयोगकर्ता बना सकता है और यहां अपनी भूमिकाएं और स्थिति प्रबंधित कर सकता है
 
 <Tabs>
-<TabItem value="Manage Users" label="Manage Users">
+<TabItem value="Manage Users" label="उपयोगकर्ताओं को प्रबंधित करें">
 
-Manage your users from this dashboard.
+इस डैशबोर्ड से अपने उपयोगकर्ताओं को प्रबंधित करें।
 
 ![Manage Users](/img/doc/manage-user.jpg)
 
 </TabItem>
-<TabItem value="Add Secondary User" label="Add Secondary User">
+<TabItem value="Add Secondary User" label="द्वितीयक उपयोगकर्ता जोड़ें">
 
 ![Add Secondary User](/img/doc/add-secondary-user.jpg)
 
 
-Follow the steps below to add a secondary user
-1. Enter his/her email id
-2. Select the role
-3. Click on `ADD USER`
+द्वितीयक उपयोगकर्ता जोड़ने के लिए नीचे दिए गए चरणों का पालन करें
+1. उसकी ईमेल आईडी दर्ज करें
+2. भूमिका का चयन करें
+3. `ADD USER` पर क्लिक करें
 
-An activation link will be sent to the email address you provided above. Click on the link and verify with Aadhaar or PAN.
+आपके द्वारा ऊपर दिए गए ईमेल पते पर एक सक्रियण लिंक भेजा जाएगा। लिंक पर क्लिक करें और आधार या पैन के साथ सत्यापित करें।
 
-Once verification is completed, you can create a user ID and password for your secondary account.
+सत्यापन पूर्ण होने के बाद, आप अपने द्वितीयक खाते के लिए एक उपयोगकर्ता आईडी और पासवर्ड बना सकते हैं।
 </TabItem>
 </Tabs>

@@ -1,52 +1,52 @@
 ---
 sidebar_position: 10
-title: MSME on GeM
-sidebar_label: MSME
-description: Enter and validate MSME Udyog (Udyam) Aadhaar details in GeM (Government e-Marketplace) Seller Profile
+title: जैम पर एमएसएमई
+sidebar_label: एमएसएमई
+description: GeM (गवर्नमेंट ई-मार्केटप्लेस) सेलर प्रोफाइल में MSME उद्योग (उद्यम) आधार विवरण दर्ज करें और मान्य करें
 ---
 
-# MSME on GeM
+# जैम पर एमएसएमई
 
-Enter and manage your MSME Udyam Aadhaar detils in this tab.
+इस टैब में अपना एमएसएमई उद्यम आधार विवरण दर्ज करें और प्रबंधित करें।
 
 :::note
 
-This option is available only for those GeM Seller profile who have selected enabled it in [Additional Details Section](/docs/seller-profile/business-profile/additional-details)
+यह विकल्प केवल उन जीईएम विक्रेता प्रोफ़ाइल के लिए उपलब्ध है जिन्होंने इसे [अतिरिक्त विवरण](/docs/seller-profile/business-profile/additional-details) में सक्षम किया है।
 
 :::
 
-## What is MSME
-Udyam is an online system for registering **micro, small and medium enterprises** launched by the Union MSME Ministry on July 1, 2020
+## एमएसएमई क्या है?
+उद्यम **सूक्ष्म, लघु और मध्यम उद्यमों** को पंजीकृत करने के लिए एक ऑनलाइन प्रणाली है जिसे 1 जुलाई, 2020 को केंद्रीय एमएसएमई मंत्रालय द्वारा शुरू किया गया था।
 
-An enterprise shall be classified as a micro, small or medium enterprise on the basis of the following criteria, namely: --
+एक उद्यम को निम्नलिखित मानदंडों के आधार पर एक सूक्ष्म, लघु या मध्यम उद्यम के रूप में वर्गीकृत किया जाएगा, अर्थात्: --
 
-1. a micro enterprise, where the investment in plant and machinery or equipment does not exceed one crore rupees and turnover does not exceed five crore rupees
-2. a small enterprise, where the investment in plant and machinery or equipment does not exceed ten crore rupees and turnover does not exceed fifty crore rupees; and
-3. a medium enterprise, where the investment in plant and machinery or equipment does not exceed fifty crore rupees and turnover does not exceed two hundred and fifty crore rupees.
+1. एक सूक्ष्म उद्यम, जहां संयंत्र और मशीनरी या उपकरण में निवेश एक करोड़ रुपये से अधिक न हो और टर्नओवर पांच करोड़ रुपये से अधिक न हो
+2. एक छोटा उद्यम, जहां संयंत्र और मशीनरी या उपकरण में निवेश दस करोड़ रुपये से अधिक न हो और टर्नओवर पचास करोड़ रुपये से अधिक न हो; और
+3. एक मध्यम उद्यम, जहां संयंत्र और मशीनरी या उपकरण में निवेश पचास करोड़ रुपये से अधिक न हो और टर्नओवर ढाई सौ करोड़ रुपये से अधिक न हो।
 
 
-## Register a Micro, Small and Medium Enterprise
-- Any person who intends to establish a micro, small or medium enterprise may file Udyam Registration online in the Udyam Registration portal, based on self-declaration with no requirement to upload documents, papers, certificates or proof.
-- On registration, an enterprise (referred to as “Udyam” in the Udyam Registration portal) will be assigned a permanent identity number to be known as “‘Udyam Registration Number”
-- An e-certificate, namely, “Udyam Registration Certificate” shall be issued on completion of the registration process
+## एक सूक्ष्म, लघु और मध्यम उद्यम पंजीकृत करें
+- कोई भी व्यक्ति जो एक सूक्ष्म, लघु या मध्यम उद्यम स्थापित करने का इरादा रखता है, वह दस्तावेज, कागजात, प्रमाण पत्र या प्रमाण अपलोड करने की आवश्यकता के बिना स्व-घोषणा के आधार पर उद्यम पंजीकरण पोर्टल में उद्यम पंजीकरण ऑनलाइन दर्ज कर सकता है।
+- पंजीकरण पर, एक उद्यम (उद्यम पंजीकरण पोर्टल में "उद्यम" के रूप में संदर्भित) को एक स्थायी पहचान संख्या सौंपी जाएगी जिसे "उद्यम पंजीकरण संख्या" के रूप में जाना जाएगा।
+- पंजीकरण प्रक्रिया के पूरा होने पर एक ई-प्रमाण पत्र, अर्थात् "उद्यम पंजीकरण प्रमाणपत्र" जारी किया जाएगा
 
-Source: https://udyamregistration.gov.in/Government-India/Ministry-MSME-registration.htm
+स्रोत: https://udyamregistration.gov.in/Government-India/Ministry-MSME-registration.htm
 
-Registration process is Free of Cost. You can only register through the official website of Udyam Registration Govt of India.
+पंजीकरण प्रक्रिया निःशुल्क है। आप केवल उद्यम पंजीकरण भारत सरकार की आधिकारिक वेबसाइट के माध्यम से पंजीकरण कर सकते हैं।
 
-<a href="https://udyamregistration.gov.in/Government-India/Ministry-MSME-registration.htm" class="btn">Register Here</a>
+<a href="https://udyamregistration.gov.in/Government-India/Ministry-MSME-registration.htm" class="btn">यहां रजिस्टर करें</a>
 
-## Benefits
-There are several benefits for MSMEs on GeM Portal such as:
-1. Allow to participate in MSME Reserved Bid
-2. If an MSME holder is women, she is exempted to pay Caution Money
-3. Preference in financial Bid
+## फ़ायदे
+GeM पोर्टल पर MSMEs के लिए कई लाभ हैं जैसे:
+1. एमएसएमई आरक्षित बोली में भाग लेने की अनुमति दें
+2. यदि कोई एमएसएमई धारक महिला है, तो उसे कॉशन मनी का भुगतान करने की छूट है
+3. वित्तीय बोली में वरीयता
 
-## Steps
+## प्रक्रिया
 
 ![MSME](/img/doc/msme.jpg)
 
-- Enter Udyam Number
-- Enter Registered Phone No
-- Verify with the OTP
-- Save
+- उद्यम संख्या दर्ज करें
+- पंजीकृत फोन नंबर दर्ज करें
+- ओटीपी से वेरिफाई करें
+- सेव

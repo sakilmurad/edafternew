@@ -1,28 +1,28 @@
 ---
 sidebar_position: 1
-title: Vendor Assessments on GeM
-sidebar_label: Assessments
-description: View and apply for vendor assessment for OEM panels on GeM (Government e-Marketplace) Portal
+title: जैम पर विक्रेता आकलन
+sidebar_label: आकलन
+description: GeM (गवर्नमेंट ई-मार्केटप्लेस) पोर्टल पर ओईएम पैनल के लिए वेंडर असेसमेंट के लिए देखें और आवेदन करें
 ---
 
-# Vendor Assessments on GeM
-A Seller can Initiate Vendor assessment for the eligible category. The assessment is done by a third Party Verifying Agency
+# जैम पर विक्रेता आकलन
+एक विक्रेता पात्र श्रेणी के लिए विक्रेता मूल्यांकन शुरू कर सकता है। मूल्यांकन एक तृतीय पक्ष सत्यापन एजेंसी द्वारा किया जाता है
 
 ![Vendor Assessments](/img/doc/vendor-assessment.jpg)
 
-:::info Notes
+:::info
 
-- Vendor Assessment is mandatory for OEMs (unless exempted under VA Policy) vendor assessment is done by QCI to assess the business entity’s profile with respect to the supplying capacity and past performance / experiences etc.
-- A non-refundable fee of INR 11,200 + 18% GST is charged by QCI for Vendor Assessment of OEM (to be paid on-line through GeM).
-- Vendor Assessment shall be completed by QCI within 15 days of payment of fee and draft Vendor Assessment Report made available to the Seller.
-- If the Seller has any disagreement, it can be addressed to QCI within 5 days of the report being made available to them. In case of dispute/disagreement, the same has to be settled between 15th to 20th day.
-- On 21st day of payment of fee Vendor Assessment Report to be made available on GeM portal.
+- ओईएम के लिए वेंडर असेसमेंट अनिवार्य है (जब तक कि वीए पॉलिसी के तहत छूट न दी गई हो) वेंडर असेसमेंट QCI द्वारा आपूर्ति क्षमता और पिछले प्रदर्शन/अनुभव आदि के संबंध में व्यावसायिक इकाई की प्रोफाइल का आकलन करने के लिए किया जाता है।
+- ओईएम के वेंडर असेसमेंट के लिए क्यूसीआई द्वारा 11,200 रुपये + 18% जीएसटी का अप्रतिदेय शुल्क लिया जाता है (जीईएम के माध्यम से ऑनलाइन भुगतान किया जाना है)।
+- शुल्क के भुगतान के 15 दिनों के भीतर क्यूसीआई द्वारा विक्रेता मूल्यांकन पूरा किया जाएगा और विक्रेता को मसौदा विक्रेता आकलन रिपोर्ट उपलब्ध कराई जाएगी।
+- यदि विक्रेता के पास कोई असहमति है, तो उसे रिपोर्ट उपलब्ध कराने के 5 दिनों के भीतर क्यूसीआई को संबोधित किया जा सकता है। विवाद/असहमति की स्थिति में 15वें से 20वें दिन के बीच इसका निपटारा करना होगा।
+- शुल्क के भुगतान के 21वें दिन वेंडर असेसमेंट रिपोर्ट जीईएम पोर्टल पर उपलब्ध कराई जाएगी।
 
 :::
 
-## How to initiate vendor assessment
-First you should have go through the [Vendor Assessment Policy document](https://assets-bg.gem.gov.in/resources/upload/shared_doc/vendor-validation-policy-v3_1601553886.pdf).
+## विक्रेता मूल्यांकन कैसे आरंभ करें
+पहले आपको [विक्रेता मूल्यांकन नीति दस्तावेज़](https://assets-bg.gem.gov.in/resources/upload/shared_doc/vendor-validation-policy-v3_1601553886.pdf) को पढ़ना चाहिए। 
 
-If you are eligible for the vendor assessment, you can initiate new vendor assessment request by clicking `NEW ASSESSMENT REQUEST` button.
+यदि आप विक्रेता मूल्यांकन के लिए पात्र हैं, तो आप `NEW ASSESSMENT REQUEST` बटन पर क्लिक करके नया विक्रेता मूल्यांकन अनुरोध आरंभ कर सकते हैं।
 
-Follow this guide to initiate new vendor assessment request: https://assets-bg.gem.gov.in/resources/pdf/user_manual_gem_va.pdf
+नया विक्रेता मूल्यांकन अनुरोध आरंभ करने के लिए इस मार्गदर्शिका का पालन करें: https://assets-bg.gem.gov.in/resources/pdf/user_manual_gem_va.pdf

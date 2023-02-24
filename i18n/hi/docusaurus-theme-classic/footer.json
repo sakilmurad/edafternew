@@ -32,7 +32,7 @@
     "description": "The label of footer link with label=Tools linking to /tools"
   },
   "link.item.label.Contact": {
-    "message": "हमसे जुड़े",
+    "message": "संपर्क करें",
     "description": "The label of footer link with label=Contact linking to /contact"
   },
   "link.item.label.Telegram": {

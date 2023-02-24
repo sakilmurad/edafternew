@@ -1,31 +1,31 @@
 ---
 sidebar_position: 11
-title: Beneficial Ownership Compliance on GeM
-sidebar_label: Beneficial Ownership Compliance
-description: confirm your compliance regarding restrictions under Rule 144(xi) of the General Financial Rules (GFR), 2017 on GeM (Government e-Marketplace) Portal
+title: जैम पर लाभकारी स्वामित्व अनुपालन
+sidebar_label: लाभकारी स्वामित्व अनुपालन
+description: जीईएम (गवर्नमेंट ई-मार्केटप्लेस) पोर्टल पर सामान्य वित्तीय नियम (जीएफआर), 2017 के नियम 144(xi) के तहत प्रतिबंधों के संबंध में अपने अनुपालन की पुष्टि करें
 ---
 
-# Beneficial Ownership Compliance on GeM
-There are **Compliance of Restrictions under Rule 144 (xi) of GFR 2017** and **clause no 26** in [GeM GTC](https://assets-bg.gem.gov.in/resources/pdf/GTC_on_GeM_3.0_v1.14.pdf) about restrictions on procurement from a bidder of a country which shares a land border with India
+# जैम पर लाभकारी स्वामित्व अनुपालन
+जीएफआर 2017 के नियम 144 (xi) के तहत **प्रतिबंधों का अनुपालन** और [जीईएम जीटीसी](https://assets-bg.gem.gov.in/resources/pdf/GTC_on_GeM_3.0_v1.14.pdf) में **खंड संख्या 26** भारत के साथ भूमि सीमा साझा करने वाले देश के बोलीदाता से खरीद पर प्रतिबंध के बारे में है।
 
 - **Not sharing Land Border with India**:
-If you are not sharing any border land with India, then you don't need to upload any declaration.
-Simply select first option[^1] and Verify with OTP.
+यदि आप भारत के साथ कोई सीमा भूमि साझा नहीं कर रहे हैं, तो आपको कोई घोषणा अपलोड करने की आवश्यकता नहीं है।
+बस पहला विकल्प [^1] चुनें और ओटीपी के साथ सत्यापित करें।
 
 
 - **Sharing Land Border with India**:
-If your are from the country which shared the land border with India, you have to submit the [this declaration](https://assets-bg.gem.gov.in/resources/pdf/registration-of-bidders-from-countries-which-shares-land-border-with-india.pdf).
+यदि आप उस देश से हैं जो भारत के साथ भूमि सीमा साझा करता है, तो आपको [यह घोषणा](https://assets-bg.gem.gov.in/resources/pdf/registration-of-bidders-from-countries-which-shares-land-border-with-india.pdf) जमा करनी होगी
 
-Fill out this declaration and select second option[^2].
-Upload the declaration and Verify with OTP.
+इस घोषणा को भरें और दूसरा विकल्प चुनें[^2].
+घोषणा अपलोड करें और ओटीपी के साथ सत्यापित करें
 
 ![Beneficial Ownership Declaration](/img/doc/beneficial-ownership-declaration.jpg)
 
-:::danger Caution
+:::danger
 
-Any false declaration and non-compliance of the GeM GTC would be a ground for immediate termination of the contract and further legal action in accordance with the laws.
+कोई भी झूठी घोषणा और जीईएम जीटीसी का अनुपालन न करना अनुबंध को तत्काल समाप्त करने और कानूनों के अनुसार आगे की कानूनी कार्रवाई का आधार होगा।
 
 :::
 
-[^1]: I have read the clause regarding restrictions on procurement from a bidder of a country which shares a land border with India; I certify that this Seller / Service Provider / Bidder is not from such a country. I hereby certify that this Seller / Service Provider / Bidder fulfills all requirements in this regard and is eligible to be considered for procurement on GeM. I understand that any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in accordance with the laws
-[^2]: I have read the clause regarding restrictions on procurement from a bidder of a country which shares a land border with India; I certify that this Seller / Service Provider / Bidder is from such a country but has been registered with the Competent Authority. Evidence of valid registration by the Competent Authority is attached / uploaded herewith. I understand that any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in accordance with the laws
+[^1]: मैंने भारत के साथ भूमि सीमा साझा करने वाले देश के बोलीदाता से खरीद पर प्रतिबंध के संबंध में खंड पढ़ा है; मैं प्रमाणित करता हूं कि यह विक्रेता/सेवा प्रदाता/बोली लगाने वाला ऐसे देश से नहीं है। मैं एतद्द्वारा प्रमाणित करता हूं कि यह विक्रेता/सेवा प्रदाता/बोलीदाता इस संबंध में सभी आवश्यकताओं को पूरा करता है और जीईएम पर खरीद के लिए विचार किए जाने के योग्य है। मैं समझता हूं कि कोई भी झूठी घोषणा और इसका अनुपालन न करना अनुबंध को तत्काल समाप्त करने और कानूनों के अनुसार आगे की कानूनी कार्रवाई का आधार होगा।
+[^2]: मैंने भारत के साथ भूमि सीमा साझा करने वाले देश के बोलीदाता से खरीद पर प्रतिबंध के संबंध में खंड पढ़ा है; मैं प्रमाणित करता हूं कि यह विक्रेता/सेवा प्रदाता/बोली लगाने वाला ऐसे देश से नहीं है। मैं एतद्द्वारा प्रमाणित करता हूं कि यह विक्रेता/सेवा प्रदाता/बोलीदाता इस संबंध में सभी आवश्यकताओं को पूरा करता है और जीईएम पर खरीद के लिए विचार किए जाने के योग्य है। मैं समझता हूं कि कोई भी झूठी घोषणा और इसका अनुपालन न करना अनुबंध को तत्काल समाप्त करने और कानूनों के अनुसार आगे की कानूनी कार्रवाई का आधार होगा।

@@ -1,58 +1,58 @@
 ---
 sidebar_position: 2
-title: Vendor Assessments Exemption Documents on GeM
-sidebar_label: Assessments Exemption Documents
-description: Upload Vendor Assessments Exemption Documents to apply for vendor assessment exemption on GeM (Government e-Marketplace) Portal
+title: जैम पर विक्रेता आकलन छूट दस्तावेज
+sidebar_label: आकलन छूट दस्तावेज
+description: GeM (गवर्नमेंट ई-मार्केटप्लेस) पोर्टल पर वेंडर असेसमेंट छूट के लिए आवेदन करने के लिए वेंडर असेसमेंट छूट दस्तावेज़ अपलोड करें
 ---
 
-# Vendor Assessments Exemption Documents on GeM
-If a seller wants to apply for vendor assessment exemption. He/she must has to upload required vendor assessment exemption documents (as per their business type).
+# जैम पर विक्रेता आकलन छूट दस्तावेज
+यदि कोई विक्रेता विक्रेता मूल्यांकन छूट के लिए आवेदन करना चाहता है। उसे आवश्यक विक्रेता मूल्यांकन छूट दस्तावेज़ (उनके व्यवसाय प्रकार के अनुसार) अपलोड करने होंगे।
 
-## Required documents
-Documents Required for Vendor Assessment Exemption Basis Constitution Type of Seller
+## आवश्यक दस्तावेज
+वेंडर असेसमेंट एक्सेम्पशन बेसिस कॉन्स्टीट्यूशन टाइप ऑफ सेलर के लिए आवश्यक दस्तावेज
 
-### LLP
-- Form-16-Certificate of Incorporation
-- LLP Agreement
-- LLP Agreement in Form-3, in case of any change in the Agreement
-- List of Partners (Names of all Partners in company and their Nationality with AADHAAR / Passport copy)
-- Master Data of the LLP on the MCA web portal
-- Master Data of the Designated Partner Details on the MCA web portal.
-- Beneficial Ownership Declaration [^1]
+### सीमित देयता भागीदारी
+- प्रपत्र - 16 - निगमन का प्रमाण पत्र
+- एलएलपी समझौता
+- फॉर्म-3 में एलएलपी एग्रीमेंट, एग्रीमेंट में किसी तरह के बदलाव की स्थिति में
+- भागीदारों की सूची (कंपनी में सभी भागीदारों के नाम और आधार / पासपोर्ट प्रति के साथ उनकी राष्ट्रीयता)
+- एमसीए वेब पोर्टल पर एलएलपी का मास्टर डाटा
+- एमसीए वेब पोर्टल पर नामित भागीदार विवरण का मास्टर डेटा।
+- लाभकारी स्वामित्व घोषणा [^1]
 
-**Documents to be certified by the partners**.
+**भागीदारों द्वारा प्रमाणित किए जाने वाले दस्तावेज़**.
 
-### Proprietorship Firm
-- Name of the owner and nationality (Copy of AADHAAR)
-- Beneficial Ownership Declaration [^1]
+### प्रोपराइटरशिप फर्म
+- मालिक का नाम और राष्ट्रीयता (आधार की प्रति)
+- लाभकारी स्वामित्व घोषणा [^1]
 
-**Documents to be certified by the proprietor**.
+**मालिक द्वारा प्रमाणित किए जाने वाले दस्तावेज़**.
 
-### Partnership Firm
-- List of all Partners along with their PAN (Names of all Partners in company and their Nationality with AADHAAR / Passport copy)
-- Partnership Deed
-- Beneficial Ownership Declaration [^1]
+### साझेदारी फर्म
+- अपने पैन के साथ सभी भागीदारों की सूची (कंपनी में सभी भागीदारों के नाम और आधार / पासपोर्ट प्रति के साथ उनकी राष्ट्रीयता)
+- पार्टनरशिप डीड
+- लाभकारी स्वामित्व घोषणा [^1]
 
-**Documents to be certified by the partners**.
+**मालिक द्वारा प्रमाणित किए जाने वाले दस्तावेज़**.
 
-### Company
-- Master Data of the Company on the MCA web portal.
-- List of Directors (Name of all Directors, their DIN number, Nationality, Aadhar / Passport Copy)
-- List of shareholders with details of Percentage of shares held in the company.
-(Names of all Shareholders holding more than 1% share in company and their Nationality, If any other Company is shareholder then CIN No of that company and its place of registration and address.)
-- RBI approval to establish a place of business in India under Foreign Exchange Management Act or, in case of foreign company's India Office.
-- Form MGT-7-Annual Return of the Company filed with MCA for last financial year.
-- Form AOC-4-Financial Statements of the Company filed with MCA for last financial year
-- In case of Joint venture company, all above details of all JV members to be submitted along with Joint Venture Agreement (JVA)/Shareholders Agreement (SHA)
-- Copy of BEN 2 filed on the MCA web portal
-- Authorization letter in favor of the signing official for certification of the above documents
-- Import Export Code Certificate, if any
-- Beneficial Ownership Declaration [^1]
+### कंपनी
+- एमसीए वेब पोर्टल पर कंपनी का मास्टर डाटा।
+- निदेशकों की सूची (सभी निदेशकों के नाम, उनकी डीआईएन संख्या, राष्ट्रीयता, आधार/पासपोर्ट प्रति)
+- कंपनी में धारित शेयरों के प्रतिशत के विवरण के साथ शेयरधारकों की सूची।
+(कंपनी में 1% से अधिक शेयर रखने वाले सभी शेयरधारकों के नाम और उनकी राष्ट्रीयता, यदि कोई अन्य कंपनी शेयरधारक है तो उस कंपनी का CIN नंबर और उसका पंजीकरण का स्थान और पता।)
+- विदेशी मुद्रा प्रबंधन अधिनियम के तहत या विदेशी कंपनी के भारत कार्यालय के मामले में भारत में व्यापार की जगह स्थापित करने के लिए आरबीआई की मंजूरी।
+- पिछले वित्तीय वर्ष के लिए एमसीए के साथ दाखिल कंपनी का फॉर्म एमजीटी-7-वार्षिक रिटर्न।
+- पिछले वित्तीय वर्ष के लिए एमसीए के साथ दायर कंपनी के फॉर्म एओसी-4-वित्तीय विवरण
+- संयुक्त उद्यम कंपनी के मामले में, संयुक्त उद्यम समझौते (जेवीए)/शेयरधारक समझौते (एसएचए) के साथ सभी संयुक्त उद्यम सदस्यों के उपरोक्त विवरण प्रस्तुत किए जाने हैं।
+- एमसीए वेब पोर्टल पर दायर बेन 2 की प्रति
+- उपरोक्त दस्तावेजों के प्रमाणीकरण के लिए हस्ताक्षर करने वाले अधिकारी के पक्ष में प्राधिकरण पत्र
+- आयात निर्यात कोड प्रमाणपत्र, यदि कोई हो
+- लाभकारी स्वामित्व घोषणा [^1]
 
-**Documents should be certified by any two Directors/ Authorized Signatory/Company Secretary**.
+**दस्तावेजों को किन्हीं दो निदेशकों/अधिकृत हस्ताक्षरकर्ता/कंपनी सचिव द्वारा प्रमाणित किया जाना चाहिए**.
 
-All these documents should be uploaded before applying Vendor Assessment Exemption.
+वेंडर असेसमेंट छूट लागू करने से पहले इन सभी दस्तावेजों को अपलोड किया जाना चाहिए।
 
-Follow [this tutorial](/docs/seller-profile/vendor-assessment/assessment-exemption) to apply for vendor assessment exemption.
+विक्रेता मूल्यांकन छूट के लिए आवेदन करने के लिए [इस ट्यूटोरियल](/docs/seller-profile/vendor-assessment/assessment-exemption) का पालन करें।
 
 [^1]: [Beneficial Ownership Declaration format](https://assets-bg.gem.gov.in/resources/upload/shared_doc/beneficial-ownership-declaration-format_1632115898.pdf)

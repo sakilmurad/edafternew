@@ -1,20 +1,20 @@
 ---
 sidebar_position: 9
-title: Key Person Validation on GeM
-sidebar_label: Key Person Validation
-description: Key Person Validation in GeM (Government e-Marketplace) Seller Profile
+title: जैम पर प्रमुख व्यक्ति सत्यापन
+sidebar_label: प्रमुख व्यक्ति सत्यापन
+description: GeM (सरकारी ई-मार्केटप्लेस) विक्रेता प्रोफाइल में प्रमुख व्यक्ति सत्यापन
 ---
 
-# Key Person Validation on GeM
-Follow the steps below to validate key person details in your GeM seller profile.
+# जैम पर प्रमुख व्यक्ति सत्यापन
+अपने जैम विक्रेता प्रोफाइल में प्रमुख व्यक्ति के विवरण को सत्यापित करने के लिए नीचे दिए गए चरणों का पालन करें।
 
-![Key Personal Validation](/img/doc/key-person-validation.jpg)
+![प्रमुख व्यक्ति सत्यापन](/img/doc/key-person-validation.jpg)
 
-- **Company PAN** - Enter your company PAN No
-- **Authorized Person Name** - Enter the name as per ITR details (Name should be as per PAN)
-- **ITR Type** - Select ITR Type
-- **Assessment Year** - Select Assessment Year as per ITR details
-- **Acknowledgement Number** - Enter acknowledgment number as per ITR return filing details
-- Click on `VERIFY COMPANY DETAILS`.
+- **Company PAN** - अपनी कंपनी पैन नंबर दर्ज करें
+- **Authorized Person Name** - आईटीआर विवरण के अनुसार नाम दर्ज करें (नाम पैन के अनुसार होना चाहिए)
+- **ITR Type** - आईटीआर प्रकार का चयन करें
+- **Assessment Year** - आईटीआर विवरण के अनुसार निर्धारण वर्ष का चयन करें
+- **Acknowledgement Number** - आईटीआर रिटर्न फाइलिंग विवरण के अनुसार पावती संख्या दर्ज करें
+- `VERIFY COMPANY DETAILS` पर क्लिक करें । 
 
-If all the details are entered correctly as per ITR, you will see a confirmation message about successfully key person validation.
+यदि आईटीआर के अनुसार सभी विवरण सही ढंग से दर्ज किए गए हैं, तो आपको सफलतापूर्वक प्रमुख व्यक्ति सत्यापन के बारे में एक पुष्टिकरण संदेश दिखाई देगा।

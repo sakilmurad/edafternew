@@ -1,12 +1,12 @@
 ---
 sidebar_position: 1
-title: Categories on GeM
-sidebar_label: Categories
-description: Learn about categories on GeM (Government e-Marketplace)
+title: जैम पर श्रेणियाँ
+sidebar_label: श्रेणियाँ
+description: GeM (सरकारी ई-मार्केटप्लेस) पर श्रेणियों के बारे में जानें
 ---
 
-# Categories on GeM
-A seller can offer Products or Services on GeM Portal. There are too many categories available for both type of offering on GeM Portal.
+# जैम पर श्रेणियाँ
+एक विक्रेता जीईएम पोर्टल पर उत्पादों या सेवाओं की पेशकश कर सकता है। जीईएम पोर्टल पर दोनों प्रकार की पेशकशों के लिए बहुत अधिक श्रेणियां उपलब्ध हैं।
 
 **Product Categories**
 
@@ -28,6 +28,6 @@ Services
 
 [View All Service Categories](https://mkp.gem.gov.in/services#!/browse/)
 
-**You can search with your keyword to find related categories on the [GeM Marketplace](https://mkp.gem.gov.in/market)**
+**आप [जीईएम मार्केटप्लेस](https://mkp.gem.gov.in/market)** पर संबंधित श्रेणियों को खोजने के लिए अपने कीवर्ड से खोज सकते हैं
 
 ![Categories on GeM](/img/doc/categories.jpg)

@@ -1,76 +1,76 @@
 ---
 sidebar_position: 3
-sidebar_label: Brand Approval
-title: Brand Approval on GeM
-description: Learn document guidelines and process to add your band on GeM (Government e-Marketplace) Portal.
+title: जैम पर ब्रांड की स्वीकृति
+sidebar_label: ब्रांड की स्वीकृति
+description: GeM (सरकारी ई-मार्केटप्लेस) पोर्टल पर अपने बैंड को जोड़ने के लिए दस्तावेज़ दिशानिर्देश और प्रक्रिया जानें।
 ---
 
-# Brand Approval on GeM
+# जैम पर ब्रांड की स्वीकृति
 
-The brand approval process on the **Government e-Marketplace (GeM)** platform is a crucial step for sellers to get their products listed on the platform. The following is the process for obtaining brand approval on GeM:
+**गवर्नमेंट ई-मार्केटप्लेस (GeM)** प्लेटफॉर्म पर ब्रांड अनुमोदन प्रक्रिया विक्रेताओं के लिए अपने उत्पादों को प्लेटफॉर्म पर सूचीबद्ध कराने के लिए एक महत्वपूर्ण कदम है। GeM पर ब्रांड अनुमोदन प्राप्त करने की प्रक्रिया निम्नलिखित है:
 
-- **Submit Brand Approval Request**: The first step is to submit a brand approval request through the GeM portal. The request should include details such as the brand name, product category, and product specifications.
-- **Review of Brand Approval Request**: The GeM team will review the brand approval request to ensure that it meets the required criteria. This includes checking the product specifications, product category, and other details.
--**Brand Approval Decision**: Based on the review, the GeM team will either approve or reject the brand approval request. If the request is approved, the seller will be notified and the brand will be added to the GeM portal.
--**Product Listing**: Once the brand has been approved, the seller can list their products on the GeM platform. They will need to provide details such as product description, price, and delivery terms.
--**Product Validation**: GeM may validate the listed products to ensure that they meet the approved specifications and quality standards. If the products are found to be non-compliant, the seller may need to make changes or the product may be removed from the platform.
+- **ब्रांड स्वीकृति अनुरोध सबमिट करें**: पहला कदम जीईएम पोर्टल के माध्यम से ब्रांड अनुमोदन अनुरोध सबमिट करना है। अनुरोध में विवरण शामिल होना चाहिए जैसे कि ब्रांड का नाम, उत्पाद श्रेणी और उत्पाद विनिर्देश।
+- **ब्रांड स्वीकृति अनुरोध की समीक्षा**: जीईएम टीम ब्रांड अनुमोदन अनुरोध की समीक्षा करेगी ताकि यह सुनिश्चित किया जा सके कि यह आवश्यक मानदंडों को पूरा करता है। इसमें उत्पाद विनिर्देशों, उत्पाद श्रेणी और अन्य विवरणों की जांच करना शामिल है।
+-**ब्रांड अनुमोदन निर्णय**: समीक्षा के आधार पर, GeM टीम ब्रांड अनुमोदन अनुरोध को या तो स्वीकृत करेगी या अस्वीकार करेगी। यदि अनुरोध स्वीकृत हो जाता है, तो विक्रेता को सूचित किया जाएगा और ब्रांड को GeM पोर्टल में जोड़ दिया जाएगा।
+-**उत्पाद सूची**: एक बार ब्रांड को मंजूरी मिल जाने के बाद, विक्रेता अपने उत्पादों को जीईएम प्लेटफॉर्म पर सूचीबद्ध कर सकता है। उन्हें उत्पाद विवरण, मूल्य और वितरण शर्तों जैसे विवरण प्रदान करने की आवश्यकता होगी।
+-**उत्पाद सत्यापन**: जीईएम सूचीबद्ध उत्पादों को सत्यापित कर सकता है ताकि यह सुनिश्चित किया जा सके कि वे अनुमोदित विनिर्देशों और गुणवत्ता मानकों को पूरा करते हैं। यदि उत्पाद गैर-अनुपालन वाले पाए जाते हैं, तो विक्रेता को बदलाव करने की आवश्यकता हो सकती है या उत्पाद को प्लेटफॉर्म से हटाया जा सकता है।
 
 
-The brand approval process on GeM is designed to ensure that only high-quality products are listed on the platform and to protect the interests of the government and the end-users. By following the process, sellers can ensure that their products are listed on the platform and can take advantage of the opportunities offered by the government procurement market.
+GeM पर ब्रांड अनुमोदन प्रक्रिया को यह सुनिश्चित करने के लिए डिज़ाइन किया गया है कि केवल उच्च-गुणवत्ता वाले उत्पाद ही प्लेटफ़ॉर्म पर सूचीबद्ध हों और सरकार और अंतिम-उपयोगकर्ताओं के हितों की रक्षा करें। प्रक्रिया का पालन करके, विक्रेता यह सुनिश्चित कर सकते हैं कि उनके उत्पाद प्लेटफॉर्म पर सूचीबद्ध हैं और सरकारी खरीद बाजार द्वारा पेश किए गए अवसरों का लाभ उठा सकते हैं। ब्रांड नाम, उत्पाद श्रेणी और उत्पाद विनिर्देशों जैसे विवरण।
 
-## Steps for Brand Approval
-Go to the `Catalogue` > `Products` > `Add New Offering`. Find the category in which you want to add your brand. New listing tab will be open. You can find `COULDN'T FIND YOUR BRAND ? CLICK HERE TO ADD` link. Click on the link to create a new request
+## ब्रांड अनुमोदन के लिए प्रक्रिया
+`Catalogue` > `Products` > `Add New Offering` पर जाएं। वह श्रेणी ढूंढें जिसमें आप अपना ब्रांड जोड़ना चाहते हैं। नया लिस्टिंग टैब खुला होगा। आप खोज सकते हैं `COULDN'T FIND YOUR BRAND ? CLICK HERE TO ADD` नया अनुरोध बनाने के लिए लिंक पर क्लिक करें
 
 ![New Brand Request](/img/doc/new-brand-request.jpg)
 
-Now, there are three option available for you. Let's discuss all in details.
-#### 1. Having a Registered Trademark
-Select type of Request as `We own Registered Trademark for a Brand`, enter the brand name and click on confirm and then `PROCEED`
-- Enter the link to the Brand's website
-- Upload the documents
-- If you want to apply for priority processing, then select Yes and enter the valid - bid number
-- Click on `APPLY FOR BRAND`
+अब, आपके लिए तीन विकल्प उपलब्ध हैं। आइए सभी विवरणों पर चर्चा करें।
+#### 1. एक पंजीकृत ट्रेडमार्क होना
+`We own Registered Trademark for a Brand` के रूप में अनुरोध का प्रकार चुनें, ब्रांड नाम दर्ज करें और पुष्टि पर क्लिक करें और फिर `PROCEED`
+- ब्रांड की वेबसाइट का लिंक डालें
+- दस्तावेज अपलोड करें
+- यदि आप प्राथमिकता प्रक्रिया के लिए आवेदन करना चाहते हैं, तो हां चुनें और वैध - बोली संख्या दर्ज करें
+- `APPLY FOR BRAND` पर क्लिक करें
 
-#### 2. Having a brand name but no a Registered Trademark
-Select type of Request as `We are owner of a Brand but do not have Registered trademark`, enter the brand name and click on confirm and then `PROCEED`
-- Follow the above steps (You only have to change the documents from first scenario, i.e OEM undertaking Letter). For more details please read [documents guidelines](#document-guidelines)
+#### 2. एक ब्रांड नाम है लेकिन कोई पंजीकृत ट्रेडमार्क नहीं है
+अनुरोध के प्रकार का चयन करें जैसे `We are owner of a Brand but do not have Registered trademark`, ब्रांड नाम दर्ज करें और पुष्टि पर क्लिक करें और फिर `PROCEED`
+- उपरोक्त चरणों का पालन करें (आपको केवल पहले परिदृश्य से दस्तावेजों को बदलना होगा, यानी ओईएम अंडरटेकिंग लेटर)। अधिक जानकारी के लिए कृपया [दस्तावेज़ दिशानिर्देश](#document-guidelines) पढ़ें
 
-#### 3. Haven't brand and want to apply for OEM Dashboard
-Select type of Request as `We do not own any Brand and want to apply for OEM dashboard without Brand`, enter the brand name and click on confirm and then `PROCEED`
-- Follow the first scenario's steps (You only have to change the documents from first scenario). For more details please read [documents guidelines](#document-guidelines)
+#### 3. ब्रांड नहीं है और ओईएम डैशबोर्ड के लिए आवेदन करना चाहते हैं
+अनुरोध के प्रकार का चयन करें जैसे `We do not own any Brand and want to apply for OEM dashboard without Brand`, ब्रांड नाम दर्ज करें और पुष्टि पर क्लिक करें और फिर `PROCEED`
+- पहले परिदृश्य के चरणों का पालन करें (आपको केवल पहले परिदृश्य से दस्तावेज़ों को बदलना होगा)। अधिक जानकारी के लिए कृपया [दस्तावेज़ दिशानिर्देश](#document-guidelines) पढ़ें
 
-Once the request is submitted, you can track the request status in the Brand/OEM Requests option under the "Published" tab.
+एक बार अनुरोध सबमिट हो जाने के बाद, आप "Published" टैब के अंतर्गत ब्रांड/ओईएम अनुरोध विकल्प में अनुरोध की स्थिति को ट्रैक कर सकते हैं।
 
-GeM has already prepare detailed presentation through which seller can learn the process to get their bands listed on the GeM Portal.
+GeM ने पहले ही विस्तृत प्रस्तुति तैयार कर ली है जिसके माध्यम से विक्रेता अपने बैंड को GeM पोर्टल पर सूचीबद्ध करने की प्रक्रिया सीख सकते हैं।
 
-<a href="https://assets-bg.gem.gov.in/resources/upload/shared_doc/training_content/Brand-Approval-v1-1652262269.pdf" class="btn">Learn More</a>
+<a href="https://assets-bg.gem.gov.in/resources/upload/shared_doc/training_content/Brand-Approval-v1-1652262269.pdf" class="btn">और अधिक जानें</a>
 
-## Document Guidelines
-### Applying for Brand
-You can upload one of the following documents as supporting documents for your brand application:
-- **Trademark Registration Proof** -- This can be obtained from the IP India website at https://ipindiaonline.gov.in/tmrpublicsearch/frmmain.aspx by entering brand name and choosing relevant class. The Class should be relevant to the GeM Category in which you are applying the brand. Download and attach the report from the website or attach a screenshot showing brand name and class with the request to submit as proof.
-- **Trademark Certificate** -- Copy of the trademark registration certificate
-- **OEM Authorization letter** -- If you are not the OEM of the brand, you can submit a letter on the OEM's letterhead clearly mentioning the brand name and authorization given to you by OEM to transact in the brand's products. OEM's contact details like contact person, email (on OEM domain) should be included on the letter
-- **Govt. Order copy** -- Scanned copies of any Government orders you have fulfilled in the past showing the products of the brand as order items. The brand name should be clearly visible on the order document
-- **Other Documentary Evidence** -- Any other documentary evidence to prove brand existence
+## दस्तावेज़ दिशानिर्देश
+### ब्रांड के लिए आवेदन करना
+आप अपने ब्रांड एप्लिकेशन के लिए सहायक दस्तावेज़ों के रूप में निम्न में से कोई एक दस्तावेज़ अपलोड कर सकते हैं:
+- **Trademark Registration Proof** -- इसे आईपी इंडिया की वेबसाइट https://ipindiaonline.gov.in/tmrpublicsearch/frmmain.aspx से ब्रांड नाम दर्ज करके और प्रासंगिक वर्ग चुनकर प्राप्त किया जा सकता है। कक्षा उस GeM श्रेणी के लिए प्रासंगिक होनी चाहिए जिसमें आप ब्रांड का प्रयोग कर रहे हैं। वेबसाइट से रिपोर्ट डाउनलोड करें और संलग्न करें या प्रमाण के रूप में प्रस्तुत करने के अनुरोध के साथ ब्रांड नाम और वर्ग दिखाते हुए एक स्क्रीनशॉट संलग्न करें।
+- **Trademark Certificate** -- ट्रेडमार्क पंजीकरण प्रमाणपत्र की प्रति
+- **OEM Authorization letter** -- यदि आप ब्रांड के ओईएम नहीं हैं, तो आप ओईएम के लेटरहेड पर एक पत्र जमा कर सकते हैं जिसमें स्पष्ट रूप से ब्रांड नाम और ब्रांड के उत्पादों में लेन-देन करने के लिए ओईएम द्वारा आपको दिए गए प्राधिकरण का उल्लेख हो। ओईएम के संपर्क विवरण जैसे संपर्क व्यक्ति, ईमेल (ओईएम डोमेन पर) को पत्र में शामिल किया जाना चाहिए
+- **Govt. Order copy** -- आपके द्वारा अतीत में पूरे किए गए किसी भी सरकारी आदेश की स्कैन की गई प्रतियां ब्रांड के उत्पादों को ऑर्डर आइटम के रूप में दिखाती हैं। ऑर्डर दस्तावेज़ पर ब्रांड का नाम स्पष्ट रूप से दिखाई देना चाहिए
+- **Other Documentary Evidence** -- ब्रांड के अस्तित्व को साबित करने के लिए कोई अन्य दस्तावेजी साक्ष्य
 
-### Applying for OEM Dashboard
-Please ensure that your Vendor Assessment is Verified in the category for which you are applying to be OEM.
+### ओईएम डैशबोर्ड के लिए आवेदन करना
+कृपया सुनिश्चित करें कि आपका विक्रेता मूल्यांकन उस श्रेणी में सत्यापित है जिसके लिए आप ओईएम बनने के लिए आवेदन कर रहे हैं।
 
-The following documents can be uploaded if you are also applying for OEM Dashboard:
-- **Trademark Certificate (mandatory)**: 
-1. Trademark Status should be **Registered**
-2. **Trademark Class** should match the category in which you are applying for OEM Dashboard.
-You can verify the class on the IP India website. [Click here](https://ipindiaonline.gov.in/tmrpublicsearch/classfication_goods_service.htm)
-3. Brand on Trademark Certificate should match the brand for which you are applying for OEM Dashboard
-4. Organization name on Trademark Certificate should match organization name on GeM
-- **Deemed OEM Letter (optional)**: If the OEM of your brand does not sell directly in India, but the OEM has authorized your company to represent the brand in India, you can apply to be the Deemed OEM for the brand. Kindly upload a signed and stamped Deemed OEM Letter (download prescribed format) on OEM’s letterhead. Please note that the Trademark Certificate is still mandatory.
+यदि आप ओईएम डैशबोर्ड के लिए भी आवेदन कर रहे हैं तो निम्नलिखित दस्तावेज अपलोड किए जा सकते हैं:
+- **ट्रेडमार्क प्रमाणपत्र (अनिवार्य)**:
+1. ट्रेडमार्क की स्थिति **पंजीकृत** होनी चाहिए
+2. **ट्रेडमार्क वर्ग** उस श्रेणी से मेल खाना चाहिए जिसमें आप ओईएम डैशबोर्ड के लिए आवेदन कर रहे हैं।
+आप आईपी इंडिया की वेबसाइट पर कक्षा को सत्यापित कर सकते हैं। [यहाँ क्लिक करें](https://ipindiaonline.gov.in/tmrpublicsearch/classfication_goods_service.htm)
+3. ट्रेडमार्क प्रमाणपत्र पर ब्रांड उस ब्रांड से मेल खाना चाहिए जिसके लिए आप ओईएम डैशबोर्ड के लिए आवेदन कर रहे हैं
+4. ट्रेडमार्क प्रमाणपत्र पर संगठन का नाम GeM पर संगठन के नाम से मेल खाना चाहिए
+- **डीम्ड ओईएम पत्र (वैकल्पिक)**: यदि आपके ब्रांड का ओईएम सीधे भारत में नहीं बिकता है, लेकिन ओईएम ने आपकी कंपनी को भारत में ब्रांड का प्रतिनिधित्व करने के लिए अधिकृत किया है, तो आप ब्रांड के लिए डीम्ड ओईएम होने के लिए आवेदन कर सकते हैं . कृपया ओईएम के लेटरहेड पर एक हस्ताक्षरित और मुद्रांकित डीम्ड ओईएम लेटर (डाउनलोड निर्धारित प्रारूप) अपलोड करें। कृपया ध्यान दें कि ट्रेडमार्क प्रमाणपत्र अभी भी अनिवार्य है।
 
 :::info
-- You can submit a request for new brand as well OEM Dashboard for an existing brand through this functionality
-- Once the request is submitted, it will be processed by the GeM Brand Approval team
-- It usually takes about 7 days for the approval team to review the request. They may ask for additional information on the request during this time
-- Please note, if you don’t have any website link to enter in the link section, please enter NA
-- Furnishing wrong/misleading/spurious information will lead to rejection of your request
-- For Unregistered and Unbranded products, the catalog uploaded will be sent to the product approval team. Only once it is approved by them, the product is published in the market. In Registered brand case, the product is auto published in the market
+- आप इस कार्यक्षमता के माध्यम से मौजूदा ब्रांड के लिए नए ब्रांड के साथ-साथ ओईएम डैशबोर्ड के लिए अनुरोध सबमिट कर सकते हैं
+- एक बार अनुरोध सबमिट हो जाने के बाद, इसे GeM ब्रांड अनुमोदन टीम द्वारा संसाधित किया जाएगा
+- अनुमोदन टीम को अनुरोध की समीक्षा करने में आमतौर पर लगभग 7 दिन लगते हैं। वे इस दौरान अनुरोध पर अतिरिक्त जानकारी मांग सकते हैं
+- कृपया ध्यान दें, यदि आपके पास लिंक अनुभाग में प्रवेश करने के लिए कोई वेबसाइट लिंक नहीं है, तो कृपया NA दर्ज करें
+- गलत/भ्रामक/नकली जानकारी देने पर आपका अनुरोध अस्वीकार कर दिया जाएगा
+- अपंजीकृत और गैर-ब्रांडेड उत्पादों के लिए, अपलोड की गई सूची उत्पाद अनुमोदन टीम को भेजी जाएगी। उनके द्वारा अनुमोदित होने के बाद ही उत्पाद को बाजार में प्रकाशित किया जाता है। पंजीकृत ब्रांड मामले में, उत्पाद बाजार में स्वत: प्रकाशित होता है
 :::

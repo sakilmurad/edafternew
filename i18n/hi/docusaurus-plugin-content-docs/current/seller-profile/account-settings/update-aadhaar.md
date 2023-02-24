@@ -1,23 +1,23 @@
 ---
 sidebar_position: 2
-title: Update Aadhaar on GeM
-sidebar_label: Update Aadhaar
-description: Update your aadhaar details on GeM (Government e-Marketplace) seller Portal
+title: आधार को जैम पर अपडेट करें
+sidebar_label: अपडेट आधार
+description: GeM (सरकारी ई-मार्केटप्लेस) विक्रेता पोर्टल पर अपना आधार विवरण अपडेट करें
 ---
 
-# Update Aadhaar on GeM
-Sellers can update their Aadhaar details in their GeM seller profile using this module.
+# आधार को जैम पर अपडेट करें
+विक्रेता इस मॉड्यूल का उपयोग करके अपने जीईएम विक्रेता प्रोफाइल में अपने आधार विवरण को अपडेट कर सकते हैं।
 
 ![Update Aadhaar](/img/doc/update-aadhaar.jpg)
 
-:::danger Info
+:::danger
 
-On Aadhaar update, Key Person Validation has to be reverified
+आधार अपडेट पर, की पर्सन वैलिडेशन को फिर से सत्यापित करना होगा
 
 :::
 
-### Steps
-- Enter Aadhaar Number / Virtual ID
-- Enter Aadhaar linked Mobile Number
-- Tick on the checkbox (for consent to the terms and conditions)
-- Click on `VERIFY AADHAAR` button and verify with the received OTP
+### प्रक्रिया
+- आधार नंबर/वर्चुअल आईडी डालें
+- आधार लिंक्ड मोबाइल नंबर दर्ज करें
+- चेकबॉक्स पर टिक करें (नियम और शर्तों की सहमति के लिए)
+- `VERIFY AADHAAR` बटन पर क्लिक करें और प्राप्त ओटीपी से सत्यापित करें

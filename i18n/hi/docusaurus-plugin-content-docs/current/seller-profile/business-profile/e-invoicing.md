@@ -1,28 +1,28 @@
 ---
 sidebar_position: 8
-title: e-Invoicing on GeM
-sidebar_label: e-Invoicing
-description: e-Invoicing declaration in GeM (Government e-Marketplace) Seller Profile
+title: जैम पर ई-इन्वॉइसिंग
+sidebar_label: ई-इन्वॉइसिंग
+description: जैम (सरकारी ई-मार्केटप्लेस) विक्रेता प्रोफ़ाइल में ई-इन्वॉइस घोषणा
 ---
 
-# e-Invoicing on GeM
-e Invoice declaration facilitates faster turnaround time of your transactions.
+# जैम पर ई-इन्वॉइसिंग
+ई-इन्वॉइस घोषणा आपके लेनदेन के तेजी से टर्नअराउंड समय की सुविधा प्रदान करती है।
 
 :::info
 
-The e-Invoice System is meant for GST registered entity to upload all the B2B invoices to the Invoice Registration Portal (IRP). The IRP generates and returns a unique Invoice Reference Number (IRN), digitally signed e-invoice and QR code to the user.
+ई-इन्वॉइस प्रणाली GST पंजीकृत इकाई के लिए सभी B2B चालानों को चालान पंजीकरण पोर्टल (IRP) पर अपलोड करने के लिए है। आईआरपी उपयोगकर्ता को एक अद्वितीय चालान संदर्भ संख्या (आईआरएन), डिजिटल रूप से हस्ताक्षरित ई-इन्वॉइस और क्यूआर कोड उत्पन्न करता है और लौटाता है।
 
-E-Invoicing has been made mandatory by the Goods and Service Tax Council for businesses with an annual turnover above ₹ 10 crore.
+गुड्स एंड सर्विस टैक्स काउंसिल द्वारा 10 करोड़ रुपये से अधिक के वार्षिक कारोबार वाले व्यवसायों के लिए ई-चालान अनिवार्य कर दिया गया है।
 
 :::
 
-## What is e-Invoice?
-"e-Invoicing" or "electronic invoicing" is a system in which B2B invoices are authenticated electronically by GSTN for further use on the common GST portal. Under the electronic invoicing system, an identification number will be issued against every invoice by the Invoice Registration Portal (IRP), managed by the GST Network (GSTN).
+## ई-चालान क्या है?
+"ई-इनवॉइसिंग" या "इलेक्ट्रॉनिक इनवॉइसिंग" एक ऐसी प्रणाली है जिसमें सामान्य जीएसटी पोर्टल पर आगे उपयोग के लिए जीएसटीएन द्वारा बी2बी चालानों को इलेक्ट्रॉनिक रूप से प्रमाणित किया जाता है। इलेक्ट्रॉनिक चालान प्रणाली के तहत, जीएसटी नेटवर्क (जीएसटीएन) द्वारा प्रबंधित चालान पंजीकरण पोर्टल (आईआरपी) द्वारा प्रत्येक चालान के खिलाफ एक पहचान संख्या जारी की जाएगी।
 
-## To whom is e-invoicing applicable?
-Following is the list of the applicable organization for e-invoices.
+## ई-चालान किसके लिए लागू है?
+ई-चालान के लिए लागू संगठन की सूची निम्नलिखित है।
 
-Phase | Applicable to taxpayers having an aggregate turnover of more than | Applicable date | Notification number |
+अवस्था | से अधिक के कुल कारोबार वाले करदाताओं के लिए लागू | लागू होने की तिथि | अधिसूचना संख्या |
 | ---- | ---- | ---- | ---- |
 I | Rs 500 crore | 	01.10.2020 | [61/2020 – Central Tax](https://www.cbic.gov.in/resources//htdocs-cbec/gst/notfctn-61-central-tax-english-2020.pdf) and [70/2020 – Central Tax](https://www.cbic.gov.in/resources//htdocs-cbec/gst/notfctn-61-central-tax-english-2020.pdf) |
 II | Rs 100 crore | 01.01.2021 | [88/2020 – Central Tax](https://www.cbic.gov.in/resources//htdocs-cbec/gst/notfctn-61-central-tax-english-2020.pdf) |
@@ -30,12 +30,12 @@ III | Rs 50 crore | 01.04.2021 | [5/2021 – Central Tax](https://www.cbic.gov.i
 IV | Rs 20 crore | 01.04.2022 | [1/2022 – Central Tax](https://einvoice1.gst.gov.in/Notifications/notfctn-01-central-tax-english-2022.pdf) |
 V | Rs 10 crore | 01.10.2022 | [17/2022 – Central Tax](https://einvoice1.gst.gov.in/Notifications/notfctn-17-central-tax-english-2022.pdf) |
 
-If you are in the above table then you need to declare e-invoicing on the GeM portal.
+यदि आप उपरोक्त तालिका में हैं तो आपको GeM पोर्टल पर ई-चालान घोषित करने की आवश्यकता है।
 
-### Steps
+### प्रक्रिया
 
-![e-Invoice](/img/doc/e-invoice-declaration.jpg)
+![ई-चालान](/img/doc/e-invoice-declaration.jpg)
 
-- **Turnover(max in 3 year)** - Enter your last 3 year's  maximum turnover (should be greater than 20 crores)
-- **Specific category excluded from compliance to e-invoicing as notified** - Select `No` as you have to declare e-Invoicing. 
-- Click on `GET OTP` and verify with the OTP you receive.
+- **Turnover(max in 3 year)** - अपने पिछले 3 साल का अधिकतम कारोबार दर्ज करें (10 करोड़ से अधिक होना चाहिए)
+- **Specific category excluded from compliance to e-invoicing as notified** - `No` चुनें क्योंकि आपको ई-चालान घोषित करना है।
+- `GET OTP` पर क्लिक करें और आपको प्राप्त ओटीपी के साथ सत्यापित करें।

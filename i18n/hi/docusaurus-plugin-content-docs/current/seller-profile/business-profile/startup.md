@@ -1,29 +1,29 @@
 ---
 sidebar_position: 12
-title: Startup on GeM
-sidebar_label: Startup
-description: Startup India declaration on GeM (Government e-Marketplace) Portal
+title: जैम पर स्टार्टअप
+sidebar_label: स्टार्टअप
+description: GeM (सरकारी ई-मार्केटप्लेस) पोर्टल पर स्टार्टअप इंडिया की घोषणा
 ---
 
-# Startup on GeM
-If you are registered with Startup India, you can define here.
+# जैम पर स्टार्टअप
+यदि आप स्टार्टअप इंडिया के साथ पंजीकृत हैं, तो आप यहां परिभाषित कर सकते हैं।
 
 ![Startup](/img/doc/startup.jpg)
 
-## What is Startup India
-Startup India is an initiative of the Government of India. The campaign was first announced by Indian Prime Minister, Narendra Modi during his speech on 15 August 2015. The action plan of this initiative is focussing on three areas: Simplification and Handholding. Funding Support and Incentives.
+## स्टार्टअप इंडिया क्या है?
+स्टार्टअप इंडिया भारत सरकार की एक पहल है। अभियान की घोषणा पहली बार भारतीय प्रधान मंत्री नरेंद्र मोदी ने 15 अगस्त 2015 को अपने भाषण के दौरान की थी। इस पहल की कार्य योजना तीन क्षेत्रों पर ध्यान केंद्रित कर रही है: सरलीकरण और हैंडहोल्डिंग। वित्तीय सहायता और प्रोत्साहन।
 
-Under the Startup India initiative, eligible companies can get recognized as Startups by DPIIT, in order to access a host of tax benefits, easier compliance, IPR fast-tracking & more
+स्टार्टअप इंडिया पहल के तहत पात्र कंपनियां डीपीआईआईटी द्वारा स्टार्टअप के रूप में मान्यता प्राप्त कर सकती हैं, ताकि कर लाभ, आसान अनुपालन, आईपीआर फास्ट-ट्रैकिंग और बहुत कुछ हासिल किया जा सके।
 
-Registration Process: https://www.startupindia.gov.in
+पंजीकरण प्रक्रिया: https://www.startupindia.gov.in
 
-## Benefits
-You will get relaxation in **Turnover**, **EMD**, and **Past Performance**  at the time of bid participation on GeM Portal.
+## फ़ायदे
+जीईएम पोर्टल पर बोली में भाग लेने के समय आपको **टर्नओवर** , **ईएमडी** और **पिछले प्रदर्शन** में छूट मिलेगी ।
 
-## Steps
-- Select `Registered with Startup India`
-- Enter DIPP (Department of Industrial Policy and Promotion) number [^1]
-- Enter DIPP linked Mobile Number
-- Click on `VERIFY AND SAVE`
+## प्रक्रिया
+- `Registered with Startup India` चुने
+- डीआईपीपी (औद्योगिक नीति और संवर्धन विभाग) नंबर[^1] दर्ज करें 
+- डीआईपीपी से जुड़ा मोबाइल नंबर दर्ज करें
+- `VERIFY AND SAVE` पर क्लिक करें
 
-[^1]:If your Startup registration number starts with DPIIT or any other format, please insert DIPP instead of DPIIT or any other format.
+[^1]:यदि आपका स्टार्टअप पंजीकरण नंबर डीपीआईआईटी या किसी अन्य प्रारूप से शुरू होता है, तो कृपया डीपीआईआईटी या किसी अन्य प्रारूप के बजाय डीआईपीपी डालें।

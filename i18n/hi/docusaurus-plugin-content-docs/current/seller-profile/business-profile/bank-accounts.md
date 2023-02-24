@@ -1,54 +1,54 @@
 ---
 sidebar_position: 6
-title: Bank Accounts on GeM
-sidebar_label: Bank Accounts
-description: Add and manage your bank account in GeM (Government e-Marketplace) Seller Profile
+title: GeM पर बैंक खाते
+sidebar_label: बैंक खाते
+description: GeM (सरकारी ई-मार्केटप्लेस) विक्रेता प्रोफ़ाइल में अपना बैंक खाता जोड़ें और प्रबंधित करें
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Bank Accounts on GeM
-You can add, edit and delete your bank accounts in this section.
+# GeM पर बैंक खाते
+आप इस अनुभाग में अपने बैंक खाते जोड़, संपादित और हटा सकते हैं।
 
-You can add multiple Bank accounts for your Business. <mark>One account must be selected as Primary account.</mark>
+आप अपने व्यवसाय के लिए कई बैंक खाते जोड़ सकते हैं। <mark>एक खाते को प्राथमिक खाते के रूप में चुना जाना चाहिए।</mark>
 
-:::info Tip
+:::info
 
-Public Finance Management System (PFMS) verification is mandatory to receive payments from buyers using PFMS method of payment. Enter your PFMS verified account for better experience.
+सार्वजनिक वित्त प्रबंधन प्रणाली (पीएफएमएस) सत्यापन पीएफएमएस भुगतान पद्धति का उपयोग कर खरीदारों से भुगतान प्राप्त करने के लिए अनिवार्य है। बेहतर अनुभव के लिए अपना पीएफएमएस सत्यापित खाता दर्ज करें।
 
-Don't have a PFMS verification yet? Don’t worry, you can proceed with a non-PFMS verified account now and come back to this section later to verify PFMS for your account.
+अभी तक पीएफएमएस सत्यापन नहीं हुआ है? चिंता न करें, आप अभी एक गैर-पीएफएमएस सत्यापित खाते के साथ आगे बढ़ सकते हैं और बाद में अपने खाते के लिए पीएफएमएस सत्यापित करने के लिए इस अनुभाग पर वापस आ सकते हैं।
 
 :::
 
 <Tabs>
-<TabItem value="Manage Bank Account" label="Manage Bank Account">
+<TabItem value="Manage Bank Account" label="बैंक खाता प्रबंधित करें">
 
-Example:
+उदाहरण:
 
-![Bank Account](/img/doc/bank-accounts.jpg)
+![बैंक खाता](/img/doc/bank-accounts.jpg)
 
-| IFSC | Bank Name | Bank Account Number | Account Holder Name | PFMS Code | Is Primary? | ACTION |
+| IFSC | बैंक का नाम | बैंक खाता संख्या | खाता धारक का नाम | PFMS कोड | क्या प्राथमिक है? | ACTION |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | SBIN0000691 | State Bank of India | XXXXXXXXXXX | Edafter| VADLNO00000 | Yes/NO | DELETE [^1]   EDIT [^2] |
 
 </TabItem>
-<TabItem value="Add new Bank Account" label="Add new Bank Account">
+<TabItem value="Add new Bank Account" label="नया बैंक खाता जोड़ें">
 
-Follow the steps below to add a new bank account to your GeM seller profile.
+अपने जैम विक्रेता प्रोफ़ाइल में एक नया बैंक खाता जोड़ने के लिए नीचे दिए गए चरणों का पालन करें।
 
-![Add New Bank Account](/img/doc/add-new-bank-account.jpg)
+![नया बैंक खाता जोड़ें](/img/doc/add-new-bank-account.jpg)
 
-1. On entering your bank's IFSC Code, the system will automatically fetch your bank name and address
-2. Enter the account holder's name
-3. Enter your Account Number
-4. Select if this is your primary bank account
-5. Click on the `Save` button to save the entry
+1. आपके बैंक का IFSC कोड दर्ज करने पर, सिस्टम स्वचालित रूप से आपके बैंक का नाम और पता प्राप्त कर लेगा
+2. खाताधारक का नाम दर्ज करें
+3. अपना खाता संख्या दर्ज करें
+4. चुनें कि क्या यह आपका प्राथमिक बैंक खाता है
+5. प्रविष्टि को सुरक्षित करने के लिए `Save` बटन पर क्लिक करें
 
-After successfully submitting the form, you can see your bank account in the Manage Bank Account tab.
+फॉर्म को सफलतापूर्वक सबमिट करने के बाद, आप मैनेज बैंक अकाउंट टैब में अपना बैंक खाता देख सकते हैं।
 
 </TabItem>
 </Tabs>
 
-[^1]: Delete your bank account
-[^2]: Edit your bank account details
+[^1]: अपना बैंक खाता हटाएं
+[^2]: अपना बैंक खाता विवरण संपादित करें

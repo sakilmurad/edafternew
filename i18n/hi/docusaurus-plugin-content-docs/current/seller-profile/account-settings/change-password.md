@@ -1,15 +1,15 @@
 ---
 sidebar_position: 3
-title: Change Password of GeM Seller Account
-sidebar_label: Change Password
-description: Change and update password of your GeM (Government e-Marketplace) seller Account
+title: जैम विक्रेता खाते का पासवर्ड बदलें
+sidebar_label: पासवर्ड बदलें
+description: अपने जीईएम (सरकारी ई-मार्केटप्लेस) विक्रेता खाते का पासवर्ड बदलें और अपडेट करें
 ---
 
-# Change Password of GeM Seller Account
-Sellers can update or change their GeM Seller Account's password using this module.
+# जैम विक्रेता खाते का पासवर्ड बदलें
+विक्रेता इस मॉड्यूल का उपयोग करके अपने जीईएम विक्रेता खाते के पासवर्ड को अपडेट या बदल सकते हैं।
 
 ![Change Password](/img/doc/change-password.jpg)
 
-Click on `GET OTP` and verify with the OTP you received
+`GET OTP` पर क्लिक करें और आपको प्राप्त ओटीपी से सत्यापित करें
 
-Enter the new password and save it.
+नया पासवर्ड डालें और इसे सेव करें।

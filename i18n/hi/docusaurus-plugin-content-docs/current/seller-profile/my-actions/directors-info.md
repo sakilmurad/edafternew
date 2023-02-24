@@ -1,25 +1,25 @@
 ---
 sidebar_position: 1
-title: Directors Info on GeM
-sidebar_label: Directors Info
-description: Manage your company's Directors Info in GeM (Government e-Marketplace) Seller Profile
+title: GeM पर निदेशकों की जानकारी
+sidebar_label: निदेशकों की जानकारी
+description: GeM (Government e-Marketplace) विक्रेता प्रोफ़ाइल में अपनी कंपनी के निदेशकों की जानकारी प्रबंधित करें
 ---
 
-# Directors Info on GeM
-Manage your company's director info.
+# GeM पर निदेशकों की जानकारी
+अपनी कंपनी के निदेशक की जानकारी प्रबंधित करें।
 
 ![Director Information](/img/doc/director-info.jpg)
 
-:::danger note
+:::danger
 
-This option won't show for proprietors
+यह विकल्प मालिकों को नहीं दिखेगा
 
 :::
 
-Enter all your directors' DIN (Company Identification Number) as per MCA records and click on `UPDATE & SAVE`
+एमसीए रिकॉर्ड के अनुसार अपने सभी निदेशकों का डीआईएन (कंपनी पहचान संख्या) दर्ज करें और `UPDATE & SAVE` पर क्लिक करें
 
 :::info
 
-Director Information input should match with Key Person detail
+निदेशक सूचना इनपुट मुख्य व्यक्ति विवरण के साथ मेल खाना चाहिए
 
 :::

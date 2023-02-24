@@ -1,8 +1,8 @@
 {
-  "label": "Account Settings",
+  "label": "अकाउंट सेटिंग",
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "Mange your account details on GeM."
+    "description": "GeM पर अपना खाता विवरण प्रबंधित करें."
   }
 }

@@ -1,12 +1,12 @@
 ---
 sidebar_position: 1
-title: Seller Profile on GeM
-sidebar_label: Seller Profile
-description: View your seller profile details on GeM (Government e-Marketplace) Portal
+title: जैम पर विक्रेता प्रोफाइल
+sidebar_label: विक्रेता प्रोफाइल
+description: GeM (गवर्नमेंट ई-मार्केटप्लेस) पोर्टल पर अपना सेलर प्रोफाइल विवरण देखें
 ---
 
-# Seller Profile on GeM
-This section will show you summary of your Personal Profile with GeM. You can't change anything.
+# जैम पर विक्रेता प्रोफाइल
+यह खंड आपको GeM के साथ आपकी व्यक्तिगत प्रोफ़ाइल का सारांश दिखाएगा। आप कुछ भी नहीं बदल सकते।
 
 ![Seller Profile](/img/doc/seller-profile.jpg)
 

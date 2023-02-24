@@ -1,60 +1,60 @@
 ---
 sidebar_position: 7
-sidebar_label: Catalog Creation
-title: Catalog Creation on GeM
-description: Learn about adding new products or services to the GeM (Government e-Marketplace) Marketplace.
+title: जैम पर कैटलॉग निर्माण
+sidebar_label: कैटलॉग निर्माण
+description: GeM (सरकारी ई-मार्केटप्लेस) मार्केटप्लेस में नए उत्पादों या सेवाओं को जोड़ने के बारे में जानें।
 ---
 
-# Catalog Creation on GeM
-A seller must have at least one catalog in that category in order to participate in the bid. Let's see how sellers can add new catalogs to the GeM Platform.
+# जैम पर कैटलॉग निर्माण
+बोली में भाग लेने के लिए एक विक्रेता के पास उस श्रेणी में कम से कम एक कैटलॉग होना चाहिए। आइए देखें कि विक्रेता जीईएम प्लेटफॉर्म में नए कैटलॉग कैसे जोड़ सकते हैं।
 
-There are two types of catalogs that can be listed on the platform.
-1. **Products**
-2. **Services**
+दो प्रकार के कैटलॉग हैं जिन्हें प्लेटफ़ॉर्म पर सूचीबद्ध किया जा सकता है।
+1. **उत्पाद**
+2. **सेवाएं**
 
-Let's learn both in detail.
-## Add a new product
-Before adding a new product, you must first identify the category of your product. [This tutorial](categories) can help you get one.
+आइए दोनों को विस्तार से जानें।
+## एक नया उत्पाद जोड़ें
+कोई नया उत्पाद जोड़ने से पहले, आपको पहले अपने उत्पाद की श्रेणी की पहचान करनी होगी। [यह ट्यूटोरियल](categories) आपको एक पाने में मदद कर सकता है।
 
 ![Add New Offering](/img/doc/add-new-offering.jpg)
 
-Once you have identified the category, go to `Catalogue > Products > Add New Offering`
-Search for the identified category in the left search bar and click on the resulting category.
+श्रेणी की पहचान करने के बाद, `Catalogue > Products > Add New Offering` पर जाएं
+बाएँ खोज बार में पहचानी गई श्रेणी को खोजें और परिणामी श्रेणी पर क्लिक करें।
 
-There are a total of 5 steps you need to follow in order to create a new product catalog on GeM.
+GeM पर एक नया उत्पाद कैटलॉग बनाने के लिए आपको कुल 5 चरणों का पालन करना होगा।
 
-1. **GENERAL INFORMATION**: This includes brand name, catalog clone option, and golden parameters of the category.
+1. **सामान्य जानकारी**: इसमें ब्रांड नाम, कैटलॉग क्लोन विकल्प और श्रेणी के गोल्डन पैरामीटर शामिल हैं।
 
 ![General Information](/img/doc/general-information.jpg)
 
-Select your brand name ([learn how to add a brand](brand-approval)) and enter the golden specification of the product
+अपना ब्रांड नाम चुनें ([learn how to add a brand](brand-approval)) और उत्पाद के सुनहरे विनिर्देश दर्ज करें
 
-2. **CATALOGUE INFORMATION**: Enter the model number, product name and active bid number (optional).
+2. **कैटलॉग जानकारी**: मॉडल संख्या, उत्पाद का नाम और सक्रिय बोली संख्या दर्ज करें (वैकल्पिक)।
 
 ![Catalog information](/img/doc/catalog-information.jpg)
 
-3. **OFFERING QUANTITY & PRICE**: Enter the details about Country of origin, MRP, Rate, and Delivery location.
+3. **प्रस्तावित मात्रा और मूल्य**: मूल देश, एमआरपी, दर और वितरण स्थान के बारे में विवरण दर्ज करें।
 
 ![Offering Quantity and Price](/img/doc/offering-quantity-and-price.jpg)
 
-4. **PRODUCT SPECIFICATION**: Select product's technical specifications like Material, Packaging etc
+4. **उत्पाद विनिर्देश**: उत्पाद की तकनीकी विशिष्टताओं जैसे सामग्री, पैकेजिंग आदि का चयन करें
 
 ![Product Specification](/img/doc/product-specification.jpg)
 
-5. **UPLOAD IMAGES**: You need to upload three different images to proceed
+5. **तस्वीरें अपलोड करें**: आगे बढ़ने के लिए आपको तीन अलग-अलग इमेज अपलोड करनी होंगी
 
 ![Upload Images](/img/doc/upload-images.jpg)
 
-To publish your catalog, accept the terms and conditions and verify the captcha.
+अपने कैटलॉग को प्रकाशित करने के लिए, नियमों और शर्तों को स्वीकार करें और कैप्चा को सत्यापित करें।
 
-## Add a new service
+## एक नई सेवा जोड़ें
 
-Navigate to the `Catalogue > Services > Add New Offering` and search for the service you want to list
+`Catalogue > Services > Add New Offering` पर नेविगेट करें और उस सेवा को खोजें जिसे आप सूचीबद्ध करना चाहते हैं
 
 ![Add new service](/img/doc/add-new-offering-services.jpg)
 
-Enter the experience, rate details, upload required certificates and click on `VALIDATE AND SAVE`
+अनुभव, दर विवरण दर्ज करें, आवश्यक प्रमाणपत्र अपलोड करें और `VALIDATE AND SAVE` पर क्लिक करें
 
 ![Rate Sheet](/img/doc/rate-sheet.jpg)
 
-You can see your catalog status in `Catalogue > Products > Search My Offerings` in the waiting for admin clearance section.
+आप अपने कैटलॉग की स्थिति `Catalogue > Products > Search My Offerings` में एडमिन क्लीयरेंस सेक्शन के लिए प्रतीक्षा में देख सकते हैं।

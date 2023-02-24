@@ -1,8 +1,8 @@
 {
-  "label": "Vendor Assessment",
+  "label": "विक्रेता मूल्यांकन",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Manage Vendor Assessment, Assessment Exemption Documents and apply for Assessment Exemption on GeM"
+    "description": "वेंडर असेसमेंट, असेसमेंट एक्सेम्पशन दस्तावेज़ प्रबंधित करें और GeM पर असेसमेंट छूट के लिए आवेदन करें"
   }
 }

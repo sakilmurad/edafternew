@@ -1,58 +1,58 @@
 ---
 sidebar_position: 1
-title: OEM Panel on GeM
-sidebar_label: OEM Panel
-description: Manage Resellers and Catalogs through OEM Panel on GeM (Government e-Marketplace) Portal
+title: जैम पर ओईएम पैनल
+sidebar_label: ओईएम पैनल
+description: जीईएम (गवर्नमेंट ई-मार्केटप्लेस) पोर्टल पर ओईएम पैनल के माध्यम से पुनर्विक्रेताओं और कैटलॉग को प्रबंधित करें
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# OEM Panel on GeM
-This module is allow sellers to create new brand or OEM request and manage resellers in existing OEM categories.
+# जैम पर ओईएम पैनल
+यह मॉड्यूल विक्रेताओं को नया ब्रांड या ओईएम अनुरोध बनाने और मौजूदा ओईएम श्रेणियों में पुनर्विक्रेताओं को प्रबंधित करने की अनुमति देता है।
 
 <Tabs>
-<TabItem value="New Brand or OEM Requests" label="New Brand or OEM Requests">
+<TabItem value="New Brand or OEM Requests" label="नया ब्रांड या OEM अनुरोध">
 
-New brand and OEM requests can be submitted here. You need to select the appropriate category and then follow the [brand creation process](/docs/catalog/brand-approval).
+नए ब्रांड और ओईएम अनुरोध यहां सबमिट किए जा सकते हैं। आपको उपयुक्त श्रेणी का चयन करना होगा और फिर [ब्रांड निर्माण प्रक्रिया](/docs/catalog/brand-approval) का पालन करना होगा। 
 
 ![OEM Request](/img/doc/seller-profile/oem-request.jpg)
 
 </TabItem>
-<TabItem value="OEM Actions" label="OEM Actions">
+<TabItem value="OEM Actions" label="ओईएम क्रियाएँ">
 
-You can manage the catalog and resellers through **OEM Actions**.
+आप के माध्यम से कैटलॉग और पुनर्विक्रेताओं का प्रबंधन कर सकते हैं **OEM Actions**.
 
 ![OEM Actions](/img/doc/seller-profile/oem-actions.jpg)
 
-### Manage approvals
-All the resellers who have used your brand can be seen and their catalog can be viewed. There are total three tabs:
-1. Catalogs
-2. Sellers
-3. Authorizations
+### अनुमोदन प्रबंधित करें
+आपके ब्रांड का उपयोग करने वाले सभी पुनर्विक्रेताओं को देखा जा सकता है और उनकी सूची देखी जा सकती है। कुल तीन टैब हैं:
+1. कैटलॉग
+2. विक्रेता
+3. प्राधिकरण
 
-**Catalogs**: You can see all the approved and pending catalogs and manage them from this tab only.
+**कैटलॉग**: आप केवल इस टैब से सभी स्वीकृत और लंबित कैटलॉग देख सकते हैं और उन्हें प्रबंधित कर सकते हैं।
 
 ![Manage Resellers Catalogs](/img/doc/seller-profile/catalogs.jpg)
 
-**Sellers**: All the approved and pending seller can be viewd in this tab. It allows you to see which sellers have listed your brand's products. You can approve or disapprove them directly from this tab.
+**विक्रेता**: सभी स्वीकृत और लंबित विक्रेता इस टैब में देखे जा सकते हैं। यह आपको यह देखने की अनुमति देता है कि किन विक्रेताओं ने आपके ब्रांड के उत्पादों को सूचीबद्ध किया है। आप उन्हें सीधे इस टैब से स्वीकृत या अस्वीकृत कर सकते हैं।
 
 ![Manage Resellers](/img/doc/seller-profile/sellers.jpg)
 
-**Authorization**: Catalog wise authorization will display on this tab. Authorize, disapprove, or approve them using authorization numbers.
+**प्राधिकरण**: कैटलॉग वार प्राधिकरण इस टैब पर प्रदर्शित होगा। प्राधिकरण संख्या का उपयोग करके उन्हें अधिकृत, अस्वीकृत या स्वीकृत करें।
 
 ![Manage Authorizations](/img/doc/seller-profile/authorizations.jpg)
 
-### Manage Catalogs
-A list of unpaired catalogs can be found here, you can pair or discontinue them.
+### कैटलॉग प्रबंधित करें
+अयुग्मित कैटलॉग की सूची यहां पाई जा सकती है, आप उन्हें जोड़ सकते हैं या बंद कर सकते हैं।
 
 ![Manage Unpaired Catalogs](/img/doc/seller-profile/manage-catalogs.jpg)
 
-### Manage ReSellers
-To add a reseller to the Q2 category, you need to add an authorization code to the OEM dashboard. You can access the dashboard by clicking on the `Manage ReSeller` option.
+### पुनर्विक्रेताओं को प्रबंधित करें
+Q2 श्रेणी में पुनर्विक्रेता जोड़ने के लिए, आपको OEM डैशबोर्ड में एक प्राधिकरण कोड जोड़ना होगा। आप `Manage ReSeller` विकल्प पर क्लिक करके डैशबोर्ड तक पहुंच सकते हैं।
 
 ![Manage Resellers](/img/doc/seller-profile/manage-resellers.jpg)
 
-You can add or remove authorization codes from this dashboard.
+आप इस डैशबोर्ड से प्राधिकरण कोड जोड़ या हटा सकते हैं।
 </TabItem>
 </Tabs>

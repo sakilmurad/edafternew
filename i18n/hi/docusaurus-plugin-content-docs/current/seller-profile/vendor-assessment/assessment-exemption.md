@@ -1,37 +1,37 @@
 ---
 sidebar_position: 3
-title: Vendor Assessments Exemption on GeM
-sidebar_label: Assessments Exemption
-description: Apply for vendor assessment exemption for OEM Panel on GeM (Government e-Marketplace) Portal
+title: जैम पर विक्रेता आकलन छूट
+sidebar_label: आकलन छूट
+description: GeM (गवर्नमेंट ई-मार्केटप्लेस) पोर्टल पर ओईएम पैनल के लिए वेंडर असेसमेंट छूट के लिए आवेदन करें
 ---
 
-# Vendor Assessments Exemption on GeM
-A seller can apply for vendor assessment exemption if his/her business is eligible as per Policy.
+# जैम पर विक्रेता आकलन छूट
+एक विक्रेता विक्रेता मूल्यांकन छूट के लिए आवेदन कर सकता है यदि उसका व्यवसाय नीति के अनुसार पात्र है।
 
 ![Vendor Assessments Exemption](/img/doc/vendor-assessment-exemption.jpg)
 
 :::info
 
-- Zero fee is applicable on Vendor Exemption Assessment
-- QCI takes 2 calendar days to process the request
+- वेंडर एग्जेंप्शन असेसमेंट पर जीरो फीस लागू है
+- अनुरोध को संसाधित करने के लिए क्यूसीआई को 2 कैलेंडर दिन लगते हैं
 
 :::
 
-## Who is eligible?
-Followings are eligible for vendor assessment exemption as per Vendor Assessment Policy
-- Sellers having Rs.500 Crore or more turnover
-- NSIC registered Sellers
-- BIS License holding manufacturers for their registered categories
-- Central/State PSUs
-- Sellers having Unique Certification Code (UCC) issued by DRDO/ OFB/ SITRA
-- Central and State Government Departments/ Authorities
+## कौन पात्र है?
+वेंडर असेसमेंट पॉलिसी के अनुसार वेंडर असेसमेंट छूट के लिए निम्नलिखित पात्र हैं
+- 500 करोड़ रुपये या उससे अधिक का कारोबार करने वाले विक्रेता
+- एनएसआईसी पंजीकृत विक्रेता
+- अपनी पंजीकृत श्रेणियों के लिए बीआईएस लाइसेंस धारक निर्माता
+- केंद्रीय/राज्य पीएसयू
+- डीआरडीओ/ओएफबी/एसआईटीआरए द्वारा जारी यूनिक सर्टिफिकेशन कोड (यूसीसी) वाले विक्रेता
+- केंद्र और राज्य सरकार के विभाग / प्राधिकरण
 
-## Steps
-1. Click on the `NEW EXEMPTION REQUEST`
-2. **Assess Me As**: Select whether you are a manufacturer or reseller and click on `REQUEST VENDOR ASSESSMENT EXEMPTION`
-3. **Assessment Exemption Criteria**: Select the appropriate exemption criteria
-4. **Category Details**: Select the category and enter the details
-5. **Document**: [Upload the required documents](assessment-exemption-documents)
-6. **Submit VA**: Submit the vendor assessment exemption request
+## प्रक्रिया
+1. `NEW EXEMPTION REQUEST` पर क्लिक करें
+2. **Assess Me As**: चुनें कि आप एक निर्माता या पुनर्विक्रेता हैं और `REQUEST VENDOR ASSESSMENT EXEMPTION` पर क्लिक करें
+3. **Assessment Exemption Criteria**: उचित छूट मानदंड का चयन करें
+4. **Category Details**: श्रेणी का चयन करें और विवरण दर्ज करें
+5. **Document**: [आवश्यक दस्तावेज अपलोड करें](assessment-exemption-documents)
+6. **Submit VA**: विक्रेता मूल्यांकन छूट अनुरोध सबमिट करें
 
-QCI will take 2 calendar days to process your request. You will be notified via email once your vendor assessment exemption request's status has changed. You can track the status of your request in the dashboard of vendor assessment exemption.
+आपके अनुरोध को संसाधित करने के लिए क्यूसीआई को 2 कैलेंडर दिन लगेंगे। आपके विक्रेता मूल्यांकन छूट अनुरोध की स्थिति बदलने के बाद आपको ईमेल के माध्यम से सूचित किया जाएगा। आप विक्रेता आकलन छूट के डैशबोर्ड में अपने अनुरोध की स्थिति को ट्रैक कर सकते हैं।

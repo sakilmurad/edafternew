@@ -1,20 +1,20 @@
 ---
 sidebar_position: 5
-title: Close GeM Seller Account
-sidebar_label: Close Account
-description: Close GeM (Government e-Marketplace) seller Account and get your caution money refunded
+title: जैम विक्रेता खाता बंद करें
+sidebar_label: खाता बंद करें
+description: जीईएम (गवर्नमेंट ई-मार्केटप्लेस) विक्रेता खाता बंद करें और अपनी जमानत राशि वापस पाएं
 ---
 
-# Close GeM Seller Account
-A seller can close his/her GeM Seller account using this module.
+# जैम विक्रेता खाता बंद करें
+एक विक्रेता इस मॉड्यूल का उपयोग करके अपना जीईएम विक्रेता खाता बंद कर सकता है।
 
 ![Close Account](/img/doc/close-account.jpg)
 
-:::danger notice
+:::danger
 
-- If you close your account, your account will be closed permanently. You will not be able to login with this account. In addition, all the secondary seller accounts will also be closed
-- You can't close your GeM Seller account if you have any single published catalog. You need to disable all your published catalog first
+- यदि आप अपना खाता बंद करते हैं, तो आपका खाता स्थायी रूप से बंद कर दिया जाएगा। आप इस खाते से लॉगिन नहीं कर पाएंगे। इसके अलावा, सभी द्वितीयक विक्रेता खाते भी बंद कर दिए जाएंगे
+- यदि आपके पास कोई एकल प्रकाशित कैटलॉग है तो आप अपना GeM विक्रेता खाता बंद नहीं कर सकते। आपको पहले अपने सभी प्रकाशित कैटलॉग को अक्षम करना होगा
 
 :::
 
-Once you close your account. You will get your caution money refunded in your verified bank account.
+एक बार जब आप अपना खाता बंद कर देते हैं। आपको आपकी जमानत राशि आपके सत्यापित बैंक खाते में वापस कर दी जाएगी।

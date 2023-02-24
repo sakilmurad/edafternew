@@ -1,33 +1,33 @@
 ---
 sidebar_position: 8
-sidebar_label: Catalog Clone
-title: Catalog Clone on GeM
-description: Learn about the required steps to clone the catalog on GeM (Government e-Marketplace) Portal.
+title: जैम पर कैटलॉग क्लोन
+sidebar_label: कैटलॉग क्लोन
+description: GeM (गवर्नमेंट ई-मार्केटप्लेस) पोर्टल पर कैटलॉग क्लोन करने के लिए आवश्यक चरणों के बारे में जानें।
 ---
 
-# Catalog Clone on GeM
-Cloning an existing catalog on GeM can save time and effort compared to creating a brand-new catalog from scratch. You can use the cloned catalog as a starting point and make the necessary modifications to suit your needs. This can help you quickly expand your product offerings on the GeM platform.
+# जैम पर कैटलॉग क्लोन
+जीईएम पर एक मौजूदा कैटलॉग को क्लोन करने से स्क्रैच से एक नया कैटलॉग बनाने की तुलना में समय और प्रयास की बचत हो सकती है। आप क्लोन किए गए कैटलॉग को शुरुआती बिंदु के रूप में उपयोग कर सकते हैं और अपनी आवश्यकताओं के अनुरूप आवश्यक संशोधन कर सकते हैं। यह आपको GeM प्लेटफॉर्म पर अपने उत्पाद की पेशकशों का तेजी से विस्तार करने में मदद कर सकता है।
 
-There are two ways to clone an existing catalog on GeM Portal. You need the catalog ID of the product that you want to clone.
+जीईएम पोर्टल पर मौजूदा कैटलॉग को क्लोन करने के दो तरीके हैं। आपको उस उत्पाद की कैटलॉग आईडी की आवश्यकता है जिसे आप क्लोन करना चाहते हैं।
 
-### How to get a product ID?
+### उत्पाद आईडी कैसे प्राप्त करें?
 
-There are several methods to get a product ID
-- You can get it from the OEM or the manufacturer of the brand
-- You can find it in the GeM Market section.
+उत्पाद आईडी प्राप्त करने के कई तरीके हैं
+- आप इसे ओईएम या ब्रांड के निर्माता से प्राप्त कर सकते हैं
+- आप इसे GeM मार्केट सेक्शन में पा सकते हैं।
 
-Simply search for a product name and click on the product link. You can see the catalog ID on the product details page.
+बस एक उत्पाद का नाम खोजें और उत्पाद लिंक पर क्लिक करें। आप उत्पाद विवरण पृष्ठ पर कैटलॉग आईडी देख सकते हैं।
 
 ![Product ID](/img/doc/product-id.jpg)
 
-### Method 1
+### विधि 1
 
-**Clone at the time of adding a new product**:- You can clone a product's specification at the time of adding a new listing. You can enter the Product ID in the `Clone Catalogue Specifications` option [Learn More](create).
+**एक नया उत्पाद जोड़ने के समय क्लोन**:- आप एक नई लिस्टिंग जोड़ते समय एक उत्पाद के विनिर्देशन का क्लोन बना सकते हैं। आप `Clone Catalogue Specifications` विकल्प में उत्पाद आईडी दर्ज कर सकते हैं [अधिक जानें](create)
 
 ![Clone Specification](/img/doc/general-information.jpg)
 
-### Method 2 (Fast)
+### विधि 2 (तेज़)
 
-Clone using the Sell this item button:- You can clone a product directly through its detail page only. Just click on the `Sell this item` button (make sure you are logged in otherwise you won't see this button). Enter Rate, Location, and quantity. Enter the captcha and save.
+इस आइटम को बेचें बटन का उपयोग करके क्लोन करें: - आप किसी उत्पाद को सीधे उसके विवरण पृष्ठ के माध्यम से ही क्लोन कर सकते हैं। बस `Sell this item` बटन पर क्लिक करें (सुनिश्चित करें कि आप लॉग इन हैं अन्यथा आपको यह बटन दिखाई नहीं देगा)। दर, स्थान और मात्रा दर्ज करें। कैप्चा दर्ज करें और सहेजें।
 
 ![Product ID](/img/doc/product-id.jpg)
