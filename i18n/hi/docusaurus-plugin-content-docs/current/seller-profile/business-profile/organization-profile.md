@@ -1,26 +1,26 @@
 ---
 sidebar_position: 1
-title: Organization Profile on GeM
-sidebar_label: Organization Profile
-description: Summary of your Seller Business Profile with GeM (Government e-Marketplace).
+title: GeM पर संगठन प्रोफाइल
+sidebar_label: संगठन प्रोफाइल
+description: GeM (सरकारी ई-मार्केटप्लेस) के साथ आपके विक्रेता व्यवसाय प्रोफ़ाइल का सारांश।
 ---
 
-# Organization Profile on GeM
+# GeM पर संगठन प्रोफाइल
 
-You can view your organization profile details in this section.
+आप इस अनुभाग में अपने संगठन प्रोफ़ाइल विवरण देख सकते हैं।
 
-![Organization Profile](/img/doc/organization-profile.jpg)
+![संगठन प्रोफाइल](/img/doc/organization-profile.jpg)
 
-Let's understand them in detail.
+आइए इन्हें विस्तार से समझते हैं।
 
-- **Business / Organisation Type** - Your business type
+- **Business / Organisation Type** - आपका व्यवसाय प्रकार
 
-Example: Partnership, Proprietorship, Company etc.
+उदाहरण: साझेदारी, स्वामित्व, कंपनी आदि.
 
-- **Business / Organisation Name** - Your business name
+- **Business / Organisation Name** - आपके व्यवसाय का नाम
 
-Example: ABC Enterprises, XYZ Private Limited etc.
+उदाहरण: एबीसी एंटरप्राइजेज, एक्सवाईजेड प्राइवेट लिमिटेड आदि।
 
-- **Date of incorporation** - The date on which you started the business
+- **Date of incorporation** - जिस तारीख को आपने व्यवसाय शुरू किया था
 
-Example: 02-02-2023
+उदाहरण: 02-02-2023

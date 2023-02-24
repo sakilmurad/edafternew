@@ -1,0 +1,50 @@
+{
+  "link.title.Edafter": {
+    "message": "Edafter",
+    "description": "The title of the footer links column with title=Edafter in the footer"
+  },
+  "link.title.Resources": {
+    "message": "संसाधन",
+    "description": "The title of the footer links column with title=Resources in the footer"
+  },
+  "link.title.Connect": {
+    "message": "हमसे जुड़े",
+    "description": "The title of the footer links column with title=Connect in the footer"
+  },
+  "link.item.label.About": {
+    "message": "हमारे बारे में",
+    "description": "The label of footer link with label=About linking to /about"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "गोपनीयता नीति",
+    "description": "The label of footer link with label=Privacy Policy linking to /privacy-policy"
+  },
+  "link.item.label.Terms and Conditions": {
+    "message": "सर्वाधिकार सुरक्षित",
+    "description": "The label of footer link with label=Terms and Conditions linking to /terms-and-conditions"
+  },
+  "link.item.label.GeM Portal Course": {
+    "message": "GeM पोर्टल कोर्स",
+    "description": "The label of footer link with label=GeM Portal Course linking to /docs/gem-portal-course"
+  },
+  "link.item.label.Tools": {
+    "message": "टूल्स",
+    "description": "The label of footer link with label=Tools linking to /tools"
+  },
+  "link.item.label.Contact": {
+    "message": "हमसे जुड़े",
+    "description": "The label of footer link with label=Contact linking to /contact"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "The label of footer link with label=Telegram linking to https://t.me/gemmarketplace"
+  },
+  "link.item.label.Youtube": {
+    "message": "Youtube",
+    "description": "The label of footer link with label=Youtube linking to https://www.youtube.com/channel/UCROFxqRh6JkWtea-tlW4y0Q"
+  },
+  "copyright": {
+    "message": "Copyright © 2023. <a href=\"https://www.edafter.com\">Edafter</a> All Rights Reserved.",
+    "description": "The footer copyright"
+  }
+}

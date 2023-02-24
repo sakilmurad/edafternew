@@ -1,57 +1,57 @@
 ---
 sidebar_position: 5
-title: Office Locations on GeM
-sidebar_label: Office Locations
-description: Add and manage your office locations in GeM (Government e-Marketplace) Seller Profile
+title: GeM पर कार्यालय स्थान
+sidebar_label: कार्यालय स्थान
+description: GeM (सरकारी ई-मार्केटप्लेस) विक्रेता प्रोफ़ाइल में अपने कार्यालय स्थान जोड़ें और प्रबंधित करें
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Office Locations on GeM
-You can add, edit and delete your company's billing, godown, service center, and manufacturing address in this section.
+# GeM पर कार्यालय स्थान
+आप इस अनुभाग में अपनी कंपनी की बिलिंग, गोदाम, सेवा केंद्र और विनिर्माण पता जोड़, संपादित और हटा सकते हैं।
 
-You can add multiple office locations as per their function/type for your Business.
+आप अपने व्यवसाय के लिए उनके कार्य/प्रकार के अनुसार कई कार्यालय स्थान जोड़ सकते हैं।
 
-:::info Tip
+:::info
 
-You need to update your GSTIN for getting the orders above 40 lakhs.
+40 लाख से ऊपर के ऑर्डर प्राप्त करने के लिए आपको अपना जीएसटीआईएन अपडेट करना होगा।
 
 :::
 
 <Tabs>
-<TabItem value="Manage Offices" label="Manage Offices">
+<TabItem value="Manage Offices" label="कार्यालयों का प्रबंधन करें">
 
-Example:
+उदाहरण:
 
-![Office Location](/img/doc/office-locations.jpg)
+![कार्यालय स्थान](/img/doc/office-locations.jpg)
 
-| Office | Address | GSTIN | ACTION |
+| कार्यालय | पता | जीएसटीआईएन | कार्य |
 | ----------- | ----------- | ----------- | ----------- |
-| XYZ Pvt Ltd / Address Type [^1] | Full Address, Phone No., Email | AAAAA0000A  | DELETE [^2]   EDIT [^3] |
+| XYZ प्राइवेट लिमिटेड / पता प्रकार [^1] | पूरा पता, फोन नंबर, ईमेल | AAAAA0000A  | DELETE [^2]   EDIT [^3] |
 
 </TabItem>
-<TabItem value="Add New Office" label="Add New Office">
+<TabItem value="Add New Office" label="नया कार्यालय जोड़ें">
 
-Follow the steps below to add a new office address to your GeM seller profile.
+अपने जीईएम विक्रेता प्रोफ़ाइल में एक नया कार्यालय पता जोड़ने के लिए नीचे दिए गए चरणों का पालन करें।
 
-![Add new Office Location](/img/doc/add-new-office.jpg)
+![नया कार्यालय जोड़ें](/img/doc/add-new-office.jpg)
 
-1. Enter Office Name (Your company name)
-2. Select the type of office (such as Billing, Manufacturing, Service Center or Godown)
-3. Enter GSTIN Number (mandatory for orders above Rs 40 lakhs)
-4. Enter your Pin Code - System will fetch and show you your pin code (subject to availability)
-5. Provide some basic details of your address like Flat/Door/Block No, Name of Premises/ Building/ Village etc
-6. Enter your contact number [^4] and email ID
-7. Click on the `Send OTP` button and verify the OTP you received
-8. Click on `Save` to save your address
+1. कार्यालय का नाम दर्ज करें (आपकी कंपनी का नाम)
+2. कार्यालय के प्रकार का चयन करें (जैसे बिलिंग, निर्माण, सेवा केंद्र या गोदाम)
+3. GSTIN नंबर दर्ज करें (40 लाख रुपये से अधिक के ऑर्डर के लिए अनिवार्य)
+4. अपना पिन कोड दर्ज करें - सिस्टम आपको आपका पिन कोड लाएगा और दिखाएगा (उपलब्धता के अधीन)
+5. अपने पते का कुछ बुनियादी विवरण जैसे फ्लैट/द्वार/ब्लॉक संख्या, परिसर का नाम/भवन/गांव आदि प्रदान करें
+6. अपना संपर्क नंबर [^4] और ईमेल आईडी दर्ज करें
+7. `Send OTP` बटन पर क्लिक करें और प्राप्त ओटीपी को सत्यापित करें
+8. अपना एड्रेस सेव करने के लिए `Save` पर क्लिक करें
 
-Now the entered address can be viewed in the Manage Offices tab.
+अब दर्ज किया गया पता कार्यालय प्रबंधन टैब में देखा जा सकता है।
 
 </TabItem>
 </Tabs>
 
-[^1]: Your business address type, for example: Registered, Manufacturing.
-[^2]: This is a clickable button to delete the respective address from your profile.
-[^3]: This is a clickable button to edit the respective address.
-[^4]: This number will be published on GeM Artifacts (such as Contract and Invoice) for helping the Buyer communicate with the Sellers post contract
+[^1]: यह आपकी प्रोफ़ाइल से संबंधित पते को हटाने के लिए एक क्लिक करने योग्य बटन है।
+[^2]: संबंधित पते को संपादित करने के लिए यह एक क्लिक करने योग्य बटन है।
+[^3]: आपके व्यवसाय का पता प्रकार, उदाहरण के लिए: पंजीकृत, निर्माण।
+[^4]: यह नंबर जेम आर्टिफैक्ट्स (जैसे अनुबंध और चालान) पर प्रकाशित किया जाएगा ताकि खरीदार को अनुबंध के बाद विक्रेता के साथ संवाद करने में मदद मिल सके।

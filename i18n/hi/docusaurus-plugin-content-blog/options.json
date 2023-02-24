@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Edafter ब्लॉग",
+    "description": "The title for the blog used in SEO"
+  },
+  "description": {
+    "message": "अपने व्यवसाय को बढ़ाने के लिए GeM, स्वचालन और रणनीतियों के बारे में जानें",
+    "description": "The description for the blog used in SEO"
+  },
+  "sidebar.title": {
+    "message": "सभी पोस्ट्स",
+    "description": "The label for the left sidebar"
+  }
+}

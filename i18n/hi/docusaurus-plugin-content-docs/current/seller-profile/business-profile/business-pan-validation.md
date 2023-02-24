@@ -1,24 +1,24 @@
 ---
 sidebar_position: 2
-title: Business PAN Validation on GeM
-sidebar_label: Business PAN Validation
-description: Validate your business PAN on GeM (Government e-Marketplace) Portal to complete your seller profile
+title: GeM पर बिजनेस पैन का सत्यापन
+sidebar_label: व्यापार पैन सत्यापन
+description: अपने विक्रेता प्रोफ़ाइल को पूरा करने के लिए GeM (सरकारी ई-मार्केटप्लेस) पोर्टल पर अपने व्यावसायिक पैन को मान्य करें
 ---
 
-# Business PAN Validation on GeM
+# GeM पर बिजनेस पैन का सत्यापन
 
-Validate your business PAN to complete your profile on the GeM Portal.
+GeM पोर्टल पर अपनी प्रोफ़ाइल को पूरा करने के लिए अपने व्यावसायिक पैन को मान्य करें।
 
-![Business PAN Validation](/img/doc/business-pan-validation.jpg)
+![व्यापार पैन सत्यापन](/img/doc/business-pan-validation.jpg)
 
-Business PAN number entered in this section will be used for tax return purposes
+इस अनुभाग में दर्ज किया गया व्यावसायिक पैन नंबर टैक्स रिटर्न उद्देश्यों के लिए उपयोग किया जाएगा
 
-You need to follow the below steps:
+आपको नीचे दिए गए चरणों का पालन करने की आवश्यकता है:
 
-1. Enter your business PAN Number (Personal PAN Number in case of proprietorship)
+1. अपना व्यवसाय पैन नंबर दर्ज करें (स्वामित्व के मामले में व्यक्तिगत पैन नंबर)
 
-2. Enter Name (as in PAN)
+2. नाम दर्ज करें (पैन के अनुसार)
 
-3. Click on the `Proceed` button
+3. `Proceed` बटन पर क्लिक करें
 
-:white_check_mark: Business PAN details verified successfully
+:white_check_mark: व्यवसाय पैन विवरण सफलतापूर्वक सत्यापित किया गया

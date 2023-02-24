@@ -1,35 +1,35 @@
 ---
 sidebar_position: 8
-title: Caution Money on GeM
-sidebar_label: Caution Money
-description: Caution Money for GeM (Government e-Marketplace) Seller Account.
+title: GeM पर कॉशन मनी
+sidebar_label: कॉशन मनी
+description: GeM (गवर्नमेंट ई-मार्केटप्लेस) सेलर अकाउंट के लिए कॉशन मनी।
 ---
 
-# Caution Money on GeM
-This caution money provision is being introduced for bringing discipline among sellers. All Sellers on GeM would be required to deposit a fixed amount with GeM as Caution Money deposit.
+# GeM पर कॉशन मनी
+यह कॉशन मनी का प्रावधान विक्रेताओं के बीच अनुशासन लाने के लिए शुरू किया जा रहा है। जीईएम पर सभी विक्रेताओं को कॉशन मनी डिपॉजिट के रूप में जीईएम के साथ एक निश्चित राशि जमा करनी होगी।
 
-![Caution Money](/img/doc/caution-money.jpg)
+![कॉशन मनी](/img/doc/caution-money.jpg)
 
-## Who will pay caution money?
-All the registered sellers except the followings need to pay the caution money to GeM.
+## कॉशन मनी कौन देगा?
+निम्नलिखित को छोड़कर सभी पंजीकृत विक्रेताओं को जीईएम को कॉशन मनी का भुगतान करने की आवश्यकता है।
 
-## How much caution money is to paid?
+## कितना कॉशन मनी देना है?
 The caution money is calculated on the basis of seller turnover as follows:
 
-S. No | Turnover | Caution Money |
+S. No | टर्नोवर | कॉशन मनी |
 | --- | --- | --- |
-1 | Less than 1 Crore | Rs 5,000 |
-2 | Greater than 1 Crore but less than 10 Crore | Rs 10,000 |
-3 | Greater than 10 Crore | Rs 25,000 |
+1 | 1 करोड़ से कम | Rs 5,000 |
+2 | 1 करोड़ से अधिक लेकिन 10 करोड़ से कम | Rs 10,000 |
+3 | 10 करोड़ से अधिक | Rs 25,000 |
 
-## Forfeit Circumstances
-The caution money shall remain at the disposal of GeM . This can be forfeited in part or in full in following circumstances:
-- Seller rejects or does not accept any Direct Purchase / L-1 Purchase order within defined timelines leading to order auto cancellation
-- Failure of the seller in executing any GeM contract or if the Seller fails or neglects to observe or perform any of his obligations under the contract (applicable only in respect of contracts that did not have provision of Performance Security / PBG)
-- Withdraws any bid submitted on GeM within the period of validity of the bid
-- Fails to furnish requisite performance security / PBG as per GeM e-bid / RA conditions
+## ज़ब्त परिस्थितियाँ
+कॉशन मनी GeM के पास रहेगी। निम्नलिखित परिस्थितियों में इसे आंशिक या पूर्ण रूप से जब्त किया जा सकता है:
+- विक्रेता निर्धारित समय-सीमा के भीतर किसी भी प्रत्यक्ष खरीद/एल-1 खरीद आदेश को अस्वीकार करता है या स्वीकार नहीं करता है, जिसके कारण आदेश स्वत: रद्द हो जाता है
+- किसी भी GeM अनुबंध को निष्पादित करने में विक्रेता की विफलता या यदि विक्रेता अनुबंध के तहत अपने किसी भी दायित्वों का पालन करने या पालन करने में विफल रहता है या उपेक्षा करता है (केवल उन अनुबंधों के संबंध में लागू होता है जिनमें प्रदर्शन सुरक्षा / PBG का प्रावधान नहीं था)
+- बोली की वैधता की अवधि के भीतर GeM पर प्रस्तुत किसी भी बोली को वापस ले लेता है
+- जीईएम ई-बिड/आरए शर्तों के अनुसार अपेक्षित प्रदर्शन सुरक्षा/पीबीजी प्रस्तुत करने में विफल रहता है
 
-## How to pay caution money?
+## कॉशन मनी का भुगतान कैसे करें?
 You have to login to your GeM Seller Profile. Under the `Dashboard` section click on `Manage Caution Money` link.
 
 ![Manage Caution Money Account](/img/doc/manage-caution-money-account.jpg)

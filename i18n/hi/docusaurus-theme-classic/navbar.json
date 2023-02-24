@@ -1,0 +1,14 @@
+{
+  "item.label.GeM Portal Course": {
+    "message": "GeM पोर्टल कोर्स",
+    "description": "Navbar item with label GeM Portal Course"
+  },
+  "item.label.Blog": {
+    "message": "ब्लॉग",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Tools": {
+    "message": "टूल्स",
+    "description": "Navbar item with label Tools"
+  }
+}

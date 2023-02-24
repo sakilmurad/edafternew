@@ -1,26 +1,26 @@
 ---
 sidebar_position: 3
-title: Business Details on GeM
-sidebar_label: Business Details
-description: Enter business name and date of incorporation in GeM (Government e-Marketplace) Seller Profile
+title: GeM पर व्यापार विवरण
+sidebar_label: व्यापार विवरण
+description: GeM (सरकारी ई-मार्केटप्लेस) विक्रेता प्रोफ़ाइल में व्यवसाय का नाम और निगमन की तिथि दर्ज करें
 ---
 
-# Business Details on GeM
+# GeM पर व्यापार विवरण
 
-You can manage your business name and date of incorporation in your GeM Seller Profile.
+आप अपने GeM विक्रेता प्रोफ़ाइल में अपने व्यवसाय का नाम और निगमन की तिथि प्रबंधित कर सकते हैं।
 
-![Business Details](/img/doc/business-details.jpg)
+![व्यापार विवरण](/img/doc/business-details.jpg)
 
-**For the Proprietary**:
+**मालकिन के लिए**:
 
-Enter your trade name (business name) as per your PAN or GST
+अपने पैन या जीएसटी के अनुसार अपना व्यापार नाम (व्यावसायिक नाम) दर्ज करें
 
 :::note
 
-Specify your Company or Business Unit Name. Business / Organization Name cannot exceed 180 characters. Company names can contain a maximum of 5 digits.
+अपनी कंपनी या व्यवसाय इकाई का नाम निर्दिष्ट करें। व्यवसाय/संगठन का नाम 180 वर्णों से अधिक नहीं हो सकता। कंपनी के नाम में अधिकतम 5 अंक हो सकते हैं।
 
 :::
 
-**For the company**:
+**कंपनी के लिए**:
 
-Enter your CIN (Company Identification Number) as per MCA (Ministry of Corporate Affairs) records and click on `Verify and Save`. The system will automatically fetch your business name and date of incorporation through MCA.
+एमसीए (कॉर्पोरेट मामलों के मंत्रालय) के रिकॉर्ड के अनुसार अपना सीआईएन (कंपनी पहचान संख्या) दर्ज करें और सत्यापित करें और सहेजें पर क्लिक करें। सिस्टम स्वचालित रूप से एमसीए के माध्यम से आपके व्यवसाय का नाम और निगमन की तिथि प्राप्त करेगा।

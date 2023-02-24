@@ -1,0 +1,110 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Account Creation": {
+    "message": "खाता बनाना",
+    "description": "The label for category Account Creation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Account Creation.link.generated-index.description": {
+    "message": "एक विक्रेता या सेवा प्रदाता के रूप में GeM पोर्टल पर पंजीकृत होने के लिए पूर्व-आवश्यकताएं और पंजीकरण प्रक्रिया",
+    "description": "The generated-index page description for category Account Creation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Seller Profile": {
+    "message": "विक्रेता की प्रोफ़ाइल",
+    "description": "The label for category Seller Profile in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Seller Profile.link.generated-index.description": {
+    "message": "GeM पर अपनी विक्रेता प्रोफ़ाइल देखें, प्रबंधित करें और अपडेट करें",
+    "description": "The generated-index page description for category Seller Profile in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Business Profile": {
+    "message": "व्यापार प्रोफ़ाइल",
+    "description": "The label for category Business Profile in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Business Profile.link.generated-index.description": {
+    "message": "GeM पर अपनी व्यावसायिक प्रोफ़ाइल देखें और प्रबंधित करें।",
+    "description": "The generated-index page description for category Business Profile in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.My Actions": {
+    "message": "मेरी कार्रवाई",
+    "description": "The label for category My Actions in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.My Actions.link.generated-index.description": {
+    "message": "GeM पर विक्रेता प्रोफ़ाइल में My Action Tab में अपने निदेशकों की जानकारी देखें और प्रबंधित करें",
+    "description": "The generated-index page description for category My Actions in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Vendor Assessment": {
+    "message": "विक्रेता मूल्यांकन",
+    "description": "The label for category Vendor Assessment in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Vendor Assessment.link.generated-index.description": {
+    "message": "वेंडर असेसमेंट, असेसमेंट एक्सेम्पशन दस्तावेज़ प्रबंधित करें और GeM पर असेसमेंट छूट के लिए आवेदन करें",
+    "description": "The generated-index page description for category Vendor Assessment in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Seller Panel": {
+    "message": "विक्रेता पैनल",
+    "description": "The label for category Seller Panel in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Seller Panel.link.generated-index.description": {
+    "message": "GeM पर पुनर्विक्रेता और OEM पैनल प्रबंधित करें",
+    "description": "The generated-index page description for category Seller Panel in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Account Settings": {
+    "message": "अकाउंट सेटिंग",
+    "description": "The label for category Account Settings in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Account Settings.link.generated-index.description": {
+    "message": "GeM पर अपना खाता विवरण प्रबंधित करें।",
+    "description": "The generated-index page description for category Account Settings in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Management": {
+    "message": "प्रयोक्ता प्रबंधन",
+    "description": "The label for category User Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Management.link.generated-index.description": {
+    "message": "अपने जीईएम खाते में द्वितीयक उपयोगकर्ताओं को प्रबंधित करें और जोड़ें।",
+    "description": "The generated-index page description for category User Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Catalog": {
+    "message": "कैटलॉग",
+    "description": "The label for category Catalog in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Catalog.link.generated-index.description": {
+    "message": "GeM पर चतुर्थांश, श्रेणियां, ब्रांड स्वीकृति और कैटलॉग निर्माण के बारे में जानें।",
+    "description": "The generated-index page description for category Catalog in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bid/RA": {
+    "message": "बोली/आरए",
+    "description": "The label for category Bid/RA in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bid/RA.link.generated-index.description": {
+    "message": "बोलियों के बारे में जानें, उन्हें खोजें और भाग लेने के लिए उनकी आवश्यकता को समझें।",
+    "description": "The generated-index page description for category Bid/RA in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Orders": {
+    "message": "ऑर्डर्स",
+    "description": "The label for category Orders in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Orders.link.generated-index.description": {
+    "message": "GeM पर ऑर्डर स्वीकार करने, चालान बनाने और भुगतान एकत्र करने के सभी चरणों के बारे में।",
+    "description": "The generated-index page description for category Orders in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Incidents": {
+    "message": "इंसिडेंट्स",
+    "description": "The label for category Incidents in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Incidents.link.generated-index.description": {
+    "message": "GeM पर घटनाएं बनाएं, उत्तर दें, आगे बढ़ाएं और बंद करें।",
+    "description": "The generated-index page description for category Incidents in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bonus": {
+    "message": "बोनस",
+    "description": "The label for category Bonus in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bonus.link.generated-index.description": {
+    "message": "GeM में महारत हासिल करने के लिए अद्भुत निःशुल्क टूल और ट्यूटोरियल खोजें।",
+    "description": "The generated-index page description for category Bonus in sidebar tutorialSidebar"
+  }
+}
