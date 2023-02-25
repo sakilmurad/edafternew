@@ -1,21 +1,21 @@
 ---
 sidebar_position: 7
-sidebar_label: Technical Status
-title: Technical Status of GeM Bid
-description: Learn everything about technical status of the participated bids on GeM (Government e-Marketplace).
+title: जैम बोली की तकनीकी स्थिति
+sidebar_label: तकनीकी स्थिति
+description: GeM (सरकारी ई-मार्केटप्लेस) पर भाग लेने वाली बोलियों की तकनीकी स्थिति के बारे में सब कुछ जानें।
 ---
 
-# Technical Status of GeM Bid
-We have already discussed bid participation in the previous module. Now, we will see how we can see the technical status of our participated bid.
-If technical status change for any participated GeM bid, you will get email about the same.
+# जैम बोली की तकनीकी स्थिति
+हम पिछले मॉड्यूल में बोली भागीदारी पर पहले ही चर्चा कर चुके हैं। अब, हम देखेंगे कि हम अपनी भागी हुई बोली की तकनीकी स्थिति कैसे देख सकते हैं।
+यदि किसी भी भाग लेने वाली जीईएम बोली के लिए तकनीकी स्थिति बदलती है, तो आपको उसके बारे में ईमेल प्राप्त होगा।
 
 ![Technical Status Email](/img/doc/technical-status.jpg)
 
-## Steps to check the technical status
-1. Copy the GeM Bid from the Email
-2. Navigate to the bid dashboard and search for the GeM Bid (copied in the first step)
-3. Click on `View BID Results`
+## तकनीकी स्थिति की जांच के लिए कदम
+1. ईमेल से जीईएम बिड कॉपी करें
+2. बोली डैशबोर्ड पर नेविगेट करें और GeM बोली खोजें (पहले चरण में कॉपी की गई)
+3. `View BID Results` पर क्लिक करें
 
 ![Technical Status Email](/img/doc/technical-bid-result.jpg)
 
-You can see all the technically qualified and disqualified bidders in this section.
+आप इस खंड में सभी तकनीकी रूप से योग्य और अयोग्य बोलीदाताओं को देख सकते हैं।

@@ -1,36 +1,35 @@
 ---
 sidebar_position: 12
-sidebar_label: Price Match Accept
-title: Price Match Accept on GeM
-description: Price match option is only applicable to the sellers who have preference in GeM Bid. Learn everything about Price Match Accept option.
+title: जैम पर मूल्य मिलान स्वीकार करें
+sidebar_label: मूल्य मिलान स्वीकार करें
+description: मूल्य मिलान विकल्प केवल उन विक्रेताओं पर लागू होता है जिनकी जीईएम बोली में वरीयता होती है। प्राइस मैच एक्सेप्ट ऑप्शन के बारे में सब कुछ जानें।
 ---
 
-# Price Match Accept on GeM
-The **Price Match Accept** option will only appear for sellers who have a preference at the time of bid participation. There are two preferences available in the GeM Bid.
-1. **Purchase preference for Micro and Small Enterprises (MSEs)**
-2. **Preference for Make In India products (for bid less than 200 Crores**
+# जैम पर मूल्य मिलान स्वीकार करें
+**प्राइस मैच एक्सेप्ट** विकल्प केवल उन विक्रेताओं के लिए दिखाई देगा जिनकी बोली भागीदारी के समय प्राथमिकता होगी। जीईएम बोली में दो प्राथमिकताएं उपलब्ध हैं।
+1. **सूक्ष्म और लघु उद्यमों (एमएसई) के लिए खरीद वरीयता**
+2. **मेक इन इंडिया उत्पादों को वरीयता (200 करोड़ से कम की बोली के लिए**)
 
-## Purchase preference for Micro and Small Enterprises (MSEs)
-Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry.
+## सूक्ष्म और लघु उद्यमों (एमएसई) के लिए खरीद वरीयता
+सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय द्वारा जारी सूक्ष्म और लघु उद्यमों (एमएसई) आदेश, 2012 दिनांक 23.03.2012 के लिए सार्वजनिक खरीद नीति और संबंधित मंत्रालय द्वारा जारी इसके बाद के आदेशों/अधिसूचनाओं में परिभाषित एमएसई को खरीद वरीयता दी जाएगी।
 
-The bidder must be the manufacturer of the offered product in order to qualify for the Purchase preference. Traders are excluded from the purview of the Public Procurement Policy for Micro and Small Enterprises. In respect of bids for Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service.
+खरीद वरीयता के लिए अर्हता प्राप्त करने के लिए बोली लगाने वाले को प्रस्तावित उत्पाद का निर्माता होना चाहिए। व्यापारियों को सूक्ष्म और लघु उद्यमों के लिए सार्वजनिक खरीद नीति के दायरे से बाहर रखा गया है। सेवाओं के लिए बोलियों के संबंध में, बोलीदाता प्रस्तावित सेवा का सेवा प्रदाता होना चाहिए। इस संबंध में प्रासंगिक दस्तावेजी साक्ष्य प्रस्तावित उत्पाद या सेवा के संबंध में बोली के साथ अपलोड किए जाएंगे।
 
-If L-1 is not an MSE and MSE Seller (s) has/have quoted price within L-1+ 15% (Selected by Buyer) of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be awarded for 25% (selected by Buyer) percentage of total QUANTITY.
+यदि एल-1 एक एमएसई नहीं है और एमएसई विक्रेता(ओं) ने प्रासंगिक नीति में परिभाषित खरीद वरीयता/मूल्य बैंड के मार्जिन के एल-1+ 15% (क्रेता द्वारा चयनित) के भीतर मूल्य उद्धृत किया है, तो ऐसे विक्रेता को अवसर दिया जाएगा। एल-1 मूल्य से मेल खाने के लिए और कुल मात्रा के 25% (क्रेता द्वारा चयनित) प्रतिशत के लिए अनुबंध दिया जाएगा।
 
-## Preference for Make In India products
-Preference shall be given to Class 1 local suppliers as defined in Public Procurement (Preference to Make in India) Order 2017 as amended from time to time and its subsequent Orders/Notifications issued by the concerned Nodal Ministry for specific Goods/Products. 
+## मेक इन इंडिया उत्पादों को वरीयता
+समय-समय पर यथासंशोधित सार्वजनिक खरीद (मेक इन इंडिया को वरीयता) आदेश 2017 और विशिष्ट वस्तुओं/उत्पादों के लिए संबंधित नोडल मंत्रालय द्वारा जारी उसके बाद के आदेशों/अधिसूचनाओं के अनुसार श्रेणी 1 के स्थानीय आपूर्तिकर्ताओं को वरीयता दी जाएगी।
 
-The minimum local content to qualify as a Class 1 local supplier is denoted in the bid document. If the bidder wants to avail of the Purchase preference, the bidder must upload a certificate from the OEM regarding the percentage of local content and the details of locations at which the local value addition is made along with their bid, failing which no purchase preference shall be granted. 
+प्रथम श्रेणी के स्थानीय आपूर्तिकर्ता के रूप में अर्हता प्राप्त करने के लिए न्यूनतम स्थानीय सामग्री को बोली दस्तावेज़ में दर्शाया गया है। यदि बोलीदाता खरीद वरीयता का लाभ उठाना चाहता है, तो बोली लगाने वाले को स्थानीय सामग्री के प्रतिशत और उन स्थानों के विवरण के बारे में ओईएम से एक प्रमाण पत्र अपलोड करना होगा, जहां उनकी बोली के साथ स्थानीय मूल्यवर्धन किया जाता है, जिसमें विफल रहने पर कोई खरीद वरीयता नहीं दी जाएगी। स्वीकृत किया जाता है।
 
-In case the bid value is more than Rs 10 crore, the declaration relating to percentage of local content shall be certified by the statutory auditor or cost auditor, if the OEM is a company and by a practicing cost accountant or a chartered accountant for OEMs other than companies as per the Public Procurement (preference to Make-in-India) order 2017 dated 04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be eligible to bid. Non-local suppliers as per MII order dated 04.06.2020 are not eligible to participate.
+यदि बोली मूल्य 10 करोड़ रुपये से अधिक है, तो स्थानीय सामग्री के प्रतिशत से संबंधित घोषणा वैधानिक लेखा परीक्षक या लागत लेखा परीक्षक द्वारा प्रमाणित की जाएगी, यदि ओईएम एक कंपनी है और ओईएम के लिए अभ्यास लागत लेखाकार या चार्टर्ड एकाउंटेंट द्वारा अन्य सार्वजनिक खरीद (मेक-इन-इंडिया को वरीयता) आदेश 2017 दिनांक 04.06.2020 के अनुसार कंपनियों की तुलना में। एमआईआई के दिनांक 4.6.2020 के आदेश के अनुसार केवल प्रथम श्रेणी और द्वितीय श्रेणी के स्थानीय आपूर्तिकर्ता ही बोली लगाने के पात्र होंगे। एमआईआई के आदेश दिनांक 04.06.2020 के अनुसार गैर-स्थानीय आपूर्तिकर्ता भाग लेने के पात्र नहीं हैं।
 
-Participation will be allowed for eligible micro and small enterprises. If the buyer has included a clause in the bid offering purchase preference to micro and small enterprises, that clause will take precedence over this clause.
+पात्र सूक्ष्म और लघु उद्यमों के लिए भागीदारी की अनुमति दी जाएगी। यदि खरीदार ने सूक्ष्म और लघु उद्यमों को खरीद वरीयता प्रदान करने वाली बोली में एक खंड शामिल किया है, तो उस खंड को इस खंड पर वरीयता दी जाएगी।
+<a href="/tools/make-in-india" class="btn">मेक इन इंडिया सर्टिफिकेट जनरेट करें</a>
 
-<a href="/tools/make-in-india" class="btn">Generate a Make In India Certificate</a>
-
-## Steps
-You will get an email about a price match request.
+## प्रक्रिया
+आपको मूल्य मिलान अनुरोध के बारे में एक ईमेल प्राप्त होगा।
 
 ![Price Match Proposal Email](/img/doc/price-match-proposal.jpg)
 
-You can log in and search for the bids you participated in and accept/reject the L1 price.
+आप लॉग इन कर सकते हैं और उन बोलियों को खोज सकते हैं जिनमें आपने भाग लिया था और L1 मूल्य को स्वीकार/अस्वीकार कर सकते हैं।

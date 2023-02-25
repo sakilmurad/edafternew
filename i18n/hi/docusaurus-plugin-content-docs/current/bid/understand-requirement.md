@@ -1,48 +1,48 @@
 ---
 sidebar_position: 3
-sidebar_label: Understand Bid/RA Requirement
-title: Understand Bid/RA Requirement on GeM
-description: Understand the requirement of GeM Bid/RA. Understand and upload only which is required in the GeM Bid.
+title: जैम पर बोली/आरए आवश्यकताओं को समझें
+sidebar_label: बोली/आरए आवश्यकताओं को समझें
+description: जीईएम बिड/आरए की आवश्यकता को समझें। जीईएम बोली में केवल वही समझें और अपलोड करें जो आवश्यक है।
 ---
 
-# Understand Bid/RA Requirement on GeM
-A buyer can ask sellers for documents at any time. We will discuss some frequently required documents regarding a GeM Bid. 
-1. Experience Criteria
-2. Past Performance
-3. Bidder Financial Standing
-4. OEM Authorization Letter
-5. OEM/Reseller Turnover
-6. ATC Documents
-7. Make In India Certificate
-8. Financial Documents
-9. Compliance of BOQ and Supporting Document
+# जैम पर बोली/आरए आवश्यकताओं को समझें
+एक खरीदार किसी भी समय विक्रेता से दस्तावेज़ मांग सकता है। हम जीईएम बोली के संबंध में अक्सर आवश्यक दस्तावेजों पर चर्चा करेंगे।
+1. अनुभव मानदंड
+2. पिछला प्रदर्शन
+3. बोली लगाने वाले की वित्तीय स्थिति
+4. ओईएम प्राधिकरण पत्र
+5. ओईएम/पुनर्विक्रेता टर्नओवर
+6. एटीसी दस्तावेज
+7. मेक इन इंडिया सर्टिफिकेट
+8. वित्तीय दस्तावेज
+9. बीओक्यू और सहायक दस्तावेज का अनुपालन
 
-## Experience Criteria
-In respect of the filter applied for experience criteria, the Bidder or its OEM {themselves or through reseller(s)} should have regularly manufactured and supplied the same or similar Category Products to any Central / State Govt Organization / PSU / Public Listed Company for the number of Financial years as indicated in the bid document before the bid opening date. In support of having supplied some quantity during every financial year, copies of relevant contracts are to be submitted with the bid. In case of bunch bids, the category of primary product having the highest value should meet this criterion.
+## अनुभव मानदंड
+अनुभव मानदंड के लिए लागू फ़िल्टर के संबंध में, बोली लगाने वाले या उसके ओईएम {स्वयं या पुनर्विक्रेताओं के माध्यम से} को नियमित रूप से समान या समान श्रेणी के उत्पादों का निर्माण और आपूर्ति किसी केंद्रीय / राज्य सरकार संगठन / पीएसयू / सार्वजनिक सूचीबद्ध कंपनी को करनी चाहिए। बोली खोलने की तारीख से पहले बोली दस्तावेज में इंगित वित्तीय वर्षों की संख्या। प्रत्येक वित्तीय वर्ष के दौरान कुछ मात्रा की आपूर्ति करने के समर्थन में संबंधित अनुबंधों की प्रतियां बोली के साथ प्रस्तुत की जानी हैं। बंच बोलियों के मामले में, उच्चतम मूल्य वाले प्राथमिक उत्पाद की श्रेणी को इस मानदंड को पूरा करना चाहिए।
 
-## Past Performance
-The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar Category Products for 30% of bid quantity, in at least one of the last three Financial years before the bid opening date to any Central / State Govt Organization / PSU / Public Listed Company. Copies of relevant contracts (providing supply of cumulative order quantity during one financial year) along with your bid in support of quantity supplied during that financial period. In case of bunch bids, the category related to the primary product having the highest bid value should meet this criterion.
+## पिछला प्रदर्शन
+बोली लगाने वाले या उसके ओईएम {स्वयं या पुनर्विक्रेता के माध्यम से} को बोली खोलने की तारीख से कम से कम पिछले तीन वित्तीय वर्षों में से कम से कम एक में बोली मात्रा के 30% के लिए समान या समान श्रेणी के उत्पादों की आपूर्ति करनी चाहिए। राज्य सरकार संगठन / पीएसयू / सार्वजनिक सूचीबद्ध कंपनी। उस वित्तीय अवधि के दौरान आपूर्ति की गई मात्रा के समर्थन में आपकी बोली के साथ प्रासंगिक अनुबंधों की प्रतियां (एक वित्तीय वर्ष के दौरान संचयी आदेश मात्रा की आपूर्ति प्रदान करना)। बंच बोलियों के मामले में, उच्चतम बोली मूल्य वाले प्राथमिक उत्पाद से संबंधित श्रेणी को इस मानदंड को पूरा करना चाहिए।
 
-## Bidder Financial Standing
-A declaration letter from the bidder that he/she is not under liquidation, court receivership or similar proceedings, and not bankrupted.
+## बोली लगाने वाले की वित्तीय स्थिति
+बोली लगाने वाले से एक घोषणा पत्र कि वह परिसमापन, अदालती रिसीवरशिप या इसी तरह की कार्यवाही के अधीन नहीं है, और दिवालिया नहीं है।
 
-## OEM Authorization Letter
-Whenever a reseller quotes GeM Bid, he or she needs to upload the OEM (Manufacturer) authority letter.
-A bid submitted by OEM can be accompanied by a letter from the OEM, or it can be accompanied by a MSEM/NSIC/BIS/Trademark document (subject to buyer acceptance).
+## ओईएम प्राधिकरण पत्र
+जब भी कोई पुनर्विक्रेता जीईएम बोली उद्धृत करता है, तो उसे ओईएम (निर्माता) प्राधिकरण पत्र अपलोड करने की आवश्यकता होती है।
+ओईएम द्वारा सबमिट की गई बोली के साथ ओईएम का एक पत्र हो सकता है, या इसके साथ एमएसईएम/एनएसआईसी/बीआईएस/ट्रेडमार्क दस्तावेज़ (खरीदार की स्वीकृति के अधीन) हो सकता है।
 
-## OEM/Reseller Turnover
-**Bidder Turn Over Criteria**: The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period should be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3 years old. The average turnover in respect of the completed financial year after the date of constitution shall be taken into account for this criteria.
+## ओईएम / पुनर्विक्रेता टर्नओवर
+**बिडर टर्न ओवर क्राइटेरिया**: पिछले वित्तीय वर्ष के 31 मार्च को समाप्त होने वाले पिछले तीन वर्षों के दौरान बोली लगाने वाले का न्यूनतम औसत वार्षिक वित्तीय कारोबार बोली दस्तावेज में दर्शाए अनुसार होना चाहिए। प्रासंगिक अवधि के प्रमाणित लेखापरीक्षित बैलेंस शीट के रूप में दस्तावेजी साक्ष्य या चार्टर्ड एकाउंटेंट / लागत लेखाकार से प्रमाण पत्र प्रासंगिक अवधि के लिए टर्नओवर विवरण को बोली के साथ अपलोड किया जाना चाहिए। यदि बोलीदाता के गठन/निगमन की तारीख 3 वर्ष से कम पुरानी है। इस मानदंड के लिए गठन की तारीख के बाद पूर्ण वित्तीय वर्ष के संबंध में औसत टर्नओवर को ध्यान में रखा जाएगा।
 
-**OEM Turn Over Criteria**: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. If the date of incorporation or constitution of the OEM is less than 3 years old, the average turnover of the completed financial years after the date of incorporation is considered for this criteria. In case of bunch bids, the OEM of CATEGORY RELATED TO primary product having the highest bid value should meet this criterion.
+**OEM टर्न ओवर मानदंड**: पिछले वित्तीय वर्ष के 31 मार्च को समाप्त होने वाले पिछले तीन वर्षों के दौरान पेश किए गए उत्पाद के OEM का न्यूनतम औसत वार्षिक वित्तीय कारोबार बोली दस्तावेज़ में दर्शाए अनुसार होना चाहिए। प्रासंगिक अवधि के प्रमाणित लेखापरीक्षित बैलेंस शीट के रूप में दस्तावेजी साक्ष्य या प्रासंगिक अवधि के लिए टर्नओवर का विवरण दर्शाने वाले चार्टर्ड एकाउंटेंट/लागत लेखाकार से प्राप्त प्रमाण-पत्र बोली के साथ अपलोड किया जाएगा। यदि ओईएम के निगमन या गठन की तिथि 3 वर्ष से कम पुरानी है, तो इस मानदंड के लिए निगमन की तिथि के बाद पूर्ण वित्तीय वर्षों के औसत कारोबार पर विचार किया जाता है। बंच बोलियों के मामले में, उच्चतम बोली मूल्य वाले प्राथमिक उत्पाद से संबंधित श्रेणी के ओईएम को इस मानदंड को पूरा करना चाहिए।
 
-## ATC Documents
-In this section, you must upload all the required documents in the bid Additional Terms and Conditions.
+## एटीसी दस्तावेज़
+इस अनुभाग में, आपको बोली के अतिरिक्त नियमों और शर्तों में सभी आवश्यक दस्तावेज़ अपलोड करने होंगे।
 
-## Make In India Certificate
-To be eligible for preference in the bid, you must upload a Make in India certificate for both class 1 and 2 local suppliers. You can generate a Make In India Certificate using this tool.
+## मेक इन इंडिया सर्टिफिकेट
+बोली में वरीयता के पात्र होने के लिए, आपको क्लास 1 और 2 के स्थानीय आपूर्तिकर्ताओं के लिए मेक इन इंडिया प्रमाणपत्र अपलोड करना होगा। आप इस टूल का उपयोग करके मेक इन इंडिया सर्टिफिकेट जेनरेट कर सकते हैं।
 
-## Financial Documents
-A financial document contains the price of the spares/parts of the item you are offering in the bid. Learn more about financial documents.
+## वित्तीय दस्तावेज
+एक वित्तीय दस्तावेज़ में आपके द्वारा बोली में पेश किए जा रहे आइटम के पुर्जों/पुर्ज़ों की कीमत शामिल होती है। वित्तीय दस्तावेजों के बारे में अधिक जानें।
 
-## Compliance of BOQ and Supporting Document
-Seller needs to upload a compliance letter in case of a bunch/BOQ based bid in which he will provide supporting documents like Drug License, Manufacturing License, and Catalog etc.
+## बीओक्यू और सहायक दस्तावेज़ का अनुपालन
+बंच/बीओक्यू आधारित बोली के मामले में विक्रेता को एक अनुपालन पत्र अपलोड करना होगा जिसमें वह ड्रग लाइसेंस, मैन्युफैक्चरिंग लाइसेंस और कैटलॉग आदि जैसे सहायक दस्तावेज प्रदान करेगा।

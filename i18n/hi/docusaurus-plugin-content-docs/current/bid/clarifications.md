@@ -1,17 +1,17 @@
 ---
 sidebar_position: 8
-sidebar_label: Clarifications
-title: Clarifications on GeM
-description: Find raised clarification and reply on GeM (Government e-Marketplace)
+title: जैम पर स्पष्टीकरण
+sidebar_label: स्पष्टीकरण
+description: जीईएम (सरकारी ई-मार्केटप्लेस) पर उठाया गया स्पष्टीकरण और उत्तर प्राप्त करें
 ---
 
-# Clarifications on GeM
-The buyer may request clarifications from the seller at the time of technical evaluation. The seller should respond to the clarification in the stipulated timeframe to avoid rejection in the GeM bid.
+# जैम पर स्पष्टीकरण
+खरीदार तकनीकी मूल्यांकन के समय विक्रेता से स्पष्टीकरण का अनुरोध कर सकता है। जीईएम बोली में अस्वीकृति से बचने के लिए विक्रेता को निर्धारित समय सीमा में स्पष्टीकरण का जवाब देना चाहिए।
 
-A seller will receive an email if a clarification request is raised on GeM.
+यदि GeM पर स्पष्टीकरण का अनुरोध किया जाता है तो विक्रेता को एक ईमेल प्राप्त होगा।
 
 ![Clarification mail](/img/doc/clarification.jpg)
 
-## Steps to reply to clarification
-Log in to your GeM Seller Profile and search for the GeM Bid.
-Enter the comment and upload the required documents.
+## स्पष्टीकरण का उत्तर देने के लिए कदम
+अपने GeM विक्रेता प्रोफ़ाइल में लॉग इन करें और GeM बोली खोजें।
+टिप्पणी दर्ज करें और आवश्यक दस्तावेज अपलोड करें।

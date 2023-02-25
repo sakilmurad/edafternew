@@ -1,49 +1,50 @@
 ---
 sidebar_position: 6
-sidebar_label: Bid/RA Participation
-title: Bid/RA Participation on GeM
-description: Required steps to participate in all types of bids or RA on GeM (Government e-Marketplace)
+title: जैम पर बोली/आरए भागीदारी
+sidebar_label: बोली/आरए भागीदारी
+description: GeM (सरकारी ई-मार्केटप्लेस) पर सभी प्रकार की बोलियों या RA में भाग लेने के लिए आवश्यक कदम
 ---
 
-# Bid/RA Participation on GeM
-We have already learnt **[how to find GeM Bids](search)** and **[prepare documents](document-preparation)** for that bid. Now we are about to walk through the steps in order to **participate in a GeM Bid**.
+# जैम पर बोली/आरए भागीदारी
+हम उस बोली के लिए **[how to find GeM Bids](search)** और **[prepare documents](document-preparation)** सीख चुके हैं। अब हम **GeM बिड** में भाग लेने के लिए कदम उठाने वाले हैं।
 
-## Steps to participate in GeM Bid/RA
-Follow the below steps to **participate in the GeM Bid/RA**.
-1. Log in to your GeM Seller Account
-2. Find the bid you want to participate in
-3. Click on the `PARTICIPATE` button to start
+## जीईएम बोली/आरए में भाग लेने के लिए कदम
+**GeM बिड/RA** में भाग लेने के लिए नीचे दिए गए चरणों का पालन करें।
+1. अपने जीईएम विक्रेता खाते में लॉग इन करें
+2. वह बोली खोजें जिसमें आप भाग लेना चाहते हैं
+3. शुरू करने के लिए `PARTICIPATE` बटन पर क्लिक करें
 
 ![Participate Button](/img/doc/participate-button.jpg)
 
-4. Click on the `Choose Catalogue` and select the available catalog matching the required specification.
+4. `Choose Catalogue` पर क्लिक करें और आवश्यक विनिर्देशों से मेल खाते उपलब्ध कैटलॉग का चयन करें।
 
 ![Choose Catalogue](/img/doc/choose-this-catalog.jpg)
 
-5. Click on `ENCRYPT & SAVE` to save your technical offering and click on `CONTINUE` to offer price
-6. Enter your price (incl GST) and click on `ENCRYPT & SAVE`
+5. अपनी तकनीकी पेशकश को सेव करने के लिए `ENCRYPT & SAVE` पर क्लिक करें और कीमत ऑफर करने के लिए `CONTINUE` पर क्लिक करें
+6. अपना मूल्य (जीएसटी सहित) दर्ज करें और `ENCRYPT & SAVE` पर क्लिक करें
 
 ![Offer Price](/img/doc/offer-price.jpg)
 
-:::tip info
-Price offering section will be skipped in case of RA Participation. Only technically qualified sellers can quote their price after technical evaluation.
+:::tip
+आरए भागीदारी के मामले में मूल्य पेशकश अनुभाग को छोड़ दिया जाएगा। तकनीकी मूल्यांकन के बाद केवल तकनीकी रूप से योग्य विक्रेता ही अपनी कीमत बता सकते हैं।
 :::
 
-7. Upload the required documents and click on `SAVE`
+7. आवश्यक दस्तावेज अपलोड करें और `SAVE` पर क्लिक करें
 
 ![Upload Documents](/img/doc/upload-documents.jpg)
 
-8. Verify your bid submission with the available verification method
+8. उपलब्ध सत्यापन पद्धति से अपनी बोली प्रस्तुत करने की पुष्टि करें
 
 ![Verify Participation](/img/doc/verify-participation.jpg)
 
-Confirmation will be shown here for your bid submission
+आपकी बोली प्रस्तुत करने के लिए पुष्टिकरण यहां दिखाया जाएगा
 
 ![Bid Participated](/img/doc/bid-participated.jpg)
 
-## Withdrawing from participation
-If you want to **withdraw your participation from GeM Bid**, you can do so a maximum of 3 times. To do so, click on the withdraw button. Enter your reason for withdrawing and click on the 'WITHDRAW BID` button.
+## भागीदारी से हटना
+यदि आप **GeM बिड** से अपनी भागीदारी वापस लेना चाहते हैं, तो आप ऐसा अधिकतम 3 बार कर सकते हैं। ऐसा करने के लिए, निकासी बटन पर क्लिक करें। वापस लेने का अपना कारण दर्ज करें और `WITHDRAW BID` बटन पर क्लिक करें।
 
 ![Bid Participation Withdrawn](/img/doc/bid-participation-withdrawn.jpg)
 
-You can re-participate by clicking on the `RE-PARTICIPATE` button.
+भागीदारी से हटना
+यदि आप **GeM बिड** से अपनी भागीदारी वापस लेना चाहते हैं, तो आप ऐसा अधिकतम 3 बार कर सकते हैं। ऐसा करने के लिए, निकासी बटन पर क्लिक करें। वापस लेने का अपना कारण दर्ज करें और `RE-PARTICIPATE` बटन पर क्लिक करें।

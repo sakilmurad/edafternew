@@ -1,60 +1,60 @@
 ---
 sidebar_position: 2
-sidebar_label: Generate Invoice
-title: Generate Invoice on GeM
-description: Learn the steps to generate invoices against the received orders on GeM (Government e-Marketplace).
+title: जैम पर चालान जनरेट करें
+sidebar_label: चालान जनरेट
+description: GeM (गवर्नमेंट ई-मार्केटप्लेस) पर प्राप्त ऑर्डर के खिलाफ चालान बनाने के चरणों को जानें।
 ---
 
-# Generate Invoice on GeM
-The seller must generate invoices for the orders they receive on GeM in the stipulated time frame to avoid penalty or being account disabled.
+# जैम पर चालान जनरेट करें
+विक्रेता को पेनल्टी से बचने या अकाउंट डिसेबल होने से बचने के लिए निर्धारित समय सीमा में GeM पर प्राप्त होने वाले ऑर्डर के लिए इनवॉइस जेनरेट करना होगा।
 
-You must generate your own invoice as you do for all orders (in Tally, Busy or Excel).
+जैसा कि आप सभी ऑर्डर (टैली, बिजी या एक्सेल में) करते हैं, वैसे ही आपको अपना इनवॉइस जनरेट करना होगा।
 
 :::info
-Once an invoice is generated, it cannot be changed.
+एक बार चालान जनरेट हो जाने के बाद, इसे बदला नहीं जा सकता है।
 :::
 
-## Steps to generate invoices on GeM
-1. Log in to your GeM Seller Account and go to the orders tab
-2. Click on `View Details`
+## GeM पर चालान बनाने की प्रक्रिया
+1. अपने जीईएम विक्रेता खाते में लॉग इन करें और ऑर्डर टैब पर जाएं
+2. `View Details` पर क्लिक करें
 
 ![View Order Details](/img/doc/order-details.jpg)
 
-3. Click on `Generate`
-4. Upload and enter invoice details
+3. `Generate` पर क्लिक करें
+4. चालान विवरण अपलोड करें और दर्ज करें
 
 ![Upload Invoice](/img/doc/upload-invoice.jpg)
 
-5. Upload E-way bill (if applicable)
-6. Enter product(s) details
+5. ई-वे बिल अपलोड करें (यदि लागू हो)
+6. उत्पाद विवरण दर्ज करें
 
 ![Product Details](/img/doc/product-details.jpg)
 
-7. Click on `Preview`
-8. Check the declaration and click on `Create`
+7. `Preview` पर क्लिक करें
+8. डिक्लेरेशन चेक करें और `Create` पर क्लिक करें
 
-You will see a popup for invoice generation confirmation.
+आपको इनवॉइस बनाने की पुष्टि के लिए एक पॉपअप दिखाई देगा।
 
 ![Invoice Generated](/img/doc/invoice-generated.jpg)
 
-Now you need to verify and update delivery details for the same order.
+अब आपको उसी ऑर्डर के लिए डिलीवरी विवरण को सत्यापित और अपडेट करने की आवश्यकता है।
 
-## Verify the generated invoice
+## जेनरेट किए गए चालान को सत्यापित करें
 
 ![Verify Invoice](/img/doc/verify-invoice.jpg)
 
-1. Navigate to `Shipment wise`
-2. Click on the verify icon and verify with the available method
+1. `Shipment wise` पर नेविगेट करें
+2. सत्यापित करें आइकन पर क्लिक करें और उपलब्ध विधि से सत्यापित करें
 
-## Update delivery status
+## डिलीवरी की स्थिति अपडेट करें
 
 ![Delivery Proof](/img/doc/delivery-proof.jpg)
 
-1. In the `Shipment wise`
-2. Click on `Update Delivery Details`
-3. Upload the delivery proof document
-4. Select the delivery date and click on `Submit` to save the details
+1. `Shipment wise` में
+2. `Update Delivery Details` पर क्लिक करें
+3. डिलीवरी प्रूफ दस्तावेज़ अपलोड करें
+4. डिलीवरी की तारीख चुनें और डिटेल्स सेव करने के लिए `Submit` पर क्लिक करें
 
 :::tip
-If you generated the wrong invoice, you can correct it by generating a replacement invoice.
+यदि आपने गलत चालान जनरेट किया है, तो आप एक प्रतिस्थापन चालान बनाकर इसे ठीक कर सकते हैं।
 :::

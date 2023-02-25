@@ -1,22 +1,22 @@
 ---
 sidebar_position: 10
-sidebar_label: Challenges Representation
-title: Challenges Representation on GeM
-description: Learn how to reply against the technically rejected bids on GeM (Government e-Marketplace).
+title: जैम पर प्रतिनिधित्व को चुनौती
+sidebar_label: प्रतिनिधित्व को चुनौती
+description: जीईएम (गवर्नमेंट ई-मार्केटप्लेस) पर तकनीकी रूप से अस्वीकृत बोलियों के खिलाफ जवाब देना सीखें।
 ---
 
-# Challenges Representation on GeM
-Bidders whose bids have been disqualified in technical evaluation may review the reason(s) for rejection by the Buyer and raise a **one-time representation** to challenge the rejection for disqualification within 48 hours after technical evaluation is completed.
+# जैम पर प्रतिनिधित्व को चुनौती
+जिन बोलीदाताओं की बोलियों को तकनीकी मूल्यांकन में अयोग्य घोषित किया गया है, वे खरीदार द्वारा अस्वीकृति के कारणों की समीक्षा कर सकते हैं और तकनीकी मूल्यांकन पूरा होने के 48 घंटे के भीतर अयोग्यता के लिए अस्वीकृति को चुनौती देने के लिए **एक बार प्रतिनिधित्व** कर सकते हैं।
 
-Buyer shall respond to all such representations before proceeding with the Financial Bid Opening.
+खरीदार वित्तीय बोली खोलने की प्रक्रिया से पहले ऐसे सभी अभ्यावेदनों का जवाब देगा।
 
-## Steps
-Log in to your GeM Seller Account and search for a bid in which you are disqualified by the buyer.
-From here, you can view the rejection reason and submit a one-time representation.
+## प्रक्रिया
+अपने जीईएम विक्रेता खाते में लॉग इन करें और उस बोली को खोजें जिसमें आप खरीदार द्वारा अयोग्य घोषित किए गए हैं।
+यहां से, आप अस्वीकृति का कारण देख सकते हैं और एक बार प्रतिनिधित्व प्रस्तुत कर सकते हैं।
 
-## Response
-Once the buyer replies to your representation, you will get an email like this.
+## जवाब
+एक बार जब खरीदार आपके प्रतिनिधित्व का जवाब देता है, तो आपको इस तरह का एक ईमेल प्राप्त होगा।
 
 ![Representation Email](/img/doc/representation.jpg)
 
-[From the technical status](technical-status) of the bid, you can now see whether the buyer accepted your technical bid or not.
+बोली की [तकनीकी स्थिति](technical-status) से, अब आप देख सकते हैं कि खरीदार ने आपकी तकनीकी बोली स्वीकार की या नहीं।

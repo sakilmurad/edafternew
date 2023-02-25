@@ -1,20 +1,20 @@
 ---
 sidebar_position: 4
-sidebar_label: Close
-title: Close an Incident on GeM
-description: Learn how and when should a seller close the incident on GeM (Government e-Marketplace)
+title: जैम  पर एक घटना को बंद करें
+sidebar_label: बंद करें
+description: जानें कि एक विक्रेता को GeM (सरकारी ई-मार्केटप्लेस) पर घटना को कैसे और कब बंद करना चाहिए
 ---
 
-# Close an Incident on GeM
-You can close the incident raised by you if your query is resolved by following the steps below:
-1. Navigate to the incident management dashboard
-2. Click on `All` incidents
-3. Click on the incident you want to close
-4. Click on `Close`
+# जैम  पर एक घटना को बंद करें
+यदि आपके प्रश्न का समाधान नीचे दिए गए चरणों का पालन करके किया जाता है, तो आप अपने द्वारा उठाई गई घटना को बंद कर सकते हैं:
+1. घटना प्रबंधन डैशबोर्ड पर नेविगेट करें
+2. `All` घटनाओं पर क्लिक करें
+3. उस घटना पर क्लिक करें जिसे आप बंद करना चाहते हैं
+4. `Close` पर क्लिक करें
 
 ![Close](/img/doc/incidents/close.jpg)
 
-5. Enter a closing reason
-6. Click on `Escalate`
+5. समापन कारण दर्ज करें
+6. `Close` पर क्लिक करें
 
 ![Close Incident](/img/doc/incidents/close-incident.jpg)

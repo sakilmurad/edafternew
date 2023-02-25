@@ -1,16 +1,16 @@
 ---
 sidebar_position: 9
-sidebar_label: Validity Extension
-title: Validity Extension of GeM Bid
-description: Learn how to accept or reject bid validity extension request as a seller on GeM (Government e-Marketplace).
+title: जैम बोली की वैधता का विस्तार
+sidebar_label: बोली की वैधता का विस्तार
+description: GeM (सरकारी ई-मार्केटप्लेस) पर एक विक्रेता के रूप में बोली वैधता विस्तार अनुरोध को स्वीकार या अस्वीकार करना सीखें।
 ---
 
-# Validity Extension of GeM Bid
-Bid Offer Validity is the period during which the Seller Offer is valid from the Bid End Date. The buyer needs to award the order within the Bid Offer Validity Period. If he is unable to do so, he must request an extension of bid validity from the seller. The seller has to accept/reject the offer validity request within 5 days from the date it was initiated.
+# जैम बोली की वैधता का विस्तार
+बोली ऑफ़र की वैधता वह अवधि है जिसके दौरान विक्रेता ऑफ़र बोली समाप्ति तिथि से मान्य होता है। खरीदार को बोली प्रस्ताव वैधता अवधि के भीतर आदेश देने की आवश्यकता है। यदि वह ऐसा करने में असमर्थ है, तो उसे विक्रेता से बोली की वैधता बढ़ाने का अनुरोध करना चाहिए। विक्रेता को ऑफ़र की वैधता के अनुरोध को शुरू होने की तारीख से 5 दिनों के भीतर स्वीकार/अस्वीकार करना होगा।
 
-You will get an email about the bid validity extension request.
+आपको बोली वैधता विस्तार अनुरोध के बारे में एक ईमेल प्राप्त होगा।
 
 ![Validity extension](/img/doc/offer-validity-extension.jpg)
 
-## Steps
-Log in to your GeM Seller Account and search for bids you have participated in. Accept or reject the request. 
+## प्रक्रिया
+अपने जीईएम विक्रेता खाते में लॉग इन करें और उन बोलियों को खोजें जिनमें आपने भाग लिया है। अनुरोध को स्वीकार या अस्वीकार करें।

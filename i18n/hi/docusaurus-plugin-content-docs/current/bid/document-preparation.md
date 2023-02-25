@@ -1,13 +1,13 @@
 ---
 sidebar_position: 4
-sidebar_label: Document Preparation
-title: Document Preparation for GeM Bid
-description: Learn the steps for preparing documents to participate in GeM (Government e-Marketplace) Bid.
+title: जैम बोली के लिए दस्तावेज तैयार करना
+sidebar_label: दस्तावेज तैयार करना
+description: GeM (सरकारी ई-मार्केटप्लेस) बोली में भाग लेने के लिए दस्तावेज़ तैयार करने के चरणों को जानें।
 ---
 
-# Document Preparation for GeM Bid
-This tutorial will help sellers prepare GeM Participation documents. In order to prepare documents, you need to know which documents the GeM Bid requires. [Learn Bid/RA document requirements](understand-requirement).
+# जैम बोली के लिए दस्तावेज तैयार करना
+यह ट्यूटोरियल विक्रेताओं को GeM भागीदारी दस्तावेज़ तैयार करने में मदद करेगा। दस्तावेज़ तैयार करने के लिए, आपको यह जानना होगा कि GeM बोली के लिए किन दस्तावेज़ों की आवश्यकता है। [जानें बोली/आरए दस्तावेज़ आवश्यकताएं](understand-requirement).
 
-We have already created too many tools to help sellers prepare their documents in a few clicks. All of them are free and easy to use. Explore free tools for creating GeM documents.
+विक्रेताओं को कुछ ही क्लिक में अपने दस्तावेज़ तैयार करने में मदद करने के लिए हमने पहले ही बहुत सारे टूल बना लिए हैं। वे सब के सब स्वतंत्र और प्रयोग करने में आसान हैं। GeM दस्तावेज़ बनाने के लिए मुफ़्त टूल एक्सप्लोर करें।
 
-If you are unable to create a document, you may request one by using [this form](/contact). We will create a tool accordingly at no cost.
+यदि आप एक दस्तावेज़ बनाने में असमर्थ हैं, तो आप [इस फॉर्म](/contact) का उपयोग करके एक अनुरोध कर सकते हैं. हम बिना किसी लागत के तदनुसार एक टूल तैयार करेंगे।

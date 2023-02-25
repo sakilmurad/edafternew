@@ -1,26 +1,26 @@
 ---
 sidebar_position: 1
-sidebar_label: Accept Orders
-title: Accept Orders on GeM
-description: Once you receive a order on GeM, you need to accept it. Learn how to accept orders you receive on GeM (Government e-Marketplace).
+title: जैम पर आदेश स्वीकार करें
+sidebar_label: आदेश स्वीकार करें
+description: एक बार जब आप GeM पर ऑर्डर प्राप्त कर लेते हैं, तो आपको इसे स्वीकार करने की आवश्यकता होती है। जीईएम (गवर्नमेंट ई-मार्केटप्लेस) पर प्राप्त होने वाले ऑर्डर को स्वीकार करना सीखें।
 ---
 
-# Accept Orders on GeM
-GeM has introduced an auto approval system for direct orders. Any direct order placed on GeM will be auto accepted except those:
-1. If an order is placed by a `Red Flagged` Buyer
-2. If the order is freight intensive
+# जैम पर आदेश स्वीकार करें
+GeM ने सीधे ऑर्डर के लिए ऑटो अप्रूवल सिस्टम पेश किया है। GeM पर दिया गया कोई भी सीधा आदेश स्वतः स्वीकार कर लिया जाएगा सिवाय उनके:
+1. यदि एक `Red Flagged` क्रेता द्वारा ऑर्डर दिया जाता है
+2. यदि ऑर्डर भाड़ा सघन है
 
-Once you get an order from the above mentioned scenario, you will get an alert email about that order as follows:
+ऊपर उल्लिखित परिदृश्य से एक बार जब आप एक आदेश प्राप्त करते हैं, तो आपको उस आदेश के बारे में निम्नानुसार एक अलर्ट ईमेल प्राप्त होगा:
 
 ![Order Mail](/img/doc/order-mail.jpg)
 
-You need to accept or decline the order within 120 hours (5 days). If you are unable to take any action in respect of that order, the system will automatically accept that order.
+आपको 120 घंटे (5 दिन) के भीतर आदेश को स्वीकार या अस्वीकार करना होगा। यदि आप उस आदेश के संबंध में कोई कार्रवाई करने में असमर्थ हैं, तो सिस्टम स्वचालित रूप से उस आदेश को स्वीकार कर लेगा।
 
-## Steps
-1. Log in to the GeM Seller Account
+## प्रक्रिया
+1. GeM विक्रेता खाते में लॉग इन करें
 
 ![Order Accept](/img/doc/accept-orders.jpg)
 
-2. Navigate to the orders section and click on the appropriate option to Accept/Decline the order.
+2. आदेश अनुभाग पर नेविगेट करें और आदेश को स्वीकार/अस्वीकार करने के लिए उपयुक्त विकल्प पर क्लिक करें।
 
 ![Accept Accepted](/img/doc/order-accepted.jpg)

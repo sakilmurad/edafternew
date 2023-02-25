@@ -1,20 +1,20 @@
 ---
 sidebar_position: 3
-sidebar_label: Escalate
-title: Escalate an Incident on GeM
-description: Learn to escalate a raised incident on GeM (Government e-Marketplace)
+title: घटना को जैम पर एस्कलेट करें
+sidebar_label: एस्कलेट करें
+description: GeM (सरकारी ई-मार्केटप्लेस) पर उठाई गई घटना को आगे बढ़ाना सीखें
 ---
 
-# Escalate an Incident on GeM
-You can escalate your raised incident to the GeM if the buyer does not reply to your incident by following the steps below:
-1. Navigate to the incident management dashboard
-2. Click on `All` incidents
-3. Click on the incident you want to escalate
-4. Click on `Escalate`
+# घटना को जैम पर एस्कलेट करें
+यदि खरीदार नीचे दिए गए चरणों का पालन करके आपकी घटना का जवाब नहीं देता है, तो आप अपनी उठाई गई घटना को GeM तक बढ़ा सकते हैं:
+1. घटना प्रबंधन डैशबोर्ड पर नेविगेट करें
+2. `All` घटनाओं पर क्लिक करें
+3. उस घटना पर क्लिक करें जिसे आप बढ़ाना चाहते हैं
+4. `Escalate` पर क्लिक करें
 
 ![Escalate](/img/doc/incidents/escalate.jpg)
 
-5. Enter an escalation reason
-6. Click on `Escalate`
+5. एस्केलेशन कारण दर्ज करें
+6. `Escalate` पर क्लिक करें
 
 ![Escalate Reason](/img/doc/incidents/escalation.jpg)

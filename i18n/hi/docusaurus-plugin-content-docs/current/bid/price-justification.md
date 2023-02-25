@@ -1,21 +1,21 @@
 ---
 sidebar_position: 13
-sidebar_label: Price Justification
-title: Price Justification on GeM
-description: Learn how to reply to a Price Justification request raised by a buyer on GeM Portal for a participated bid. 
+title: जैम पर मूल्य औचित्य
+sidebar_label: मूल्य औचित्य
+description: भाग लेने वाली बोली के लिए GeM पोर्टल पर एक खरीदार द्वारा उठाए गए मूल्य औचित्य अनुरोध का जवाब देना सीखें।
 ---
 
-# Price Justification on GeM
-It is not uncommon for sellers to quote rates that cannot be accepted by buyers. In those cases, GeM has introduced a Price Justification window for unworkable L1.
+# जैम पर मूल्य औचित्य
+विक्रेताओं के लिए ऐसी दरें उद्धृत करना असामान्य नहीं है जो खरीदारों द्वारा स्वीकार नहीं की जा सकतीं। उन मामलों में, GeM ने अकार्यशील L1 के लिए मूल्य औचित्य विंडो शुरू की है।
 
-Buyers may ask for **price justification** from sellers for their quoted price. A price justification request may be sent to sellers via email.
+खरीदार अपने उद्धृत मूल्य के लिए विक्रेताओं से **कीमत औचित्य** मांग सकते हैं। ईमेल के माध्यम से विक्रेताओं को मूल्य औचित्य अनुरोध भेजा जा सकता है।
 
 ![Price Justification Email](/img/doc/price-justification-email.jpg)
 
-## Steps
-1. Log in to your GeM Seller Account and search for your participated bid
-2. Click on the `Click to View and Reply`
+## प्रक्रिया
+1. अपने जीईएम विक्रेता खाते में लॉग इन करें और अपनी भागीदारी वाली बोली खोजें
+2. `Click to View and Reply` पर क्लिक करें
 
 ![Price Justification](/img/doc/price-justification.jpg)
 
-3. Enter the remarks and upload justification documents
+3. टिप्पणी दर्ज करें और औचित्य दस्तावेज अपलोड करें

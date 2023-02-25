@@ -1,20 +1,20 @@
 ---
 sidebar_position: 2
-sidebar_label: Reply
-title: Reply to a incident on GeM
-description: Learn how can a seller reply to the incident on GeM (Government e-Marketplace)
+title: जैम  पर एक घटना का उत्तर दें
+sidebar_label: उत्तर दें
+description: जानें कि एक विक्रेता जीईएम (सरकारी ई-मार्केटप्लेस) पर घटना का जवाब कैसे दे सकता है
 ---
 
-# Reply to a incident on GeM
-You can reply to an incident by following the steps below:
-1. Navigate to the incident management dashboard
-2. Click on `All` incidents
-3. Click on the incident you want to reply to
-4. Click on `Respond` to reply
+# जैम  पर एक घटना का उत्तर दें
+आप नीचे दिए गए चरणों का पालन करके किसी घटना का उत्तर दे सकते हैं:
+1. घटना प्रबंधन डैशबोर्ड पर नेविगेट करें
+2. `All` घटनाओं पर क्लिक करें
+3. उस घटना पर क्लिक करें जिसका आप जवाब देना चाहते हैं
+4. जवाब देने के लिए `Respond` पर क्लिक करें
 
 ![Incident Response](/img/doc/incidents/response.jpg)
 
-5. Select those whom you want to respond to and enter a response message
-6. Click on `Submit`
+5. उन्हें चुनें जिन्हें आप जवाब देना चाहते हैं और प्रतिक्रिया संदेश दर्ज करें
+6. `Submit` पर क्लिक करें
 
 ![Incident Response Submit](/img/doc/incidents/create-response.jpg)

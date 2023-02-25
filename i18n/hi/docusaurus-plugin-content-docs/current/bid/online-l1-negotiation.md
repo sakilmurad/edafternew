@@ -1,28 +1,32 @@
 ---
 sidebar_position: 11
-sidebar_label: Online L1 Negotiation
-title: Online L1 Negotiation on GeM
-description: Online L1 Negotiation request to negotiate current L1 price from L1 seller on GeM (Government e-Marketplace)
+title: जैम पर ऑनलाइन एल1 वार्ता
+sidebar_label: ऑनलाइन एल1 वार्ता
+description: GeM (सरकारी ई-मार्केटप्लेस) पर L1 विक्रेता से वर्तमान L1 मूल्य पर बातचीत करने के लिए ऑनलाइन L1 बातचीत अनुरोध
 ---
 
-# Online L1 Negotiation on GeM
-The L1 rate on a bid is sometimes higher than the satisfied or estimated bid value. Buyers can raise a negotiation request through GeM Portal from L1 sellers in such cases.
+# जैम पर ऑनलाइन एल1 वार्ता
+किसी बोली पर L1 दर कभी-कभी संतुष्ट या अनुमानित बोली मूल्य से अधिक होती है। खरीदार ऐसे मामलों में जीईएम पोर्टल के माध्यम से एल1 विक्रेताओं से बातचीत का अनुरोध कर सकते हैं।
 
-## About L1 Negotiation
-- This functionality allows online negotiation with the L1 seller only
-- The buyer will be able to initiate negotiations during the Financial Evaluation stage
-- A maximum of 5 attempts will be allowed to the buyer and the negotiation window will remain
-- Open for 72 hours for each attempt
-- Price history including the initial price quoted by the seller, 1st round negotiated price, 2nd, 3rd, 4th, 5th etc will be available.
-- It will be applicable to both bids and RAs, including schedule-wise evaluation
-- A notification will be sent to the L1 seller when the buyer initiates a negotiation request
+## L1 बातचीत के बारे में
+- यह कार्यक्षमता केवल L1 विक्रेता के साथ ऑनलाइन बातचीत की अनुमति देती है
+- खरीदार वित्तीय मूल्यांकन चरण के दौरान बातचीत शुरू करने में सक्षम होगा
+- खरीदार को अधिकतम 5 प्रयासों की अनुमति होगी और नेगोशिएशन विंडो बनी रहेगी
+- प्रत्येक प्रयास के लिए 72 घंटों के लिए खोलें
+- विक्रेता द्वारा उद्धृत प्रारंभिक मूल्य सहित मूल्य इतिहास, पहले दौर की बातचीत की गई कीमत, दूसरा, तीसरा, चौथा, पांचवां आदि उपलब्ध होगा।
+- यह अनुसूची-वार मूल्यांकन सहित बोलियों और आरए दोनों पर लागू होगा
+- जब खरीदार बातचीत का अनुरोध करता है तो L1 विक्रेता को एक सूचना भेजी जाएगी
 
-## Response to L1 Negotiation
-1. Login to the GeM Seller account
-2. Navigate to the bid section
-3. Search for the GeM bid (You can find the GeM Bid through the mail you received about the intimation of L1 Negotiation)
-4. Click on the `Update Final Price Click Here` button
+## L1 बातचीत का जवाब
+1. जीईएम विक्रेता खाते में लॉग इन करें
+2. बोली अनुभाग पर नेविगेट करें
+3. GeM बोली के लिए खोजें (आप L1 बातचीत की सूचना के बारे में प्राप्त मेल के माध्यम से GeM बोली पा सकते हैं)
+4. `Update Final Price Click Here` बटन पर क्लिक करें
+
 ![Update final price](/img/doc/update-final-price.jpg)
-5. In the pop-up, you can see your existing offerings. Enter the revised unit price.
+
+5. पॉप-अप में, आप अपने मौजूदा ऑफ़र देख सकते हैं। संशोधित इकाई मूल्य दर्ज करें।
+
 ![Online L1 Negotiation](/img/doc/online-l1-negotiation.jpg)
-6. Click on `Confirm & Submit`.
+
+6. `Confirm & Submit` पर क्लिक करें

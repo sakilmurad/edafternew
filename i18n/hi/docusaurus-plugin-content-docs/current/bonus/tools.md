@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
-sidebar_label: Tools
-title: Free tools for GeM
-description: Get access to the all free tools for GeM (Government e-Marketplace) to increase your work efficiency.
+title: जैम के लिए मुफ्त टूल्स 
+sidebar_label: टूल्स 
+description: अपनी कार्यकुशलता बढ़ाने के लिए सभी जैम के लिए फ्री टूल्स (गवर्नमेंट ई-मार्केटप्लेस) तक पहुंच प्राप्त करें।
 ---
 
-# Free tools for GeM
-Edafter offers some free tools to boost your productivity.
-<a href="/tools" class="btn">All Tools</a>
+# जैम के लिए मुफ्त टूल्स 
+Edafter आपकी उत्पादकता को बढ़ाने के लिए कुछ निःशुल्क टूल प्रदान करता है।
+<a href="/tools" class="btn">सभी टूल्स</a>

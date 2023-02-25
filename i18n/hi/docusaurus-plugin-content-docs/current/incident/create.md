@@ -1,17 +1,17 @@
 ---
 sidebar_position: 1
-sidebar_label: Create
-title: Create an Incident on GeM
-description: Learn how to create or open a incident on GeM (Government e-Marketplace).
+title: जैम पर एक घटना बनाएँ
+sidebar_label: बनाएँ
+description: GeM (गवर्नमेंट ई-मार्केटप्लेस) पर घटना बनाना या खोलना सीखें।
 ---
 
-# Create an Incident on GeM
-You can create a new incident by following the steps below:
-1. Go to the incident management tab
-2. Click on the `NEW` button
-3. Search by GeM Contract No
-4. Choose the invoice
-5. Select the appropriate reason for creating the incident
-6. Click on `Submit`
+# जैम पर एक घटना बनाएँ
+आप नीचे दिए गए चरणों का पालन करके एक नई घटना बना सकते हैं:
+1. घटना प्रबंधन टैब पर जाएं
+2. `NEW` बटन पर क्लिक करें
+3. जीईएम अनुबंध संख्या द्वारा खोजें
+4. चालान चुनें
+5. घटना को सृजित करने के लिए उपयुक्त कारण का चयन करें
+6. `Submit` पर क्लिक करें
 
 ![Create an Incident](/img/doc/incidents/create.jpg)
