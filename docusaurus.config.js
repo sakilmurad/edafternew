@@ -128,7 +128,7 @@ const config = {
           'Need support or have any doubt, <a href="/session-book">Book a Session Now</a>',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
-        isCloseable: false,
+        isCloseable: true,
       },
       footer: {
         style: 'light',

@@ -95,6 +95,8 @@ input,
 textarea {
   padding: 1em 0.5rem;
   border-radius: 0.25rem;
+  border: 1px solid #000;
+  font-size: 1rem !important;
   /* border: 0; */
 }
 
