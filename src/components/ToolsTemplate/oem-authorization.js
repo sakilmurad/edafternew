@@ -79,7 +79,7 @@ function OemAuthTemplate(props) {
                   Dear Sir/Ma'am,
                 </Text>
                 <Text style={styles.paragraph}>
-                {"         "}                 We would like to inform you that {props.resellerName} is our authorized distributor for our {props.brand} range of single use products for the above mentioned tender.
+                {"         "}                 We would like to inform you that {props.resellerName} is our authorized distributor for our {props.brand} range of products for the above mentioned tender.
                 </Text>
                 <Text style={styles.paragraph}>
                 They are authorized to quote rates, collect supply orders, make supplies, raise their own invoices and collect payments on our behalf for the above mentioned GeM Bid.
