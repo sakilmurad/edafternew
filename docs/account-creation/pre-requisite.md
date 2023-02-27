@@ -13,14 +13,14 @@ This module covers the prerequisites for registering as a seller on the Governme
 <a href="https://mkp.gem.gov.in/seller-registration-pre-requisites-v1.2.pdf" class="btn">View All Pre-requisites</a>
 
 ## Required Documents
-Below are the required documents for registration of a seller on GeM Portal.
+Below are the required documents for registration as a seller on GeM Portal.
 <Tabs>
   <TabItem value="For Primary User Registration" label="For Primary User Registration">
   <ul>
   <li>User's Aadhaar Number, Virtual ID, or Personal PAN</li>
   <li>Mobile number linked with Aadhaar/Mobile number in case of PAN</li>
   <li>Active Email ID</li>
-  <li>Documents as per Constitution/Business type such as CIN, PAN, DIPP, Udyam Number, ITR details to Complete profile.</li>
+  <li>Documents as per Constitution/Business type such as CIN, PAN, DIPP, Udyam Number, ITR details to complete profile.</li>
   <li>Address details (Registered Address)</li>
   <li>Bank account details</li>
   </ul>
@@ -38,7 +38,7 @@ Below are the required documents for registration of a seller on GeM Portal.
 ## Optional Documents
 Below are some additional documents that need to be uploaded in certain circumstances.
 
-- **ITR** - If you want to participate in Bid and your Date of Incorporation is more than 24 months.
+- **ITR** - If you want to participate in bid and your Date of Incorporation is more than 24 months.
 - **DIPP Number** - If you are registering as a Start-Up then you need DIPP Number and Mobile Number linked linked with DIPP.
 - **MSE** - for MSE registered sellers, they need MSME Certificate and Mobile Number linked with MSME.
 

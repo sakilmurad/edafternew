@@ -46,6 +46,6 @@ Let's see products wise GeM Bids.
 ## How to identify the bid type?
 You can identify the bid type through the following method:
 
-1. If a bid number is like GEM/2023/RA/XXXXX : These types of bids are RA (Reverse Auction) from the initial stage. You can participate in this bid as a normal bid but you can only offer your rate if you are technically qualified.
+1. If a bid number is like GEM/2023/RA/XXXXX : These types of bids are RA (Reverse Auction) from the initial stage. You can participate in this bid as a normal bid, but you can only offer your rate if you are technically qualified.
 2. If a bid number is like GEM/2023/B/XXXXX : You can download the bid document and look for the Bid to RA option (on page 1-2). If the option is Yes. That means the bid will convert to RA after the technical stage.
 3. If a bid number is like GEM/2023/R/XXXX : That means, this RA is created from a Bid

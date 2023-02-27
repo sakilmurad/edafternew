@@ -9,11 +9,11 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # Tax Assessment on GeM
-Enter your ITR details to varify your Tax Assessment in your GeM Seller Profile.
+Enter your ITR details to verify your Tax Assessment in your GeM Seller Profile.
 
 :::info Note
 
-In case your date of incorporation is more than 24 months and you are not providing your ITR records then you will not be able to participate in bids. Your turnover will not reflect in the market as well.
+In case your date of incorporation is more than 24 months, and you are not providing your ITR records, then you will not be able to participate in bids. Your turnover will not reflect in the market as well.
 
 :::
 
@@ -37,7 +37,7 @@ Follow the steps below to add new tax assessment details to your GeM Profile.
 
 :::note
 
-Select appropriate assessment year from the drop-down.For each of the assessment year enter the information on the subsequent columns as following:
+Select an appropriate assessment year from the drop-down. For each of the assessment year, enter the information on the subsequent columns as following:
 - Acknowledgement No. for ITR – Enter the correct Acknowledge No. in this field as submitted in the ITR
 - Sale/Gross Receipts of Business – Net of returns and refunds and duty of taxes if any as submitted in your ITR.
 - Profit and gain from business or profession as submitted in your ITR.
@@ -45,9 +45,9 @@ Select appropriate assessment year from the drop-down.For each of the assessment
 :::
 
 - **PAN** - Enter your personal PAN (Key Person's PAN) Number
-- **ITR Type** - Select proper ITR (as per your ITR Acknowledgment)
+- **ITR Type** - Select proper ITR (as per your ITR Acknowledgement)
 - **Assessment Year** - Select Assessment Year
-- **Acknowledgement number for ITR** - Enter acknowledgement number (printed on ITR filling acknowledgment slip)
+- **Acknowledgement number for ITR** - Enter acknowledgement number (printed on ITR filling acknowledgement slip)
 - **Profit and Gain from Business or Profession** - Enter Profit and Gain you earned in the assessment year from your business
 - **Sale/Gross Receipts of business** - Enter gross sale of your business
 

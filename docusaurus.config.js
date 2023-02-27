@@ -175,7 +175,7 @@ const config = {
                 href: "https://t.me/gemmarketplace",
               },
               {
-                label: 'Youtube',
+                label: 'YouTube',
                 href: 'https://www.youtube.com/channel/UCROFxqRh6JkWtea-tlW4y0Q',
               },
             ],

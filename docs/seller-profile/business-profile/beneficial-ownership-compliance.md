@@ -14,7 +14,7 @@ Simply select first option[^1] and Verify with OTP.
 
 
 - **Sharing Land Border with India**:
-If your are from the country which shared the land border with India, you have to submit the [this declaration](https://assets-bg.gem.gov.in/resources/pdf/registration-of-bidders-from-countries-which-shares-land-border-with-india.pdf).
+If you are from the country which shared the land border with India, you have to submit [this declaration](https://assets-bg.gem.gov.in/resources/pdf/registration-of-bidders-from-countries-which-shares-land-border-with-india.pdf).
 
 Fill out this declaration and select second option[^2].
 Upload the declaration and Verify with OTP.

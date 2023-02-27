@@ -51,7 +51,7 @@ Documents Required for Vendor Assessment Exemption Basis Constitution Type of Se
 
 **Documents should be certified by any two Directors/ Authorized Signatory/Company Secretary**.
 
-All these documents should be uploaded before applying Vendor Assessment Exemption.
+All these documents should be uploaded before applying to Vendor Assessment Exemption.
 
 Follow [this tutorial](/docs/seller-profile/vendor-assessment/assessment-exemption) to apply for vendor assessment exemption.
 

@@ -6,7 +6,7 @@ description: View your seller profile details on GeM (Government e-Marketplace) 
 ---
 
 # Seller Profile on GeM
-This section will show you summary of your Personal Profile with GeM. You can't change anything.
+This section will show you a summary of your Personal Profile with GeM. You can't change anything.
 
 ![Seller Profile](/img/doc/seller-profile.jpg)
 

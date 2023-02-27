@@ -1,11 +1,11 @@
 ---
 sidebar_position: 2
 sidebar_label: Reply
-title: Reply to a incident on GeM
+title: Reply to an incident on GeM
 description: Learn how can a seller reply to the incident on GeM (Government e-Marketplace)
 ---
 
-# Reply to a incident on GeM
+# Reply to an incident on GeM
 You can reply to an incident by following the steps below:
 1. Navigate to the incident management dashboard
 2. Click on `All` incidents

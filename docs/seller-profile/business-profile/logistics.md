@@ -16,4 +16,4 @@ This option will help you to book and manage your consignment directly from the 
 
 :::
 
-Select `Logistics Service Provider` and click on `SAVE`. The system will get you registred with that logistic provider and creat your account. You can manage your shipment through `Dashboard > India Post Dashboard`.
+Select `Logistics Service Provider` and click on `SAVE`. The system will get you registered with that logistic provider and create your account. You can manage your shipment through `Dashboard > India Post Dashboard`.

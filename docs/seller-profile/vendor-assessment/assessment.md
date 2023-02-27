@@ -21,8 +21,8 @@ A Seller can Initiate Vendor assessment for the eligible category. The assessmen
 :::
 
 ## How to initiate vendor assessment
-First you should have go through the [Vendor Assessment Policy document](https://assets-bg.gem.gov.in/resources/upload/shared_doc/vendor-validation-policy-v3_1601553886.pdf).
+First, you should have gone through the [Vendor Assessment Policy document](https://assets-bg.gem.gov.in/resources/upload/shared_doc/vendor-validation-policy-v3_1601553886.pdf).
 
-If you are eligible for the vendor assessment, you can initiate new vendor assessment request by clicking `NEW ASSESSMENT REQUEST` button.
+If you are eligible for the vendor assessment, you can initiate a new vendor assessment request by clicking `NEW ASSESSMENT REQUEST` the button.
 
-Follow this guide to initiate new vendor assessment request: https://assets-bg.gem.gov.in/resources/pdf/user_manual_gem_va.pdf
+Follow this guide to initiate a new vendor assessment request: https://assets-bg.gem.gov.in/resources/pdf/user_manual_gem_va.pdf

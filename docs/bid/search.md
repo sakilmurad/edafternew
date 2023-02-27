@@ -35,6 +35,6 @@ Navigate to the [Advanced search for Ongoing Bids](https://bidplus.gem.gov.in/ad
 ![Advance bid search](/img/doc/advance-bid-search.jpg)
 
 1. **Search by bid/RA Details**: You can search using a bid/RA number or by selecting a specific category.
-2. **Search by Ministry/Organization**: This section allows you to search for ongoing bids by ministry or state. For example, we can only search for ongoing bids published by the Ministry of Defence in Delhi.
+2. **Search by Ministry/Organization**: This section allows you to search for ongoing bids by ministry or state. For example, we can only search for ongoing bids published by the Ministry of Defense in Delhi.
 3. **Search by Consignee Location**: You can search all ongoing bids by consignee location only. For example, if we want to search all bids for Delhi, we can do so from this dashboard.
 4. **Search by BOQ Title**: GeM has introduced BOQ based bidding and made them searchable by BOQ Title. You can search for a BOQ bid also by its title from this dashboard.

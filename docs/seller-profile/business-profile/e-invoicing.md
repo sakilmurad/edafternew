@@ -30,12 +30,12 @@ III | Rs 50 crore | 01.04.2021 | [5/2021 – Central Tax](https://www.cbic.gov.i
 IV | Rs 20 crore | 01.04.2022 | [1/2022 – Central Tax](https://einvoice1.gst.gov.in/Notifications/notfctn-01-central-tax-english-2022.pdf) |
 V | Rs 10 crore | 01.10.2022 | [17/2022 – Central Tax](https://einvoice1.gst.gov.in/Notifications/notfctn-17-central-tax-english-2022.pdf) |
 
-If you are in the above table then you need to declare e-invoicing on the GeM portal.
+If you are in the above table, then you need to declare e-invoicing on the GeM portal.
 
 ### Steps
 
 ![e-Invoice](/img/doc/e-invoice-declaration.jpg)
 
-- **Turnover(max in 3 year)** - Enter your last 3 year's  maximum turnover (should be greater than 20 crores)
+- **Turnover (max in 3 year)** - Enter your last 3 years  maximum turnover (should be greater than 10 crores)
 - **Specific category excluded from compliance to e-invoicing as notified** - Select `No` as you have to declare e-Invoicing. 
 - Click on `GET OTP` and verify with the OTP you receive.

@@ -9,7 +9,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # OEM Panel on GeM
-This module is allow sellers to create new brand or OEM request and manage resellers in existing OEM categories.
+This module is allowing sellers to create new brand or OEM request and manage resellers in existing OEM categories.
 
 <Tabs>
 <TabItem value="New Brand or OEM Requests" label="New Brand or OEM Requests">
@@ -26,7 +26,7 @@ You can manage the catalog and resellers through **OEM Actions**.
 ![OEM Actions](/img/doc/seller-profile/oem-actions.jpg)
 
 ### Manage approvals
-All the resellers who have used your brand can be seen and their catalog can be viewed. There are total three tabs:
+All the resellers who have used your brand can be seen, and their catalog can be viewed. There are total three tabs:
 1. Catalogs
 2. Sellers
 3. Authorizations
@@ -35,7 +35,7 @@ All the resellers who have used your brand can be seen and their catalog can be 
 
 ![Manage Resellers Catalogs](/img/doc/seller-profile/catalogs.jpg)
 
-**Sellers**: All the approved and pending seller can be viewd in this tab. It allows you to see which sellers have listed your brand's products. You can approve or disapprove them directly from this tab.
+**Sellers**: All the approved and pending seller can be viewed in this tab. It allows you to see which sellers have listed your brand's products. You can approve or disapprove them directly from this tab.
 
 ![Manage Resellers](/img/doc/seller-profile/sellers.jpg)
 

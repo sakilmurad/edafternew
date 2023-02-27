@@ -8,7 +8,7 @@ const FeatureList = [
     img: "img/business1.svg",
     description: (
       <>
-        There are too many things to do to succeed in the industry. Don't worry we take care of it. We offer some courses to make it better understand the need of the industry.
+        There are too many things to do to succeed in the industry. Don't worry, we take care of it. We offer some courses to make it better understand the need of the industry.
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     img: "img/business2.svg",
     description: (
       <>
-        GeM (Government e-Marketplace) is an very popular and fast growing online platform for public procurement in India. We help business to grow their business in the government sector.
+        GeM (Government e-Marketplace) is a very popular and fast-growing online platform for public procurement in India. We help business to grow their business in the government sector.
       </>
     ),
   },

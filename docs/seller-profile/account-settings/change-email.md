@@ -10,4 +10,4 @@ Sellers can change their existing Email ids in their GeM Seller account.
 
 ![Change Email](/img/doc/change-email.jpg)
 
-Enter the new Email id and very with the OTP you received on the existing Email (Contact GeM Support team if you have lost access to your existing Email Id).
+Enter the new Email id and verify with the OTP you received on the existing Email (Contact GeM Support team if you have lost access to your existing Email Id).

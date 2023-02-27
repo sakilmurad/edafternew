@@ -14,7 +14,7 @@ Follow the steps below to validate key person details in your GeM seller profile
 - **Authorized Person Name** - Enter the name as per ITR details (Name should be as per PAN)
 - **ITR Type** - Select ITR Type
 - **Assessment Year** - Select Assessment Year as per ITR details
-- **Acknowledgement Number** - Enter acknowledgment number as per ITR return filing details
+- **Acknowledgement Number** - Enter acknowledgement number as per ITR return filing details
 - Click on `VERIFY COMPANY DETAILS`.
 
 If all the details are entered correctly as per ITR, you will see a confirmation message about successfully key person validation.

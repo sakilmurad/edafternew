@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 # GeM Portal Course for Sellers
 
-**[GeM (Government e-Marketplace)](https://gem.gov.in/)** is an online procurement portal launched by Government of India to make public procurements more efficient and transparent.
+**[GeM (Government e-Marketplace)](https://gem.gov.in/)** is an online procurement portal launched by Government of India to make public procurement more efficient and transparent.
 
 GeM Portal is very easy to use software both for Sellers and Buyers.
 
@@ -21,11 +21,11 @@ Edafter offers a **Free GeM Portal Course** for sellers where they can learn and
 
 ## About GeM Portal Training
 
-We have everything ready for you on the site. You can [get started](category/account-creation) for free. There are both written and [video version](https://www.youtube.com/@edafter) available for the course so you can get started with your choice and become an expert of GeM Portal and grow your business in government sectors.
+We have everything ready for you on the site. You can [get started](category/account-creation) for free. There are both written and [video version](https://www.youtube.com/@edafter) available for the course, so you can get started with your choice and become an expert of GeM Portal and grow your business in government sectors.
 
 | Everything is Online | Everything is for Free | Support |
 | ----------- | ----------- | ----------- |
-| We are making everything online. Means you do not need to connect a person who teach you. We build everything on the web. Read in the suitable language and bookmark for future. | Free means Free. There is no hidden charges to be paid by you to starting the training. | You can get in touch with us for any support via mail or telegram. |
+| We are making everything online. Means you do not need to connect to a person who teach you. We build everything on the web. Read in the suitable language and bookmark for future. | Free means Free. There are no hidden charges to be paid by you to starting the training. | You can get in touch with us for any support via mail or telegram. |
 
 **Get access to free [document creator tools](/tools)**
 
@@ -40,7 +40,7 @@ This course is divided into seven sections.
 7. Bonus
 
 ### [Account Creation](category/account-creation)
-Learn about the pre-requisite for a seller or service provider to get their self registered on GeM Portal and all the required steps to be taken for registration.
+Learn about the prerequisite for a seller or service provider to get their self registered on GeM Portal and all the required steps to be taken for registration.
 
 ### [Profile](category/seller-profile)
 Everything about **Caution Money**, **My Company**, **My Action**, **Personal Settings**, and **My Team** is discussed very deeply in this section. This section will help sellers to get their profile 100% complete and start adding their products or services on GeM Portal.
