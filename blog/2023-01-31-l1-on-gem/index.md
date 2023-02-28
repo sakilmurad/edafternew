@@ -3,7 +3,7 @@ slug: l1-on-gem
 title: L1 Comparison on GeM
 authors: murad
 tags: [GeM, L1]
-image: /img/L1_on_GeM.jpg
+image: img/L1_on_GeM.jpg
 ---
 
 Buyers have two ways to procure goods and services from the Gem Portal. One is through Bid/RA and the other is through **Direct Purchase**.
