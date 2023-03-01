@@ -15,9 +15,12 @@ import TabItem from '@theme/TabItem';
 
 GeM Portal is very easy to use software both for Sellers and Buyers.
 
+![Free GeM Seller Course](/img/doc/free-gem-seller-course.jpg)
+
 Edafter offers a **Free GeM Portal Course** for sellers where they can learn and mastery the GeM Portal.
 
 <a class="btn" href="category/account-creation">Get Started</a>
+
 
 ## About GeM Portal Training
 

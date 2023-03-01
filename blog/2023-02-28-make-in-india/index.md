@@ -3,7 +3,7 @@ slug: make-in-india
 title: Make in india on GeM
 authors: murad
 tags: [GeM, MII, Make In India]
-image: img/make-in-india.jpg
+image: ./img/make-in-india.jpg
 ---
 [**The Make in India**](https://www.makeinindia.com/) initiative was launched by the **Prime Minister** in **September 2014** as part of a wider set of nation-building initiatives. Devised to transform India into a global design and manufacturing hub, Make in India was a timely response to a critical situation. By 2013, the much-hyped emerging markets bubble had burst, and India’s growth rate had fallen to its lowest level in a decade. The promise of the BRICS Nations (Brazil, Russia, India, China and South Africa) had faded, and India was tagged as one of the so-called ‘Fragile Five’.
 
