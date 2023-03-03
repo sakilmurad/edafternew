@@ -5,6 +5,7 @@ import {
     Text,
     View,
     Link,
+    Image,
     StyleSheet
   } from "@react-pdf/renderer";
 
@@ -42,6 +43,11 @@ import {
       textAlign: "center",
       color: "grey",
     },
+    image: {
+      marginVertical: 5,
+      marginHorizontal: 100,
+      opacity: .2
+    }
   });
 
 function MiiTemplate(props) {
@@ -84,6 +90,10 @@ function MiiTemplate(props) {
                 </Text>
                 <Text style={styles.paragraph}>For {props.companyName}</Text>
               </View>
+              <Image
+        style={styles.image}
+        src="/img/tools/make-in-india.jpg"
+      />
               <Text style={styles.footer}>
                 This certificate is created by <Link src="https://www.edafter.com/tools/make-in-india">Edafter</Link>.
               </Text>

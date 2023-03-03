@@ -129,7 +129,7 @@ function OEMAuth() {
                   <input type="text" id="bid" name="bid" required />
                 </div>
                 <p>
-                  By Clicking generate button you are agree to our{" "}
+                  By Clicking generate button, you are agreed to our{" "}
                   <Link href="/terms-and-conditions">terms and conditions</Link>
                 </p>
                 <div className="center">
