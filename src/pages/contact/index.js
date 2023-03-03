@@ -12,9 +12,31 @@ function Contact() {
     setLoading(true);
     const data = new FormData(e.currentTarget);
     setName(data.get("name"));
-    // sendMail(data.get("name"), data.get("phone"), data.get("email"), data.get("message"))
-    setLoading(false);
-    setSubmitted(true);
+    var object = {};
+    data.forEach((value, key) => {
+      object[key] = value;
+    });
+    var json = JSON.stringify(object);
+
+    fetch("https://api.web3forms.com/submit", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json"
+      },
+      body: json
+    })
+    .then( async (response) =>{
+      let json = await response.json();
+      if (response.status == 200) {
+        setSubmitted(true);
+        setLoading(false);
+      }
+    })
+    .catch(err =>{
+      console.log(err);
+      setLoading(false);
+    })
   };
 
   return (
@@ -52,6 +74,9 @@ function Contact() {
               <label htmlFor="name">Your Name</label>
               <input type="text" id="name" name="name" required/>
             </div>
+            <input type="hidden" name="access_key" value="c64a61b0-b9d1-4c0f-b533-4aeb48514b03" />
+            <input type="hidden" name="subject" value="New Contact Message on Edafter"/>
+            <input type="hidden" name="from_name" value="Edafter"/>
             <div className="form_field">
               <label htmlFor="email">Email Id</label>
               <input type="email" id="email" name="email" required/>

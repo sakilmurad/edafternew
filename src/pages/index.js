@@ -15,17 +15,19 @@ function HomepageHeader() {
       <div className="container">
         <div className="row">
         <div className="padding-horiz--md col col--6">
-          <video
+        <img src="img/business2.svg" role="img" alt="GeM Portal Course" />
+          {/* <video
             src="img/intro.mp4"
             autoPlay={true}
             muted={true}
             loop={true}
-          ></video>
+          ></video> */}
         </div>
 
         <div className="col col--6">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <p>Learn GeM Portal for free</p>
           <div className={styles.buttons}>
           <Link
             className="button button--primary button--lg"
