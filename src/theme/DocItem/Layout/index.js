@@ -12,6 +12,7 @@ import DocItemContent from '@theme/DocItem/Content';
 import DocBreadcrumbs from '@theme/DocBreadcrumbs';
 import styles from './styles.module.css';
 import Feedback from "../../../components/Feedback"
+import {ArticleAds} from '../../../components/Ads';
 /**
  * Decide if the toc should be rendered, on mobile or desktop viewports
  */
@@ -47,6 +48,7 @@ export default function DocItemLayout({children}) {
           </article>
           <Feedback/>
           <DocItemPaginator />
+          <ArticleAds />
         </div>
       </div>
       {docTOC.desktop && <div className="col col--3">{docTOC.desktop}</div>}

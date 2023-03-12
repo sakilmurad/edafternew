@@ -8,7 +8,7 @@ description: GeM Portal Course for sellers to get their business registered and 
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import Ads from '../src/components/Ads.js';
+import Ads, {ArticleAds} from '../src/components/Ads.js';
 
 # GeM Portal Course for Sellers
 
@@ -58,6 +58,8 @@ A detailed explanation of each step from adding your band to sharing the catalog
 
 ### [Bid/RA](category/bidra)
 One of the most important ways to grow your business on GeM is to participate in GeM Bids. This section will help you to understand Bid/RA requirements, prepare documents, and participate in the Bids.
+
+<ArticleAds />
 
 ### [Orders](category/orders)
 Getting orders on GeM and processing them to get the payments is explained in this section.

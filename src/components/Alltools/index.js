@@ -1,6 +1,7 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import Link from '@docusaurus/Link'
 import styles from "./styles.module.css";
+import {ArticleAds} from '../Ads';
 
 const tools = [
     {
@@ -31,16 +32,26 @@ function RenderTools({Svg, title, description, link}) {
 }
 
 function Alltools() {
+    useEffect(() => {
+        try {
+            (window.adsbygoogle = window.adsbygoogle || []).push({});
+        }
+        catch (e) {
+          console.log(e)
+        }
+    }, [])
   return (
     <section className={styles.features}>
         <div className='container center'>
       <h1 >Free Tools</h1>
       <p>Use tools offered by Edafter to increase your productivity</p>
+      <ArticleAds />
     <div className='row'>
         {tools.map((props, idx) =>(
             <RenderTools key={idx} {...props} />
         ))}
     </div>
+    <ArticleAds />
     </div>
     </section>
   )

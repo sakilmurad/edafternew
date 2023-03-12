@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
 import Loader from "../../components/loader";
@@ -8,6 +8,7 @@ import DownloadIcon from "/img/tools/download.svg";
 import RepeatIcon from "/img/tools/arrow-repeat.svg";
 import Share from "../../components/Share";
 import Feedback from "../../components/Feedback";
+import Ads from "../../components/Ads";
 
 function OEMAuth() {
   const [isLoading, setLoading] = useState(false);
@@ -33,6 +34,15 @@ function OEMAuth() {
     setLoading(false);
   };
 
+  useEffect(() => {
+    try {
+        (window.adsbygoogle = window.adsbygoogle || []).push({});
+    }
+    catch (e) {
+      console.log(e)
+    }
+}, [])
+
   return (
     <Layout
       title="OEM Authorization Certificate Generator for GeM (Government e-Marketplace)"
@@ -54,6 +64,7 @@ function OEMAuth() {
             description="Generate Reseller Authority Letter (OEM Authorization letter) to authorized your Resellers on GeM (Government e-Marketplace)"
           />
           <hr />
+          <Ads/>
           {pdfGenerated ? (
             <>
               <h3 className="margin">OEM Authorization Certificate</h3>
@@ -104,6 +115,7 @@ function OEMAuth() {
                   bidNo={bidNo}
                 />
               </PDFViewer>
+              <Ads/>
             </>
           ) : (
             <form onSubmit={HandleSubmit}>
@@ -142,6 +154,7 @@ function OEMAuth() {
                   )}
                 </div>
               </div>
+              <Ads/>
             </form>
           )}
         </div>
@@ -157,6 +170,7 @@ function OEMAuth() {
           payment.
         </p>
         <hr />
+        <Ads/>
         <h2>Why Reseller Authority Letter in GeM?</h2>
         <p>
           To determine the genuine quotation on GeM Platform, GeM requires OEM
@@ -169,6 +183,7 @@ function OEMAuth() {
           issued by OEM to a reseller in which OEM authorize a reseller to quote
           and supply his products against the said institution.
         </p>
+        <Ads/>
       </main>
     </Layout>
   );

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
 import Loader from "../../components/loader";
@@ -8,6 +8,7 @@ import DownloadIcon from "/img/tools/download.svg";
 import RepeatIcon from "/img/tools/arrow-repeat.svg";
 import Share from "../../components/Share";
 import Feedback from "../../components/Feedback";
+import Ads from "../../components/Ads";
 
 function Mii() {
   const [isLoading, setLoading] = useState(false);
@@ -35,6 +36,15 @@ function Mii() {
     setLoading(false);
   };
 
+  useEffect(() => {
+    try {
+        (window.adsbygoogle = window.adsbygoogle || []).push({});
+    }
+    catch (e) {
+      console.log(e)
+    }
+}, [])
+
   return (
     <Layout
       title="Make In India (MII) Certificate Generator for GeM (Government e-Marketplace)"
@@ -53,6 +63,7 @@ function Mii() {
             description="Generate Make In India (MII) Certificate to participate in class 1 and class 2 Local Supplier on GeM"
           />
           <hr />
+          <Ads/>
           {pdfGenerated ? (
             <>
               <h3 className="margin">
@@ -104,6 +115,7 @@ function Mii() {
                   bidNo={bidNo}
                 />
               </PDFViewer>
+              <Ads/>
             </>
           ) : (
             <form onSubmit={HandleSubmit}>
@@ -143,10 +155,12 @@ function Mii() {
                   )}
                 </div>
               </div>
+              <Ads/>
             </form>
           )}
         </div>
         <hr />
+        <Ads/>
         <Feedback />
         <h3 className="center margin-vert--sm">FAQ</h3>
         <hr />
@@ -171,6 +185,7 @@ function Mii() {
           <a href="https://www.meity.gov.in/esdm/ppo">Read more</a>
         </p>
         <hr />
+        <Ads/>
         <h2>What is Class-I Local supplier?</h2>
         <p>
           A supplier or service provider, whose goods, services or works offered
@@ -188,6 +203,7 @@ function Mii() {
           A supplier or service provider, whose goods, services or works offered
           for procurement, has local content less than or equal to 20%.
         </p>
+        <Ads/>
       </main>
     </Layout>
   );
