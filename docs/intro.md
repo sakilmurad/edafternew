@@ -8,6 +8,7 @@ description: GeM Portal Course for sellers to get their business registered and 
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import Ads from '../src/components/Ads.js';
 
 # GeM Portal Course for Sellers
 
@@ -32,6 +33,8 @@ We have everything ready for you on the site. You can [get started](category/acc
 
 **Get access to free [document creator tools](/tools)**
 
+<Ads />
+
 ## What will you learn?
 This course is divided into seven sections.
 1. Account Creation
@@ -41,6 +44,8 @@ This course is divided into seven sections.
 5. Orders
 6. Incidents
 7. Bonus
+
+<Ads />
 
 ### [Account Creation](category/account-creation)
 Learn about the prerequisite for a seller or service provider to get their self registered on GeM Portal and all the required steps to be taken for registration.
@@ -61,7 +66,9 @@ Getting orders on GeM and processing them to get the payments is explained in th
 The incident management module can be used to report deviations to GEM T&C’s. An incident can be created by a buyer, seller, admin, or system. This module can help sellers resolve their issues.
 
 ### [Bonus](category/bonus)
-A bonus section is added to this online GeM Portal Course in which too many tutorials about GeM Portal and document creator tools are included. These tutorials are included to resolve sellers' issues and help them to create their bid participation documents quickly. 
+A bonus section is added to this online GeM Portal Course in which too many tutorials about GeM Portal and document creator tools are included. These tutorials are included to resolve sellers' issues and help them to create their bid participation documents quickly.
+
+<Ads />
 
 ## Why GeM Portal?
 In the last 6 years, GeM has become increasingly popular. The Government of India has made the entry "32. Development, operation and maintenance of the National Public Procurement Portal—Government e Marketplace". The purchases through GeM by Government users have been authorized and made mandatory by the Ministry of Finance by adding a new Rule No. 149 in the General Financial Rules, 2017.

@@ -11,12 +11,16 @@ export default function DocItem(props) {
   const tawkId = "1gpvev3c6";
 
   useEffect(() => {
-    
     var tawk = new TawkTo(propertyId, tawkId)
-
     tawk.onStatusChange((status) => 
     {
     })
+    try {
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+  }
+  catch (e) {
+    console.log(e)
+  }
 
 }, [])
 
